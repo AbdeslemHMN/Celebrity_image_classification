@@ -1,0 +1,2060 @@
+2025-08-10 19:02:20,519 - INFO - Starting scrape for: Leonardo DiCaprio
+2025-08-10 19:02:26,490 - INFO - Starting scrape for: Emma Watson
+2025-08-10 19:06:21,258 - INFO - Starting scrape for: Leonardo DiCaprio
+2025-08-10 19:06:22,708 - INFO - Found 33 image URLs from Bing Images for Leonardo DiCaprio
+2025-08-10 19:06:22,708 - INFO - Source bing: Found 33 images for Leonardo DiCaprio
+2025-08-10 19:06:25,381 - INFO - Found 0 image URLs from DuckDuckGo for Leonardo DiCaprio
+2025-08-10 19:06:25,381 - INFO - Source duckduckgo: Found 0 images for Leonardo DiCaprio
+2025-08-10 19:06:31,224 - INFO - Google Images response status: 200
+2025-08-10 19:06:31,304 - INFO - Found 0 image URLs from Google Images for Leonardo DiCaprio
+2025-08-10 19:06:31,304 - INFO - Source google: Found 0 images for Leonardo DiCaprio
+2025-08-10 19:06:33,304 - INFO - Total images found for Leonardo DiCaprio: 33
+2025-08-10 19:06:33,570 - INFO - Downloaded: leonardo_dicaprio_bing_0005.jpg
+2025-08-10 19:06:33,613 - INFO - Downloaded: leonardo_dicaprio_bing_0002.jpg
+2025-08-10 19:06:33,621 - INFO - Downloaded: leonardo_dicaprio_bing_0004.jpg
+2025-08-10 19:06:33,757 - INFO - Downloaded: leonardo_dicaprio_bing_0003.jpg
+2025-08-10 19:06:33,838 - INFO - Downloaded: leonardo_dicaprio_bing_0006.jpg
+2025-08-10 19:06:33,939 - INFO - Downloaded: leonardo_dicaprio_bing_0007.jpg
+2025-08-10 19:06:34,031 - INFO - Downloaded: leonardo_dicaprio_bing_0001.jpg
+2025-08-10 19:06:34,053 - INFO - Downloaded: leonardo_dicaprio_bing_0009.jpg
+2025-08-10 19:06:34,221 - INFO - Downloaded: leonardo_dicaprio_bing_0011.jpg
+2025-08-10 19:06:34,304 - INFO - Downloaded: leonardo_dicaprio_bing_0013.jpg
+2025-08-10 19:06:34,306 - INFO - Downloaded: leonardo_dicaprio_bing_0010.jpg
+2025-08-10 19:06:34,469 - INFO - Downloaded: leonardo_dicaprio_bing_0015.jpg
+2025-08-10 19:06:34,632 - INFO - Downloaded: leonardo_dicaprio_bing_0014.jpg
+2025-08-10 19:06:34,719 - INFO - Downloaded: leonardo_dicaprio_bing_0008.jpg
+2025-08-10 19:06:34,839 - INFO - Downloaded: leonardo_dicaprio_bing_0012.jpg
+2025-08-10 19:06:35,041 - INFO - Downloaded: leonardo_dicaprio_bing_0016.jpg
+2025-08-10 19:06:35,163 - INFO - Downloaded: leonardo_dicaprio_bing_0020.jpg
+2025-08-10 19:06:35,238 - INFO - Downloaded: leonardo_dicaprio_bing_0018.jpg
+2025-08-10 19:06:35,689 - INFO - Downloaded: leonardo_dicaprio_bing_0021.jpg
+2025-08-10 19:06:35,901 - INFO - Downloaded: leonardo_dicaprio_bing_0024.jpg
+2025-08-10 19:06:36,173 - INFO - Downloaded: leonardo_dicaprio_bing_0019.jpg
+2025-08-10 19:06:36,388 - INFO - Downloaded: leonardo_dicaprio_bing_0017.jpg
+2025-08-10 19:06:36,441 - INFO - Downloaded: leonardo_dicaprio_bing_0023.jpg
+2025-08-10 19:06:36,572 - INFO - Downloaded: leonardo_dicaprio_bing_0025.jpg
+2025-08-10 19:06:36,701 - ERROR - Error downloading https://www.mdzol.com/u/fotografias/m/2023/10/31/f1280x720-1500506_1632181_5050.jpeg: 403 Client Error: Forbidden for url: https://www.mdzol.com/u/fotografias/m/2023/10/31/f1280x720-1500506_1632181_5050.jpeg
+2025-08-10 19:06:36,874 - ERROR - Error downloading https://pics.filmaffinity.com/leonardo_dicaprio-107096988846060-nm_large.jpg: 403 Client Error: Forbidden for url: https://pics.filmaffinity.com/leonardo_dicaprio-107096988846060-nm_large.jpg
+2025-08-10 19:06:37,221 - INFO - Downloaded: leonardo_dicaprio_bing_0028.jpg
+2025-08-10 19:06:37,274 - INFO - Downloaded: leonardo_dicaprio_bing_0031.jpg
+2025-08-10 19:06:37,430 - INFO - Downloaded: leonardo_dicaprio_bing_0022.jpg
+2025-08-10 19:06:37,590 - INFO - Downloaded: leonardo_dicaprio_bing_0026.jpg
+2025-08-10 19:06:37,915 - INFO - Downloaded: leonardo_dicaprio_bing_0032.jpg
+2025-08-10 19:06:39,586 - INFO - Downloaded: leonardo_dicaprio_bing_0033.jpg
+2025-08-10 19:06:56,657 - ERROR - Error downloading https://www.miblogdecineytv.com/wp-content/uploads/2008/09/LeonardoDicaprio2.jpg: HTTPSConnectionPool(host='www.miblogdecineytv.com', port=443): Max retries exceeded with url: /wp-content/uploads/2008/09/LeonardoDicaprio2.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x75dae560cdd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:06:58,758 - INFO - Starting scrape for: Emma Watson
+2025-08-10 19:06:59,839 - INFO - Found 33 image URLs from Bing Images for Emma Watson
+2025-08-10 19:06:59,839 - INFO - Source bing: Found 33 images for Emma Watson
+2025-08-10 19:07:02,291 - INFO - Found 0 image URLs from DuckDuckGo for Emma Watson
+2025-08-10 19:07:02,292 - INFO - Source duckduckgo: Found 0 images for Emma Watson
+2025-08-10 19:07:06,468 - INFO - Google Images response status: 200
+2025-08-10 19:07:06,556 - INFO - Found 0 image URLs from Google Images for Emma Watson
+2025-08-10 19:07:06,557 - INFO - Source google: Found 0 images for Emma Watson
+2025-08-10 19:07:08,557 - INFO - Total images found for Emma Watson: 33
+2025-08-10 19:07:08,725 - INFO - Downloaded: emma_watson_bing_0004.jpg
+2025-08-10 19:07:08,850 - INFO - Downloaded: emma_watson_bing_0002.jpg
+2025-08-10 19:07:09,005 - INFO - Downloaded: emma_watson_bing_0006.jpg
+2025-08-10 19:07:09,180 - INFO - Downloaded: emma_watson_bing_0005.jpg
+2025-08-10 19:07:09,210 - INFO - Downloaded: emma_watson_bing_0008.jpg
+2025-08-10 19:07:09,230 - INFO - Downloaded: emma_watson_bing_0003.jpg
+2025-08-10 19:07:09,360 - INFO - Downloaded: emma_watson_bing_0007.jpg
+2025-08-10 19:07:09,467 - INFO - Downloaded: emma_watson_bing_0009.jpg
+2025-08-10 19:07:09,487 - INFO - Downloaded: emma_watson_bing_0001.jpg
+2025-08-10 19:07:09,588 - INFO - Downloaded: emma_watson_bing_0012.jpg
+2025-08-10 19:07:09,657 - INFO - Downloaded: emma_watson_bing_0013.jpg
+2025-08-10 19:07:09,774 - INFO - Downloaded: emma_watson_bing_0011.jpg
+2025-08-10 19:07:09,946 - INFO - Downloaded: emma_watson_bing_0016.jpg
+2025-08-10 19:07:10,004 - INFO - Downloaded: emma_watson_bing_0018.jpg
+2025-08-10 19:07:10,126 - INFO - Downloaded: emma_watson_bing_0015.jpg
+2025-08-10 19:07:10,182 - INFO - Downloaded: emma_watson_bing_0014.jpg
+2025-08-10 19:07:10,272 - INFO - Downloaded: emma_watson_bing_0021.jpg
+2025-08-10 19:07:10,274 - INFO - Downloaded: emma_watson_bing_0019.jpg
+2025-08-10 19:07:10,406 - ERROR - Error downloading https://rare-gallery.com/uploads/posts/150129-emma-watson-1920x1200.jpg: 403 Client Error: Forbidden for url: https://rare-gallery.com/uploads/posts/150129-emma-watson-1920x1200.jpg
+2025-08-10 19:07:10,547 - INFO - Downloaded: emma_watson_bing_0023.jpg
+2025-08-10 19:07:10,637 - INFO - Downloaded: emma_watson_bing_0017.jpg
+2025-08-10 19:07:10,781 - INFO - Downloaded: emma_watson_bing_0025.jpg
+2025-08-10 19:07:10,921 - INFO - Downloaded: emma_watson_bing_0026.jpg
+2025-08-10 19:07:10,977 - INFO - Downloaded: emma_watson_bing_0024.jpg
+2025-08-10 19:07:11,222 - INFO - Downloaded: emma_watson_bing_0027.jpg
+2025-08-10 19:07:11,244 - INFO - Downloaded: emma_watson_bing_0020.jpg
+2025-08-10 19:07:11,499 - INFO - Downloaded: emma_watson_bing_0031.jpg
+2025-08-10 19:07:11,546 - INFO - Downloaded: emma_watson_bing_0030.jpg
+2025-08-10 19:07:11,682 - INFO - Downloaded: emma_watson_bing_0032.jpg
+2025-08-10 19:07:11,805 - INFO - Downloaded: emma_watson_bing_0033.jpg
+2025-08-10 19:07:12,309 - INFO - Downloaded: emma_watson_bing_0029.jpg
+2025-08-10 19:07:12,330 - INFO - Downloaded: emma_watson_bing_0028.jpg
+2025-08-10 19:07:12,522 - INFO - Downloaded: emma_watson_bing_0010.jpg
+2025-08-10 19:08:40,261 - INFO - Starting scrape for: Brad Pitt
+2025-08-10 19:08:41,699 - INFO - Found 50 image URLs from Bing Images for Brad Pitt
+2025-08-10 19:08:41,699 - INFO - Source bing: Found 50 images for Brad Pitt
+2025-08-10 19:08:44,172 - INFO - Found 0 image URLs from DuckDuckGo for Brad Pitt
+2025-08-10 19:08:44,172 - INFO - Source duckduckgo: Found 0 images for Brad Pitt
+2025-08-10 19:08:48,650 - INFO - Google Images response status: 200
+2025-08-10 19:08:48,722 - INFO - Found 0 image URLs from Google Images for Brad Pitt
+2025-08-10 19:08:48,723 - INFO - Source google: Found 0 images for Brad Pitt
+2025-08-10 19:08:50,723 - INFO - Total images found for Brad Pitt: 50
+2025-08-10 19:08:51,093 - ERROR - Error downloading https://supercarblondie.com/wp-content/uploads/Brad-Pitt.png: 403 Client Error: Forbidden for url: https://supercarblondie.com/wp-content/uploads/Brad-Pitt.png
+2025-08-10 19:08:51,246 - INFO - Downloaded: brad_pitt_bing_0005.jpg
+2025-08-10 19:08:51,309 - INFO - Downloaded: brad_pitt_bing_0001.jpg
+2025-08-10 19:08:51,312 - INFO - Downloaded: brad_pitt_bing_0006.jpg
+2025-08-10 19:08:51,323 - INFO - Downloaded: brad_pitt_bing_0002.jpg
+2025-08-10 19:08:51,504 - INFO - Downloaded: brad_pitt_bing_0010.jpg
+2025-08-10 19:08:51,683 - INFO - Downloaded: brad_pitt_bing_0008.jpg
+2025-08-10 19:08:51,692 - INFO - Downloaded: brad_pitt_bing_0007.jpg
+2025-08-10 19:08:51,817 - INFO - Downloaded: brad_pitt_bing_0011.jpg
+2025-08-10 19:08:52,000 - INFO - Downloaded: brad_pitt_bing_0009.jpg
+2025-08-10 19:08:52,057 - INFO - Downloaded: brad_pitt_bing_0014.jpg
+2025-08-10 19:08:52,718 - INFO - Downloaded: brad_pitt_bing_0012.jpg
+2025-08-10 19:08:52,824 - INFO - Downloaded: brad_pitt_bing_0016.jpg
+2025-08-10 19:08:53,016 - INFO - Downloaded: brad_pitt_bing_0017.jpg
+2025-08-10 19:08:53,030 - INFO - Downloaded: brad_pitt_bing_0015.jpg
+2025-08-10 19:08:53,114 - INFO - Downloaded: brad_pitt_bing_0003.jpg
+2025-08-10 19:08:53,264 - INFO - Downloaded: brad_pitt_bing_0020.jpg
+2025-08-10 19:08:53,402 - INFO - Downloaded: brad_pitt_bing_0021.jpg
+2025-08-10 19:08:53,489 - INFO - Downloaded: brad_pitt_bing_0018.jpg
+2025-08-10 19:08:53,924 - INFO - Downloaded: brad_pitt_bing_0023.jpg
+2025-08-10 19:08:54,256 - INFO - Downloaded: brad_pitt_bing_0019.jpg
+2025-08-10 19:08:54,285 - INFO - Downloaded: brad_pitt_bing_0013.jpg
+2025-08-10 19:08:54,329 - INFO - Downloaded: brad_pitt_bing_0024.jpg
+2025-08-10 19:08:54,504 - INFO - Downloaded: brad_pitt_bing_0026.jpg
+2025-08-10 19:08:54,990 - INFO - Downloaded: brad_pitt_bing_0027.jpg
+2025-08-10 19:08:55,244 - INFO - Downloaded: brad_pitt_bing_0030.jpg
+2025-08-10 19:08:55,332 - INFO - Downloaded: brad_pitt_bing_0025.jpg
+2025-08-10 19:08:55,374 - INFO - Downloaded: brad_pitt_bing_0029.jpg
+2025-08-10 19:08:55,512 - INFO - Downloaded: brad_pitt_bing_0031.jpg
+2025-08-10 19:08:55,542 - INFO - Downloaded: brad_pitt_bing_0028.jpg
+2025-08-10 19:08:55,672 - INFO - Downloaded: brad_pitt_bing_0033.jpg
+2025-08-10 19:08:55,895 - INFO - Downloaded: brad_pitt_bing_0035.jpg
+2025-08-10 19:08:56,287 - INFO - Downloaded: brad_pitt_bing_0032.jpg
+2025-08-10 19:08:56,415 - INFO - Downloaded: brad_pitt_bing_0036.jpg
+2025-08-10 19:08:56,564 - INFO - Downloaded: brad_pitt_bing_0037.jpg
+2025-08-10 19:08:56,671 - INFO - Downloaded: brad_pitt_bing_0034.jpg
+2025-08-10 19:08:56,979 - INFO - Downloaded: brad_pitt_bing_0040.jpg
+2025-08-10 19:08:57,185 - INFO - Downloaded: brad_pitt_bing_0041.jpg
+2025-08-10 19:08:57,309 - INFO - Downloaded: brad_pitt_bing_0038.jpg
+2025-08-10 19:08:57,556 - INFO - Downloaded: brad_pitt_bing_0039.jpg
+2025-08-10 19:08:57,841 - INFO - Downloaded: brad_pitt_bing_0042.jpg
+2025-08-10 19:08:57,903 - INFO - Downloaded: brad_pitt_bing_0043.jpg
+2025-08-10 19:08:57,974 - INFO - Downloaded: brad_pitt_bing_0045.jpg
+2025-08-10 19:08:58,258 - INFO - Downloaded: brad_pitt_bing_0044.jpg
+2025-08-10 19:08:58,488 - INFO - Downloaded: brad_pitt_bing_0046.jpg
+2025-08-10 19:08:58,576 - INFO - Downloaded: brad_pitt_bing_0049.jpg
+2025-08-10 19:08:58,670 - INFO - Downloaded: brad_pitt_bing_0048.jpg
+2025-08-10 19:08:59,223 - INFO - Downloaded: brad_pitt_bing_0047.jpg
+2025-08-10 19:08:59,317 - INFO - Downloaded: brad_pitt_bing_0050.jpg
+2025-08-10 19:09:13,348 - ERROR - Error downloading https://nashvillegab.com/wp-content/uploads/2025/06/brad-pitt-and-jennifer-aniston-1280x720.webp: HTTPSConnectionPool(host='nashvillegab.com', port=443): Max retries exceeded with url: /wp-content/uploads/2025/06/brad-pitt-and-jennifer-aniston-1280x720.webp (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7413f1d212e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:09:51,298 - INFO - Starting scrape for: Lionel Messi
+2025-08-10 19:09:52,271 - INFO - Found 35 image URLs from Bing Images for Lionel Messi
+2025-08-10 19:09:52,271 - INFO - Source bing: Found 35 images for Lionel Messi
+2025-08-10 19:09:54,998 - INFO - Found 0 image URLs from DuckDuckGo for Lionel Messi
+2025-08-10 19:09:54,999 - INFO - Source duckduckgo: Found 0 images for Lionel Messi
+2025-08-10 19:10:01,964 - INFO - Google Images response status: 200
+2025-08-10 19:10:02,064 - INFO - Found 0 image URLs from Google Images for Lionel Messi
+2025-08-10 19:10:02,065 - INFO - Source google: Found 0 images for Lionel Messi
+2025-08-10 19:10:04,065 - INFO - Total images found for Lionel Messi: 35
+2025-08-10 19:10:04,248 - INFO - Downloaded: lionel_messi_bing_0005.jpg
+2025-08-10 19:10:04,289 - INFO - Downloaded: lionel_messi_bing_0003.jpg
+2025-08-10 19:10:04,490 - INFO - Downloaded: lionel_messi_bing_0006.jpg
+2025-08-10 19:10:04,794 - INFO - Downloaded: lionel_messi_bing_0004.jpg
+2025-08-10 19:10:04,893 - INFO - Downloaded: lionel_messi_bing_0008.jpg
+2025-08-10 19:10:05,035 - INFO - Downloaded: lionel_messi_bing_0009.jpg
+2025-08-10 19:10:05,347 - INFO - Downloaded: lionel_messi_bing_0011.jpg
+2025-08-10 19:10:05,351 - INFO - Downloaded: lionel_messi_bing_0010.jpg
+2025-08-10 19:10:05,487 - INFO - Downloaded: lionel_messi_bing_0002.jpg
+2025-08-10 19:10:05,537 - INFO - Downloaded: lionel_messi_bing_0013.jpg
+2025-08-10 19:10:05,548 - INFO - Downloaded: lionel_messi_bing_0007.jpg
+2025-08-10 19:10:05,778 - INFO - Downloaded: lionel_messi_bing_0012.jpg
+2025-08-10 19:10:05,817 - INFO - Downloaded: lionel_messi_bing_0001.jpg
+2025-08-10 19:10:05,857 - INFO - Downloaded: lionel_messi_bing_0015.jpg
+2025-08-10 19:10:05,916 - INFO - Downloaded: lionel_messi_bing_0014.jpg
+2025-08-10 19:10:06,074 - INFO - Downloaded: lionel_messi_bing_0019.jpg
+2025-08-10 19:10:06,260 - INFO - Downloaded: lionel_messi_bing_0018.jpg
+2025-08-10 19:10:06,559 - INFO - Downloaded: lionel_messi_bing_0022.jpg
+2025-08-10 19:10:06,830 - INFO - Downloaded: lionel_messi_bing_0017.jpg
+2025-08-10 19:10:06,871 - INFO - Downloaded: lionel_messi_bing_0020.jpg
+2025-08-10 19:10:07,012 - ERROR - Error downloading https://c.ndtvimg.com/2022-12/edffec18_lionel-messi_625x300_18_December_22.jpg?im=FaceCrop: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/2022-12/edffec18_lionel-messi_625x300_18_December_22.jpg?im=FaceCrop
+2025-08-10 19:10:07,196 - INFO - Downloaded: lionel_messi_bing_0024.jpg
+2025-08-10 19:10:07,277 - INFO - Downloaded: lionel_messi_bing_0021.jpg
+2025-08-10 19:10:07,505 - INFO - Downloaded: lionel_messi_bing_0016.jpg
+2025-08-10 19:10:07,649 - INFO - Downloaded: lionel_messi_bing_0028.jpg
+2025-08-10 19:10:07,696 - INFO - Downloaded: lionel_messi_bing_0023.jpg
+2025-08-10 19:10:07,743 - INFO - Downloaded: lionel_messi_bing_0029.jpg
+2025-08-10 19:10:07,829 - INFO - Downloaded: lionel_messi_bing_0027.jpg
+2025-08-10 19:10:07,888 - ERROR - Error downloading https://images.wallpapersden.com/image/download/lionel-messi-barcelona-football-player_Z2ZoaWuUmZqaraWkpJRmZ21lrWdmZ2U.jpg: 403 Client Error: Forbidden for url: https://images.wallpapersden.com/image/download/lionel-messi-barcelona-football-player_Z2ZoaWuUmZqaraWkpJRmZ21lrWdmZ2U.jpg
+2025-08-10 19:10:08,038 - INFO - Downloaded: lionel_messi_bing_0033.jpg
+2025-08-10 19:10:08,039 - INFO - Downloaded: lionel_messi_bing_0031.jpg
+2025-08-10 19:10:08,040 - INFO - Downloaded: lionel_messi_bing_0026.jpg
+2025-08-10 19:10:08,109 - INFO - Downloaded: lionel_messi_bing_0034.jpg
+2025-08-10 19:10:08,900 - INFO - Downloaded: lionel_messi_bing_0030.jpg
+2025-08-10 19:10:28,139 - ERROR - Error downloading https://www.planetsport.com/image-library/square/1200/a/argentinas-lionel-messi-poses-with-the-fifa-world-cup-trophy.jpg: HTTPSConnectionPool(host='www.planetsport.com', port=443): Max retries exceeded with url: /image-library/square/1200/a/argentinas-lionel-messi-poses-with-the-fifa-world-cup-trophy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x709700efb3b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:13:12,759 - INFO - Starting scrape for: Elon Musk
+2025-08-10 19:13:13,935 - INFO - Found 33 image URLs from Bing Images for Elon Musk
+2025-08-10 19:13:13,935 - INFO - Source bing: Found 33 images for Elon Musk
+2025-08-10 19:13:16,412 - INFO - Found 0 image URLs from DuckDuckGo for Elon Musk
+2025-08-10 19:13:16,412 - INFO - Source duckduckgo: Found 0 images for Elon Musk
+2025-08-10 19:13:20,542 - INFO - Google Images response status: 200
+2025-08-10 19:13:20,620 - INFO - Found 0 image URLs from Google Images for Elon Musk
+2025-08-10 19:13:20,620 - INFO - Source google: Found 0 images for Elon Musk
+2025-08-10 19:13:22,620 - INFO - Total images found for Elon Musk: 33
+2025-08-10 19:13:23,067 - INFO - Downloaded: elon_musk_bing_0005.jpg
+2025-08-10 19:13:23,163 - INFO - Downloaded: elon_musk_bing_0002.jpg
+2025-08-10 19:13:23,455 - INFO - Downloaded: elon_musk_bing_0003.jpg
+2025-08-10 19:13:23,506 - INFO - Downloaded: elon_musk_bing_0007.jpg
+2025-08-10 19:13:23,509 - INFO - Downloaded: elon_musk_bing_0001.jpg
+2025-08-10 19:13:23,808 - INFO - Downloaded: elon_musk_bing_0009.jpg
+2025-08-10 19:13:24,466 - INFO - Downloaded: elon_musk_bing_0010.jpg
+2025-08-10 19:13:24,468 - INFO - Downloaded: elon_musk_bing_0008.jpg
+2025-08-10 19:13:24,549 - INFO - Downloaded: elon_musk_bing_0011.jpg
+2025-08-10 19:13:24,867 - INFO - Downloaded: elon_musk_bing_0012.jpg
+2025-08-10 19:13:24,899 - INFO - Downloaded: elon_musk_bing_0013.jpg
+2025-08-10 19:13:24,908 - INFO - Downloaded: elon_musk_bing_0014.jpg
+2025-08-10 19:13:25,311 - INFO - Downloaded: elon_musk_bing_0016.jpg
+2025-08-10 19:13:25,360 - INFO - Downloaded: elon_musk_bing_0015.jpg
+2025-08-10 19:13:25,614 - INFO - Downloaded: elon_musk_bing_0018.jpg
+2025-08-10 19:13:25,919 - INFO - Downloaded: elon_musk_bing_0019.jpg
+2025-08-10 19:13:25,928 - INFO - Downloaded: elon_musk_bing_0006.jpg
+2025-08-10 19:13:25,965 - INFO - Downloaded: elon_musk_bing_0020.jpg
+2025-08-10 19:13:26,249 - INFO - Downloaded: elon_musk_bing_0021.jpg
+2025-08-10 19:13:26,371 - INFO - Downloaded: elon_musk_bing_0017.jpg
+2025-08-10 19:13:27,138 - INFO - Downloaded: elon_musk_bing_0022.jpg
+2025-08-10 19:13:27,212 - INFO - Downloaded: elon_musk_bing_0025.jpg
+2025-08-10 19:13:27,271 - INFO - Downloaded: elon_musk_bing_0023.jpg
+2025-08-10 19:13:27,359 - INFO - Downloaded: elon_musk_bing_0026.jpg
+2025-08-10 19:13:27,497 - INFO - Downloaded: elon_musk_bing_0027.jpg
+2025-08-10 19:13:27,564 - INFO - Downloaded: elon_musk_bing_0029.jpg
+2025-08-10 19:13:27,570 - INFO - Downloaded: elon_musk_bing_0028.jpg
+2025-08-10 19:13:27,977 - ERROR - Error downloading https://media.marketrealist.com/brand-img/oR4Z67Ou-/0x0/elon-musks-educational-background-1606307457146.jpg: 502 Server Error: Bad Gateway for url: https://media.marketrealist.com/brand-img/oR4Z67Ou-/0x0/elon-musks-educational-background-1606307457146.jpg
+2025-08-10 19:13:28,209 - INFO - Downloaded: elon_musk_bing_0030.jpg
+2025-08-10 19:13:28,305 - INFO - Downloaded: elon_musk_bing_0031.jpg
+2025-08-10 19:13:28,308 - INFO - Downloaded: elon_musk_bing_0033.jpg
+2025-08-10 19:13:28,982 - INFO - Downloaded: elon_musk_bing_0032.jpg
+2025-08-10 19:13:30,186 - INFO - Downloaded: elon_musk_bing_0024.jpg
+2025-08-10 19:13:32,287 - INFO - Starting scrape for: Bill Gates
+2025-08-10 19:13:33,389 - INFO - Found 33 image URLs from Bing Images for Bill Gates
+2025-08-10 19:13:33,389 - INFO - Source bing: Found 33 images for Bill Gates
+2025-08-10 19:13:35,887 - INFO - Found 0 image URLs from DuckDuckGo for Bill Gates
+2025-08-10 19:13:35,887 - INFO - Source duckduckgo: Found 0 images for Bill Gates
+2025-08-10 19:13:41,413 - INFO - Google Images response status: 200
+2025-08-10 19:13:41,490 - INFO - Found 0 image URLs from Google Images for Bill Gates
+2025-08-10 19:13:41,490 - INFO - Source google: Found 0 images for Bill Gates
+2025-08-10 19:13:43,490 - INFO - Total images found for Bill Gates: 33
+2025-08-10 19:13:43,783 - INFO - Downloaded: bill_gates_bing_0002.jpg
+2025-08-10 19:13:43,957 - INFO - Downloaded: bill_gates_bing_0003.jpg
+2025-08-10 19:13:44,015 - INFO - Downloaded: bill_gates_bing_0004.jpg
+2025-08-10 19:13:44,035 - INFO - Downloaded: bill_gates_bing_0006.jpg
+2025-08-10 19:13:44,140 - INFO - Downloaded: bill_gates_bing_0001.jpg
+2025-08-10 19:13:44,219 - INFO - Downloaded: bill_gates_bing_0007.jpg
+2025-08-10 19:13:44,409 - INFO - Downloaded: bill_gates_bing_0009.jpg
+2025-08-10 19:13:44,642 - INFO - Downloaded: bill_gates_bing_0012.jpg
+2025-08-10 19:13:44,703 - INFO - Downloaded: bill_gates_bing_0011.jpg
+2025-08-10 19:13:44,736 - INFO - Downloaded: bill_gates_bing_0005.jpg
+2025-08-10 19:13:45,029 - INFO - Downloaded: bill_gates_bing_0015.jpg
+2025-08-10 19:13:45,414 - INFO - Downloaded: bill_gates_bing_0013.jpg
+2025-08-10 19:13:45,533 - INFO - Downloaded: bill_gates_bing_0008.jpg
+2025-08-10 19:13:45,568 - INFO - Downloaded: bill_gates_bing_0016.jpg
+2025-08-10 19:13:45,667 - INFO - Downloaded: bill_gates_bing_0019.jpg
+2025-08-10 19:13:45,789 - INFO - Downloaded: bill_gates_bing_0010.jpg
+2025-08-10 19:13:46,073 - INFO - Downloaded: bill_gates_bing_0017.jpg
+2025-08-10 19:13:46,197 - INFO - Downloaded: bill_gates_bing_0021.jpg
+2025-08-10 19:13:46,451 - INFO - Downloaded: bill_gates_bing_0018.jpg
+2025-08-10 19:13:46,877 - INFO - Downloaded: bill_gates_bing_0023.jpg
+2025-08-10 19:13:46,931 - INFO - Downloaded: bill_gates_bing_0022.jpg
+2025-08-10 19:13:47,198 - INFO - Downloaded: bill_gates_bing_0025.jpg
+2025-08-10 19:13:47,270 - INFO - Downloaded: bill_gates_bing_0020.jpg
+2025-08-10 19:13:47,345 - INFO - Downloaded: bill_gates_bing_0024.jpg
+2025-08-10 19:13:47,389 - INFO - Downloaded: bill_gates_bing_0026.jpg
+2025-08-10 19:13:47,824 - INFO - Downloaded: bill_gates_bing_0028.jpg
+2025-08-10 19:13:48,110 - INFO - Downloaded: bill_gates_bing_0030.jpg
+2025-08-10 19:13:48,154 - INFO - Downloaded: bill_gates_bing_0031.jpg
+2025-08-10 19:13:48,284 - ERROR - Error downloading https://cz.forbesmedia.cz/uploads/2021/04/bill-gates.jpg: 403 Client Error: Forbidden for url: https://cz.forbesmedia.cz/uploads/2021/04/bill-gates.jpg
+2025-08-10 19:13:48,483 - INFO - Downloaded: bill_gates_bing_0027.jpg
+2025-08-10 19:13:49,016 - INFO - Downloaded: bill_gates_bing_0029.jpg
+2025-08-10 19:13:49,303 - INFO - Downloaded: bill_gates_bing_0032.jpg
+2025-08-10 19:14:04,790 - ERROR - Error downloading https://andsimple.co/wp-content/uploads/2022/11/cascade-investment-bill-gates-1257x1024.jpg: HTTPSConnectionPool(host='andsimple.co', port=443): Max retries exceeded with url: /wp-content/uploads/2022/11/cascade-investment-bill-gates-1257x1024.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b84a715e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:14:06,891 - INFO - Starting scrape for: Mark Zuckerberg
+2025-08-10 19:14:08,306 - INFO - Found 33 image URLs from Bing Images for Mark Zuckerberg
+2025-08-10 19:14:08,306 - INFO - Source bing: Found 33 images for Mark Zuckerberg
+2025-08-10 19:14:10,901 - INFO - Found 0 image URLs from DuckDuckGo for Mark Zuckerberg
+2025-08-10 19:14:10,901 - INFO - Source duckduckgo: Found 0 images for Mark Zuckerberg
+2025-08-10 19:14:16,031 - INFO - Google Images response status: 200
+2025-08-10 19:14:16,316 - INFO - Found 0 image URLs from Google Images for Mark Zuckerberg
+2025-08-10 19:14:16,317 - INFO - Source google: Found 0 images for Mark Zuckerberg
+2025-08-10 19:14:18,318 - INFO - Total images found for Mark Zuckerberg: 33
+2025-08-10 19:14:18,438 - INFO - Downloaded: mark_zuckerberg_bing_0002.jpg
+2025-08-10 19:14:18,525 - INFO - Downloaded: mark_zuckerberg_bing_0004.jpg
+2025-08-10 19:14:18,639 - INFO - Downloaded: mark_zuckerberg_bing_0006.jpg
+2025-08-10 19:14:18,679 - INFO - Downloaded: mark_zuckerberg_bing_0005.jpg
+2025-08-10 19:14:18,839 - INFO - Downloaded: mark_zuckerberg_bing_0007.jpg
+2025-08-10 19:14:18,994 - INFO - Downloaded: mark_zuckerberg_bing_0003.jpg
+2025-08-10 19:14:19,019 - INFO - Downloaded: mark_zuckerberg_bing_0001.jpg
+2025-08-10 19:14:19,114 - INFO - Downloaded: mark_zuckerberg_bing_0011.jpg
+2025-08-10 19:14:19,164 - INFO - Downloaded: mark_zuckerberg_bing_0008.jpg
+2025-08-10 19:14:19,479 - INFO - Downloaded: mark_zuckerberg_bing_0009.jpg
+2025-08-10 19:14:19,493 - INFO - Downloaded: mark_zuckerberg_bing_0012.jpg
+2025-08-10 19:14:19,792 - INFO - Downloaded: mark_zuckerberg_bing_0010.jpg
+2025-08-10 19:14:19,851 - INFO - Downloaded: mark_zuckerberg_bing_0015.jpg
+2025-08-10 19:14:19,854 - INFO - Downloaded: mark_zuckerberg_bing_0014.jpg
+2025-08-10 19:14:19,935 - INFO - Downloaded: mark_zuckerberg_bing_0013.jpg
+2025-08-10 19:14:20,056 - INFO - Downloaded: mark_zuckerberg_bing_0016.jpg
+2025-08-10 19:14:20,420 - INFO - Downloaded: mark_zuckerberg_bing_0021.jpg
+2025-08-10 19:14:20,455 - INFO - Downloaded: mark_zuckerberg_bing_0018.jpg
+2025-08-10 19:14:20,744 - INFO - Downloaded: mark_zuckerberg_bing_0023.jpg
+2025-08-10 19:14:21,020 - INFO - Downloaded: mark_zuckerberg_bing_0020.jpg
+2025-08-10 19:14:21,138 - INFO - Downloaded: mark_zuckerberg_bing_0019.jpg
+2025-08-10 19:14:21,222 - INFO - Downloaded: mark_zuckerberg_bing_0024.jpg
+2025-08-10 19:14:21,284 - INFO - Downloaded: mark_zuckerberg_bing_0025.jpg
+2025-08-10 19:14:21,399 - INFO - Downloaded: mark_zuckerberg_bing_0022.jpg
+2025-08-10 19:14:21,593 - INFO - Downloaded: mark_zuckerberg_bing_0027.jpg
+2025-08-10 19:14:21,845 - INFO - Downloaded: mark_zuckerberg_bing_0028.jpg
+2025-08-10 19:14:22,116 - INFO - Downloaded: mark_zuckerberg_bing_0031.jpg
+2025-08-10 19:14:22,409 - INFO - Downloaded: mark_zuckerberg_bing_0032.jpg
+2025-08-10 19:14:22,450 - INFO - Downloaded: mark_zuckerberg_bing_0030.jpg
+2025-08-10 19:14:23,141 - INFO - Downloaded: mark_zuckerberg_bing_0026.jpg
+2025-08-10 19:14:23,297 - INFO - Downloaded: mark_zuckerberg_bing_0033.jpg
+2025-08-10 19:14:24,995 - INFO - Downloaded: mark_zuckerberg_bing_0029.jpg
+2025-08-10 19:14:39,940 - ERROR - Error downloading https://static.theceomagazine.net/wp-content/uploads/2018/07/09100940/Cover-story_Zuckerberg_AU0818.jpg: HTTPSConnectionPool(host='static.theceomagazine.net', port=443): Max retries exceeded with url: /wp-content/uploads/2018/07/09100940/Cover-story_Zuckerberg_AU0818.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b8464f470>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:14:42,041 - INFO - Starting scrape for: Satya Nadella
+2025-08-10 19:14:42,688 - INFO - Found 33 image URLs from Bing Images for Satya Nadella
+2025-08-10 19:14:42,688 - INFO - Source bing: Found 33 images for Satya Nadella
+2025-08-10 19:14:45,189 - INFO - Found 0 image URLs from DuckDuckGo for Satya Nadella
+2025-08-10 19:14:45,189 - INFO - Source duckduckgo: Found 0 images for Satya Nadella
+2025-08-10 19:14:49,072 - INFO - Google Images response status: 200
+2025-08-10 19:14:49,195 - INFO - Found 0 image URLs from Google Images for Satya Nadella
+2025-08-10 19:14:49,195 - INFO - Source google: Found 0 images for Satya Nadella
+2025-08-10 19:14:51,196 - INFO - Total images found for Satya Nadella: 33
+2025-08-10 19:14:51,629 - INFO - Downloaded: satya_nadella_bing_0002.jpg
+2025-08-10 19:14:51,790 - INFO - Downloaded: satya_nadella_bing_0001.jpg
+2025-08-10 19:14:51,838 - INFO - Downloaded: satya_nadella_bing_0005.jpg
+2025-08-10 19:14:52,170 - INFO - Downloaded: satya_nadella_bing_0003.jpg
+2025-08-10 19:14:52,560 - INFO - Downloaded: satya_nadella_bing_0007.jpg
+2025-08-10 19:14:52,583 - INFO - Downloaded: satya_nadella_bing_0006.jpg
+2025-08-10 19:14:53,012 - INFO - Downloaded: satya_nadella_bing_0010.jpg
+2025-08-10 19:14:53,099 - INFO - Downloaded: satya_nadella_bing_0009.jpg
+2025-08-10 19:14:53,226 - INFO - Downloaded: satya_nadella_bing_0004.jpg
+2025-08-10 19:14:53,275 - INFO - Downloaded: satya_nadella_bing_0012.jpg
+2025-08-10 19:14:53,537 - INFO - Downloaded: satya_nadella_bing_0015.jpg
+2025-08-10 19:14:53,660 - INFO - Downloaded: satya_nadella_bing_0008.jpg
+2025-08-10 19:14:53,696 - INFO - Downloaded: satya_nadella_bing_0014.jpg
+2025-08-10 19:14:53,914 - INFO - Downloaded: satya_nadella_bing_0017.jpg
+2025-08-10 19:14:54,201 - INFO - Downloaded: satya_nadella_bing_0013.jpg
+2025-08-10 19:14:54,345 - INFO - Downloaded: satya_nadella_bing_0011.jpg
+2025-08-10 19:14:54,525 - INFO - Downloaded: satya_nadella_bing_0016.jpg
+2025-08-10 19:14:54,939 - INFO - Downloaded: satya_nadella_bing_0022.jpg
+2025-08-10 19:14:55,007 - ERROR - Error downloading https://vnmedia.vn/file/8a10a0d36ccebc89016ce0c6fa3e1b83/012024/5_20240102145415.jpg: HTTPSConnectionPool(host='vnmedia.vn', port=443): Max retries exceeded with url: /file/8a10a0d36ccebc89016ce0c6fa3e1b83/012024/5_20240102145415.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))
+2025-08-10 19:14:55,452 - INFO - Downloaded: satya_nadella_bing_0018.jpg
+2025-08-10 19:14:55,715 - INFO - Downloaded: satya_nadella_bing_0024.jpg
+2025-08-10 19:14:56,015 - INFO - Downloaded: satya_nadella_bing_0023.jpg
+2025-08-10 19:14:56,228 - INFO - Downloaded: satya_nadella_bing_0025.jpg
+2025-08-10 19:14:56,371 - ERROR - Error downloading https://c.ndtvimg.com/2023-07/964fctc4_satya-nadella-bloomberg_625x300_20_July_23.jpg: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/2023-07/964fctc4_satya-nadella-bloomberg_625x300_20_July_23.jpg
+2025-08-10 19:14:56,734 - INFO - Downloaded: satya_nadella_bing_0026.jpg
+2025-08-10 19:14:56,742 - INFO - Downloaded: satya_nadella_bing_0027.jpg
+2025-08-10 19:14:56,782 - INFO - Downloaded: satya_nadella_bing_0029.jpg
+2025-08-10 19:14:56,868 - INFO - Downloaded: satya_nadella_bing_0021.jpg
+2025-08-10 19:14:57,057 - INFO - Downloaded: satya_nadella_bing_0031.jpg
+2025-08-10 19:14:57,855 - INFO - Downloaded: satya_nadella_bing_0030.jpg
+2025-08-10 19:14:57,987 - INFO - Downloaded: satya_nadella_bing_0032.jpg
+2025-08-10 19:14:58,245 - INFO - Downloaded: satya_nadella_bing_0033.jpg
+2025-08-10 19:15:13,991 - ERROR - Error downloading https://indicanews.com/wp-content/uploads/2024/04/Satya-Nadella-scaled.jpg: HTTPSConnectionPool(host='indicanews.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Satya-Nadella-scaled.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82f8ff20>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:15:16,093 - INFO - Starting scrape for: Sundar Pichai
+2025-08-10 19:15:16,813 - INFO - Found 33 image URLs from Bing Images for Sundar Pichai
+2025-08-10 19:15:16,813 - INFO - Source bing: Found 33 images for Sundar Pichai
+2025-08-10 19:15:19,201 - INFO - Found 0 image URLs from DuckDuckGo for Sundar Pichai
+2025-08-10 19:15:19,201 - INFO - Source duckduckgo: Found 0 images for Sundar Pichai
+2025-08-10 19:15:23,213 - INFO - Google Images response status: 200
+2025-08-10 19:15:23,312 - INFO - Found 0 image URLs from Google Images for Sundar Pichai
+2025-08-10 19:15:23,312 - INFO - Source google: Found 0 images for Sundar Pichai
+2025-08-10 19:15:25,313 - INFO - Total images found for Sundar Pichai: 33
+2025-08-10 19:15:25,810 - INFO - Downloaded: sundar_pichai_bing_0004.jpg
+2025-08-10 19:15:25,855 - INFO - Downloaded: sundar_pichai_bing_0002.jpg
+2025-08-10 19:15:25,860 - INFO - Downloaded: sundar_pichai_bing_0003.jpg
+2025-08-10 19:15:25,988 - INFO - Downloaded: sundar_pichai_bing_0005.jpg
+2025-08-10 19:15:26,076 - INFO - Downloaded: sundar_pichai_bing_0007.jpg
+2025-08-10 19:15:26,312 - INFO - Downloaded: sundar_pichai_bing_0001.jpg
+2025-08-10 19:15:26,763 - INFO - Downloaded: sundar_pichai_bing_0006.jpg
+2025-08-10 19:15:27,028 - INFO - Downloaded: sundar_pichai_bing_0012.jpg
+2025-08-10 19:15:27,210 - INFO - Downloaded: sundar_pichai_bing_0011.jpg
+2025-08-10 19:15:27,392 - INFO - Downloaded: sundar_pichai_bing_0013.jpg
+2025-08-10 19:15:27,509 - INFO - Downloaded: sundar_pichai_bing_0009.jpg
+2025-08-10 19:15:27,634 - INFO - Downloaded: sundar_pichai_bing_0010.jpg
+2025-08-10 19:15:28,199 - INFO - Downloaded: sundar_pichai_bing_0014.jpg
+2025-08-10 19:15:28,437 - INFO - Downloaded: sundar_pichai_bing_0018.jpg
+2025-08-10 19:15:28,440 - INFO - Downloaded: sundar_pichai_bing_0017.jpg
+2025-08-10 19:15:28,440 - INFO - Downloaded: sundar_pichai_bing_0016.jpg
+2025-08-10 19:15:28,477 - INFO - Downloaded: sundar_pichai_bing_0015.jpg
+2025-08-10 19:15:28,706 - INFO - Downloaded: sundar_pichai_bing_0020.jpg
+2025-08-10 19:15:28,838 - INFO - Downloaded: sundar_pichai_bing_0022.jpg
+2025-08-10 19:15:28,914 - INFO - Downloaded: sundar_pichai_bing_0008.jpg
+2025-08-10 19:15:29,074 - INFO - Downloaded: sundar_pichai_bing_0019.jpg
+2025-08-10 19:15:29,550 - INFO - Downloaded: sundar_pichai_bing_0021.jpg
+2025-08-10 19:15:29,608 - INFO - Downloaded: sundar_pichai_bing_0024.jpg
+2025-08-10 19:15:29,647 - INFO - Downloaded: sundar_pichai_bing_0023.jpg
+2025-08-10 19:15:29,940 - INFO - Downloaded: sundar_pichai_bing_0028.jpg
+2025-08-10 19:15:29,975 - INFO - Downloaded: sundar_pichai_bing_0029.jpg
+2025-08-10 19:15:30,021 - INFO - Downloaded: sundar_pichai_bing_0027.jpg
+2025-08-10 19:15:30,054 - INFO - Downloaded: sundar_pichai_bing_0025.jpg
+2025-08-10 19:15:30,076 - INFO - Downloaded: sundar_pichai_bing_0030.jpg
+2025-08-10 19:15:30,195 - INFO - Downloaded: sundar_pichai_bing_0026.jpg
+2025-08-10 19:15:30,702 - INFO - Downloaded: sundar_pichai_bing_0032.jpg
+2025-08-10 19:15:31,562 - INFO - Downloaded: sundar_pichai_bing_0031.jpg
+2025-08-10 19:15:31,575 - INFO - Downloaded: sundar_pichai_bing_0033.jpg
+2025-08-10 19:15:33,764 - INFO - Starting scrape for: Tim Cook
+2025-08-10 19:15:34,298 - INFO - Found 33 image URLs from Bing Images for Tim Cook
+2025-08-10 19:15:34,299 - INFO - Source bing: Found 33 images for Tim Cook
+2025-08-10 19:15:36,816 - INFO - Found 0 image URLs from DuckDuckGo for Tim Cook
+2025-08-10 19:15:36,816 - INFO - Source duckduckgo: Found 0 images for Tim Cook
+2025-08-10 19:15:41,745 - INFO - Google Images response status: 200
+2025-08-10 19:15:41,837 - INFO - Found 0 image URLs from Google Images for Tim Cook
+2025-08-10 19:15:41,837 - INFO - Source google: Found 0 images for Tim Cook
+2025-08-10 19:15:43,837 - INFO - Total images found for Tim Cook: 33
+2025-08-10 19:15:44,082 - INFO - Downloaded: tim_cook_bing_0001.jpg
+2025-08-10 19:15:44,092 - INFO - Downloaded: tim_cook_bing_0002.jpg
+2025-08-10 19:15:44,420 - INFO - Downloaded: tim_cook_bing_0006.jpg
+2025-08-10 19:15:44,790 - INFO - Downloaded: tim_cook_bing_0005.jpg
+2025-08-10 19:15:45,036 - INFO - Downloaded: tim_cook_bing_0009.jpg
+2025-08-10 19:15:45,180 - INFO - Downloaded: tim_cook_bing_0003.jpg
+2025-08-10 19:15:45,277 - INFO - Downloaded: tim_cook_bing_0010.jpg
+2025-08-10 19:15:45,312 - INFO - Downloaded: tim_cook_bing_0008.jpg
+2025-08-10 19:15:45,442 - INFO - Downloaded: tim_cook_bing_0007.jpg
+2025-08-10 19:15:45,934 - INFO - Downloaded: tim_cook_bing_0014.jpg
+2025-08-10 19:15:46,266 - INFO - Downloaded: tim_cook_bing_0015.jpg
+2025-08-10 19:15:46,425 - INFO - Downloaded: tim_cook_bing_0016.jpg
+2025-08-10 19:15:46,671 - INFO - Downloaded: tim_cook_bing_0013.jpg
+2025-08-10 19:15:46,729 - INFO - Downloaded: tim_cook_bing_0011.jpg
+2025-08-10 19:15:46,978 - INFO - Downloaded: tim_cook_bing_0019.jpg
+2025-08-10 19:15:47,148 - INFO - Downloaded: tim_cook_bing_0018.jpg
+2025-08-10 19:15:47,297 - INFO - Downloaded: tim_cook_bing_0021.jpg
+2025-08-10 19:15:47,427 - INFO - Downloaded: tim_cook_bing_0020.jpg
+2025-08-10 19:15:47,745 - INFO - Downloaded: tim_cook_bing_0017.jpg
+2025-08-10 19:15:47,920 - INFO - Downloaded: tim_cook_bing_0022.jpg
+2025-08-10 19:15:47,936 - INFO - Downloaded: tim_cook_bing_0023.jpg
+2025-08-10 19:15:48,643 - INFO - Downloaded: tim_cook_bing_0025.jpg
+2025-08-10 19:15:48,649 - INFO - Downloaded: tim_cook_bing_0026.jpg
+2025-08-10 19:15:48,774 - INFO - Downloaded: tim_cook_bing_0024.jpg
+2025-08-10 19:15:49,133 - INFO - Downloaded: tim_cook_bing_0029.jpg
+2025-08-10 19:15:49,370 - INFO - Downloaded: tim_cook_bing_0027.jpg
+2025-08-10 19:15:49,608 - INFO - Downloaded: tim_cook_bing_0030.jpg
+2025-08-10 19:15:49,751 - INFO - Downloaded: tim_cook_bing_0031.jpg
+2025-08-10 19:15:49,804 - INFO - Downloaded: tim_cook_bing_0028.jpg
+2025-08-10 19:15:50,818 - INFO - Downloaded: tim_cook_bing_0033.jpg
+2025-08-10 19:15:51,351 - INFO - Downloaded: tim_cook_bing_0032.jpg
+2025-08-10 19:15:55,855 - INFO - Downloaded: tim_cook_bing_0012.jpg
+2025-08-10 19:16:03,935 - ERROR - Error downloading https://applemagazine.com/wp-content/uploads/2019/05/Tim_Cook_headshot_straight.0.jpg: HTTPSConnectionPool(host='applemagazine.com', port=443): Max retries exceeded with url: /wp-content/uploads/2019/05/Tim_Cook_headshot_straight.0.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b84a94230>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:16:06,037 - INFO - Starting scrape for: Linus Torvalds
+2025-08-10 19:16:07,400 - INFO - Found 33 image URLs from Bing Images for Linus Torvalds
+2025-08-10 19:16:07,400 - INFO - Source bing: Found 33 images for Linus Torvalds
+2025-08-10 19:16:09,783 - INFO - Found 0 image URLs from DuckDuckGo for Linus Torvalds
+2025-08-10 19:16:09,783 - INFO - Source duckduckgo: Found 0 images for Linus Torvalds
+2025-08-10 19:16:14,302 - INFO - Google Images response status: 200
+2025-08-10 19:16:14,419 - INFO - Found 0 image URLs from Google Images for Linus Torvalds
+2025-08-10 19:16:14,419 - INFO - Source google: Found 0 images for Linus Torvalds
+2025-08-10 19:16:16,420 - INFO - Total images found for Linus Torvalds: 33
+2025-08-10 19:16:16,735 - INFO - Downloaded: linus_torvalds_bing_0003.jpg
+2025-08-10 19:16:17,144 - INFO - Downloaded: linus_torvalds_bing_0002.jpg
+2025-08-10 19:16:17,167 - INFO - Downloaded: linus_torvalds_bing_0004.jpg
+2025-08-10 19:16:17,387 - INFO - Downloaded: linus_torvalds_bing_0001.jpg
+2025-08-10 19:16:18,649 - INFO - Downloaded: linus_torvalds_bing_0005.jpg
+2025-08-10 19:16:18,717 - INFO - Downloaded: linus_torvalds_bing_0006.jpg
+2025-08-10 19:16:18,992 - INFO - Downloaded: linus_torvalds_bing_0011.jpg
+2025-08-10 19:16:19,042 - INFO - Downloaded: linus_torvalds_bing_0008.jpg
+2025-08-10 19:16:19,219 - INFO - Downloaded: linus_torvalds_bing_0012.jpg
+2025-08-10 19:16:19,345 - INFO - Downloaded: linus_torvalds_bing_0009.jpg
+2025-08-10 19:16:19,557 - INFO - Downloaded: linus_torvalds_bing_0007.jpg
+2025-08-10 19:16:19,645 - INFO - Downloaded: linus_torvalds_bing_0014.jpg
+2025-08-10 19:16:19,790 - INFO - Downloaded: linus_torvalds_bing_0010.jpg
+2025-08-10 19:16:19,837 - INFO - Downloaded: linus_torvalds_bing_0013.jpg
+2025-08-10 19:16:19,985 - INFO - Downloaded: linus_torvalds_bing_0016.jpg
+2025-08-10 19:16:19,986 - ERROR - Error downloading https://d9v7j6n3.rocketcdn.me/wp-content/uploads/2020/06/linus-torvalds-2-1024x768.jpg: HTTPSConnectionPool(host='d9v7j6n3.rocketcdn.me', port=443): Max retries exceeded with url: /wp-content/uploads/2020/06/linus-torvalds-2-1024x768.jpg (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'd9v7j6n3.rocketcdn.me'. (_ssl.c:1000)")))
+2025-08-10 19:16:20,377 - INFO - Downloaded: linus_torvalds_bing_0019.jpg
+2025-08-10 19:16:20,663 - INFO - Downloaded: linus_torvalds_bing_0022.jpg
+2025-08-10 19:16:20,742 - INFO - Downloaded: linus_torvalds_bing_0017.jpg
+2025-08-10 19:16:21,020 - INFO - Downloaded: linus_torvalds_bing_0020.jpg
+2025-08-10 19:16:21,033 - INFO - Downloaded: linus_torvalds_bing_0023.jpg
+2025-08-10 19:16:21,055 - INFO - Downloaded: linus_torvalds_bing_0015.jpg
+2025-08-10 19:16:21,102 - INFO - Downloaded: linus_torvalds_bing_0024.jpg
+2025-08-10 19:16:21,308 - INFO - Downloaded: linus_torvalds_bing_0025.jpg
+2025-08-10 19:16:21,726 - INFO - Downloaded: linus_torvalds_bing_0021.jpg
+2025-08-10 19:16:21,766 - INFO - Downloaded: linus_torvalds_bing_0029.jpg
+2025-08-10 19:16:21,790 - INFO - Downloaded: linus_torvalds_bing_0028.jpg
+2025-08-10 19:16:21,947 - INFO - Downloaded: linus_torvalds_bing_0031.jpg
+2025-08-10 19:16:21,966 - INFO - Downloaded: linus_torvalds_bing_0027.jpg
+2025-08-10 19:16:21,972 - INFO - Downloaded: linus_torvalds_bing_0032.jpg
+2025-08-10 19:16:22,220 - INFO - Downloaded: linus_torvalds_bing_0033.jpg
+2025-08-10 19:16:22,356 - INFO - Downloaded: linus_torvalds_bing_0030.jpg
+2025-08-10 19:16:22,639 - INFO - Downloaded: linus_torvalds_bing_0026.jpg
+2025-08-10 19:16:24,740 - INFO - Starting scrape for: Jeff Bezos
+2025-08-10 19:16:25,346 - INFO - Found 33 image URLs from Bing Images for Jeff Bezos
+2025-08-10 19:16:25,346 - INFO - Source bing: Found 33 images for Jeff Bezos
+2025-08-10 19:16:27,681 - INFO - Found 0 image URLs from DuckDuckGo for Jeff Bezos
+2025-08-10 19:16:27,682 - INFO - Source duckduckgo: Found 0 images for Jeff Bezos
+2025-08-10 19:16:34,470 - INFO - Google Images response status: 200
+2025-08-10 19:16:34,570 - INFO - Found 0 image URLs from Google Images for Jeff Bezos
+2025-08-10 19:16:34,571 - INFO - Source google: Found 0 images for Jeff Bezos
+2025-08-10 19:16:36,571 - INFO - Total images found for Jeff Bezos: 33
+2025-08-10 19:16:36,830 - INFO - Downloaded: jeff_bezos_bing_0004.jpg
+2025-08-10 19:16:36,869 - INFO - Downloaded: jeff_bezos_bing_0002.jpg
+2025-08-10 19:16:36,949 - INFO - Downloaded: jeff_bezos_bing_0003.jpg
+2025-08-10 19:16:36,983 - INFO - Downloaded: jeff_bezos_bing_0001.jpg
+2025-08-10 19:16:37,030 - INFO - Downloaded: jeff_bezos_bing_0007.jpg
+2025-08-10 19:16:37,065 - INFO - Downloaded: jeff_bezos_bing_0006.jpg
+2025-08-10 19:16:37,184 - INFO - Downloaded: jeff_bezos_bing_0008.jpg
+2025-08-10 19:16:37,293 - INFO - Downloaded: jeff_bezos_bing_0005.jpg
+2025-08-10 19:16:37,402 - INFO - Downloaded: jeff_bezos_bing_0010.jpg
+2025-08-10 19:16:37,424 - INFO - Downloaded: jeff_bezos_bing_0012.jpg
+2025-08-10 19:16:37,516 - INFO - Downloaded: jeff_bezos_bing_0013.jpg
+2025-08-10 19:16:37,618 - INFO - Downloaded: jeff_bezos_bing_0014.jpg
+2025-08-10 19:16:37,625 - INFO - Downloaded: jeff_bezos_bing_0009.jpg
+2025-08-10 19:16:37,738 - INFO - Downloaded: jeff_bezos_bing_0018.jpg
+2025-08-10 19:16:37,754 - INFO - Downloaded: jeff_bezos_bing_0015.jpg
+2025-08-10 19:16:38,018 - INFO - Downloaded: jeff_bezos_bing_0019.jpg
+2025-08-10 19:16:38,091 - INFO - Downloaded: jeff_bezos_bing_0017.jpg
+2025-08-10 19:16:38,138 - INFO - Downloaded: jeff_bezos_bing_0020.jpg
+2025-08-10 19:16:38,561 - INFO - Downloaded: jeff_bezos_bing_0021.jpg
+2025-08-10 19:16:38,691 - INFO - Downloaded: jeff_bezos_bing_0011.jpg
+2025-08-10 19:16:38,705 - INFO - Downloaded: jeff_bezos_bing_0016.jpg
+2025-08-10 19:16:38,773 - INFO - Downloaded: jeff_bezos_bing_0022.jpg
+2025-08-10 19:16:38,785 - INFO - Downloaded: jeff_bezos_bing_0024.jpg
+2025-08-10 19:16:39,148 - INFO - Downloaded: jeff_bezos_bing_0026.jpg
+2025-08-10 19:16:39,212 - INFO - Downloaded: jeff_bezos_bing_0025.jpg
+2025-08-10 19:16:39,216 - INFO - Downloaded: jeff_bezos_bing_0029.jpg
+2025-08-10 19:16:39,454 - INFO - Downloaded: jeff_bezos_bing_0027.jpg
+2025-08-10 19:16:39,503 - INFO - Downloaded: jeff_bezos_bing_0023.jpg
+2025-08-10 19:16:39,549 - INFO - Downloaded: jeff_bezos_bing_0031.jpg
+2025-08-10 19:16:39,740 - INFO - Downloaded: jeff_bezos_bing_0032.jpg
+2025-08-10 19:16:39,975 - INFO - Downloaded: jeff_bezos_bing_0028.jpg
+2025-08-10 19:16:40,223 - INFO - Downloaded: jeff_bezos_bing_0033.jpg
+2025-08-10 19:16:45,266 - INFO - Downloaded: jeff_bezos_bing_0030.jpg
+2025-08-10 19:16:47,367 - INFO - Starting scrape for: Steve Wozniak
+2025-08-10 19:16:48,061 - INFO - Found 33 image URLs from Bing Images for Steve Wozniak
+2025-08-10 19:16:48,061 - INFO - Source bing: Found 33 images for Steve Wozniak
+2025-08-10 19:16:50,519 - INFO - Found 0 image URLs from DuckDuckGo for Steve Wozniak
+2025-08-10 19:16:50,520 - INFO - Source duckduckgo: Found 0 images for Steve Wozniak
+2025-08-10 19:16:55,401 - INFO - Google Images response status: 200
+2025-08-10 19:16:55,491 - INFO - Found 0 image URLs from Google Images for Steve Wozniak
+2025-08-10 19:16:55,492 - INFO - Source google: Found 0 images for Steve Wozniak
+2025-08-10 19:16:57,492 - INFO - Total images found for Steve Wozniak: 33
+2025-08-10 19:16:57,699 - INFO - Downloaded: steve_wozniak_bing_0005.jpg
+2025-08-10 19:16:57,803 - ERROR - Error downloading https://scaleglobalsummit.com/wp-content/uploads/2023/03/steve-wozniak.jpg: 403 Client Error: Forbidden for url: https://scaleglobalsummit.com/wp-content/uploads/2023/03/steve-wozniak.jpg
+2025-08-10 19:16:57,896 - INFO - Downloaded: steve_wozniak_bing_0003.jpg
+2025-08-10 19:16:58,004 - INFO - Downloaded: steve_wozniak_bing_0002.jpg
+2025-08-10 19:16:58,142 - INFO - Downloaded: steve_wozniak_bing_0007.jpg
+2025-08-10 19:16:58,199 - INFO - Downloaded: steve_wozniak_bing_0001.jpg
+2025-08-10 19:16:58,404 - INFO - Downloaded: steve_wozniak_bing_0004.jpg
+2025-08-10 19:16:58,516 - INFO - Downloaded: steve_wozniak_bing_0008.jpg
+2025-08-10 19:16:58,818 - INFO - Downloaded: steve_wozniak_bing_0011.jpg
+2025-08-10 19:16:58,886 - INFO - Downloaded: steve_wozniak_bing_0012.jpg
+2025-08-10 19:16:59,210 - INFO - Downloaded: steve_wozniak_bing_0009.jpg
+2025-08-10 19:16:59,352 - INFO - Downloaded: steve_wozniak_bing_0014.jpg
+2025-08-10 19:16:59,367 - INFO - Downloaded: steve_wozniak_bing_0013.jpg
+2025-08-10 19:16:59,523 - ERROR - Error downloading https://c.ndtvimg.com/2023-11/598o7ilg_steve-wozniak-reuters_625x300_09_November_23.jpeg: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/2023-11/598o7ilg_steve-wozniak-reuters_625x300_09_November_23.jpeg
+2025-08-10 19:16:59,879 - INFO - Downloaded: steve_wozniak_bing_0019.jpg
+2025-08-10 19:16:59,911 - INFO - Downloaded: steve_wozniak_bing_0017.jpg
+2025-08-10 19:17:00,222 - INFO - Downloaded: steve_wozniak_bing_0020.jpg
+2025-08-10 19:17:00,314 - INFO - Downloaded: steve_wozniak_bing_0015.jpg
+2025-08-10 19:17:00,503 - INFO - Downloaded: steve_wozniak_bing_0022.jpg
+2025-08-10 19:17:00,658 - INFO - Downloaded: steve_wozniak_bing_0021.jpg
+2025-08-10 19:17:00,947 - INFO - Downloaded: steve_wozniak_bing_0024.jpg
+2025-08-10 19:17:01,032 - INFO - Downloaded: steve_wozniak_bing_0025.jpg
+2025-08-10 19:17:01,297 - ERROR - Error downloading https://www.speakers.ca/wp-content/uploads/2012/12/Wozniak_Steve2.jpg: 403 Client Error: Forbidden for url: https://www.speakers.ca/wp-content/uploads/2012/12/Wozniak_Steve2.jpg
+2025-08-10 19:17:01,309 - INFO - Downloaded: steve_wozniak_bing_0026.jpg
+2025-08-10 19:17:01,406 - ERROR - Error downloading https://detail-technologies.co.uk/wp-content/uploads/2021/06/Steve-Wozniak.jpg: HTTPSConnectionPool(host='detail-technologies.co.uk', port=443): Max retries exceeded with url: /wp-content/uploads/2021/06/Steve-Wozniak.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:17:01,528 - INFO - Downloaded: steve_wozniak_bing_0028.jpg
+2025-08-10 19:17:02,030 - INFO - Downloaded: steve_wozniak_bing_0016.jpg
+2025-08-10 19:17:02,341 - INFO - Downloaded: steve_wozniak_bing_0030.jpg
+2025-08-10 19:17:02,563 - INFO - Downloaded: steve_wozniak_bing_0033.jpg
+2025-08-10 19:17:02,894 - INFO - Downloaded: steve_wozniak_bing_0031.jpg
+2025-08-10 19:17:02,993 - INFO - Downloaded: steve_wozniak_bing_0032.jpg
+2025-08-10 19:17:18,226 - ERROR - Error downloading https://dazeinfo.com/wp-content/uploads/2015/08/steve-wozniak-2.jpg: HTTPSConnectionPool(host='dazeinfo.com', port=443): Max retries exceeded with url: /wp-content/uploads/2015/08/steve-wozniak-2.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82c240e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:17:20,408 - ERROR - Error downloading https://methodshop.com/wp-content/uploads/steve-wozniak-1600x900.jpg: HTTPSConnectionPool(host='methodshop.com', port=443): Max retries exceeded with url: /wp-content/uploads/steve-wozniak-1600x900.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b8308bf50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:17:22,509 - INFO - Starting scrape for: Jensen Huang
+2025-08-10 19:17:23,170 - INFO - Found 33 image URLs from Bing Images for Jensen Huang
+2025-08-10 19:17:23,170 - INFO - Source bing: Found 33 images for Jensen Huang
+2025-08-10 19:17:25,578 - INFO - Found 0 image URLs from DuckDuckGo for Jensen Huang
+2025-08-10 19:17:25,578 - INFO - Source duckduckgo: Found 0 images for Jensen Huang
+2025-08-10 19:17:29,740 - INFO - Google Images response status: 200
+2025-08-10 19:17:29,871 - INFO - Found 0 image URLs from Google Images for Jensen Huang
+2025-08-10 19:17:29,872 - INFO - Source google: Found 0 images for Jensen Huang
+2025-08-10 19:17:31,872 - INFO - Total images found for Jensen Huang: 33
+2025-08-10 19:17:32,059 - INFO - Downloaded: jensen_huang_bing_0003.jpg
+2025-08-10 19:17:32,164 - INFO - Downloaded: jensen_huang_bing_0001.jpg
+2025-08-10 19:17:32,442 - INFO - Downloaded: jensen_huang_bing_0006.jpg
+2025-08-10 19:17:32,463 - INFO - Downloaded: jensen_huang_bing_0004.jpg
+2025-08-10 19:17:32,665 - INFO - Downloaded: jensen_huang_bing_0007.jpg
+2025-08-10 19:17:32,781 - INFO - Downloaded: jensen_huang_bing_0009.jpg
+2025-08-10 19:17:33,018 - INFO - Downloaded: jensen_huang_bing_0008.jpg
+2025-08-10 19:17:33,093 - INFO - Downloaded: jensen_huang_bing_0002.jpg
+2025-08-10 19:17:33,220 - INFO - Downloaded: jensen_huang_bing_0013.jpg
+2025-08-10 19:17:33,241 - INFO - Downloaded: jensen_huang_bing_0011.jpg
+2025-08-10 19:17:33,283 - INFO - Downloaded: jensen_huang_bing_0005.jpg
+2025-08-10 19:17:33,511 - WARNING - Invalid image: https://preview.redd.it/resilience-matters-in-success-jensen-huang-v0-lsn4toqm9boc1.jpeg?auto=webp&s=c457faab78c410090fffa9f664e04a71b73df795
+2025-08-10 19:17:33,599 - INFO - Downloaded: jensen_huang_bing_0010.jpg
+2025-08-10 19:17:33,629 - INFO - Downloaded: jensen_huang_bing_0015.jpg
+2025-08-10 19:17:33,681 - INFO - Downloaded: jensen_huang_bing_0014.jpg
+2025-08-10 19:17:33,745 - INFO - Downloaded: jensen_huang_bing_0018.jpg
+2025-08-10 19:17:33,852 - INFO - Downloaded: jensen_huang_bing_0019.jpg
+2025-08-10 19:17:34,172 - INFO - Downloaded: jensen_huang_bing_0021.jpg
+2025-08-10 19:17:34,446 - INFO - Downloaded: jensen_huang_bing_0023.jpg
+2025-08-10 19:17:34,745 - INFO - Downloaded: jensen_huang_bing_0017.jpg
+2025-08-10 19:17:34,918 - INFO - Downloaded: jensen_huang_bing_0025.jpg
+2025-08-10 19:17:34,971 - INFO - Downloaded: jensen_huang_bing_0024.jpg
+2025-08-10 19:17:35,142 - INFO - Downloaded: jensen_huang_bing_0020.jpg
+2025-08-10 19:17:35,320 - INFO - Downloaded: jensen_huang_bing_0016.jpg
+2025-08-10 19:17:35,607 - INFO - Downloaded: jensen_huang_bing_0029.jpg
+2025-08-10 19:17:35,783 - INFO - Downloaded: jensen_huang_bing_0028.jpg
+2025-08-10 19:17:36,243 - INFO - Downloaded: jensen_huang_bing_0022.jpg
+2025-08-10 19:17:36,290 - INFO - Downloaded: jensen_huang_bing_0027.jpg
+2025-08-10 19:17:36,538 - INFO - Downloaded: jensen_huang_bing_0032.jpg
+2025-08-10 19:17:36,649 - INFO - Downloaded: jensen_huang_bing_0026.jpg
+2025-08-10 19:17:37,406 - INFO - Downloaded: jensen_huang_bing_0030.jpg
+2025-08-10 19:17:55,856 - ERROR - Error downloading https://www.eyerys.com/sites/default/files/jensen-huang-71b.webp: HTTPSConnectionPool(host='www.eyerys.com', port=443): Max retries exceeded with url: /sites/default/files/jensen-huang-71b.webp (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83296180>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:17:56,368 - ERROR - Error downloading https://marriedceleb.com/uploads/biography/2020/10/19/466612094 (1)-1603096537178.jpg: HTTPSConnectionPool(host='marriedceleb.com', port=443): Max retries exceeded with url: /uploads/biography/2020/10/19/466612094%20(1)-1603096537178.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b8324d760>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:17:58,469 - INFO - Starting scrape for: Demis Hassabis
+2025-08-10 19:17:59,728 - INFO - Found 33 image URLs from Bing Images for Demis Hassabis
+2025-08-10 19:17:59,728 - INFO - Source bing: Found 33 images for Demis Hassabis
+2025-08-10 19:18:02,144 - INFO - Found 0 image URLs from DuckDuckGo for Demis Hassabis
+2025-08-10 19:18:02,145 - INFO - Source duckduckgo: Found 0 images for Demis Hassabis
+2025-08-10 19:18:06,373 - INFO - Google Images response status: 200
+2025-08-10 19:18:06,454 - INFO - Found 0 image URLs from Google Images for Demis Hassabis
+2025-08-10 19:18:06,454 - INFO - Source google: Found 0 images for Demis Hassabis
+2025-08-10 19:18:08,455 - INFO - Total images found for Demis Hassabis: 33
+2025-08-10 19:18:09,200 - INFO - Downloaded: demis_hassabis_bing_0001.jpg
+2025-08-10 19:18:09,506 - INFO - Downloaded: demis_hassabis_bing_0004.jpg
+2025-08-10 19:18:09,830 - INFO - Downloaded: demis_hassabis_bing_0003.jpg
+2025-08-10 19:18:10,421 - INFO - Downloaded: demis_hassabis_bing_0005.jpg
+2025-08-10 19:18:11,726 - INFO - Downloaded: demis_hassabis_bing_0009.jpg
+2025-08-10 19:18:11,783 - INFO - Downloaded: demis_hassabis_bing_0002.jpg
+2025-08-10 19:18:11,816 - INFO - Downloaded: demis_hassabis_bing_0007.jpg
+2025-08-10 19:18:12,073 - INFO - Downloaded: demis_hassabis_bing_0011.jpg
+2025-08-10 19:18:12,142 - INFO - Downloaded: demis_hassabis_bing_0012.jpg
+2025-08-10 19:18:12,230 - INFO - Downloaded: demis_hassabis_bing_0010.jpg
+2025-08-10 19:18:12,711 - INFO - Downloaded: demis_hassabis_bing_0013.jpg
+2025-08-10 19:18:13,055 - INFO - Downloaded: demis_hassabis_bing_0014.jpg
+2025-08-10 19:18:13,092 - ERROR - Error downloading https://queens.shorthandstories.com/dr-demis-hassabis-awarded-knighthood-for-services-to-artificial-intelligence/assets/iJpuzDBkyf/sir-demis-hassabis-750x1125.jpg: 403 Client Error: Forbidden for url: https://queens.shorthandstories.com/dr-demis-hassabis-awarded-knighthood-for-services-to-artificial-intelligence/assets/iJpuzDBkyf/sir-demis-hassabis-750x1125.jpg
+2025-08-10 19:18:13,503 - INFO - Downloaded: demis_hassabis_bing_0017.jpg
+2025-08-10 19:18:13,820 - INFO - Downloaded: demis_hassabis_bing_0019.jpg
+2025-08-10 19:18:14,013 - INFO - Downloaded: demis_hassabis_bing_0015.jpg
+2025-08-10 19:18:14,116 - INFO - Downloaded: demis_hassabis_bing_0020.jpg
+2025-08-10 19:18:14,689 - INFO - Downloaded: demis_hassabis_bing_0018.jpg
+2025-08-10 19:18:14,703 - INFO - Downloaded: demis_hassabis_bing_0021.jpg
+2025-08-10 19:18:14,970 - INFO - Downloaded: demis_hassabis_bing_0006.jpg
+2025-08-10 19:18:15,006 - INFO - Downloaded: demis_hassabis_bing_0024.jpg
+2025-08-10 19:18:15,050 - INFO - Downloaded: demis_hassabis_bing_0023.jpg
+2025-08-10 19:18:15,172 - INFO - Downloaded: demis_hassabis_bing_0025.jpg
+2025-08-10 19:18:15,253 - INFO - Downloaded: demis_hassabis_bing_0008.jpg
+2025-08-10 19:18:15,310 - INFO - Downloaded: demis_hassabis_bing_0026.jpg
+2025-08-10 19:18:15,664 - INFO - Downloaded: demis_hassabis_bing_0030.jpg
+2025-08-10 19:18:15,871 - INFO - Downloaded: demis_hassabis_bing_0028.jpg
+2025-08-10 19:18:15,982 - ERROR - Error downloading https://comotion.uw.edu/wp-content/uploads/2023/01/BBVA-Frontiers-of-Knowledge-award-recipients-David-Baker-Demis-Hassabis-and-John-Jumper.png: 403 Client Error: Forbidden for url: https://comotion.uw.edu/wp-content/uploads/2023/01/BBVA-Frontiers-of-Knowledge-award-recipients-David-Baker-Demis-Hassabis-and-John-Jumper.png
+2025-08-10 19:18:16,238 - INFO - Downloaded: demis_hassabis_bing_0027.jpg
+2025-08-10 19:18:16,290 - INFO - Downloaded: demis_hassabis_bing_0029.jpg
+2025-08-10 19:18:16,409 - INFO - Downloaded: demis_hassabis_bing_0032.jpg
+2025-08-10 19:18:16,601 - INFO - Downloaded: demis_hassabis_bing_0033.jpg
+2025-08-10 19:18:18,134 - INFO - Downloaded: demis_hassabis_bing_0022.jpg
+2025-08-10 19:18:20,235 - INFO - Starting scrape for: Geoffrey Hinton
+2025-08-10 19:18:20,909 - INFO - Found 33 image URLs from Bing Images for Geoffrey Hinton
+2025-08-10 19:18:20,909 - INFO - Source bing: Found 33 images for Geoffrey Hinton
+2025-08-10 19:18:23,340 - INFO - Found 0 image URLs from DuckDuckGo for Geoffrey Hinton
+2025-08-10 19:18:23,340 - INFO - Source duckduckgo: Found 0 images for Geoffrey Hinton
+2025-08-10 19:18:29,980 - INFO - Google Images response status: 200
+2025-08-10 19:18:30,063 - INFO - Found 0 image URLs from Google Images for Geoffrey Hinton
+2025-08-10 19:18:30,063 - INFO - Source google: Found 0 images for Geoffrey Hinton
+2025-08-10 19:18:32,063 - INFO - Total images found for Geoffrey Hinton: 33
+2025-08-10 19:18:32,676 - INFO - Downloaded: geoffrey_hinton_bing_0001.jpg
+2025-08-10 19:18:32,841 - INFO - Downloaded: geoffrey_hinton_bing_0004.jpg
+2025-08-10 19:18:32,892 - INFO - Downloaded: geoffrey_hinton_bing_0003.jpg
+2025-08-10 19:18:33,041 - INFO - Downloaded: geoffrey_hinton_bing_0006.jpg
+2025-08-10 19:18:33,342 - INFO - Downloaded: geoffrey_hinton_bing_0008.jpg
+2025-08-10 19:18:33,673 - INFO - Downloaded: geoffrey_hinton_bing_0005.jpg
+2025-08-10 19:18:33,936 - INFO - Downloaded: geoffrey_hinton_bing_0010.jpg
+2025-08-10 19:18:33,937 - INFO - Downloaded: geoffrey_hinton_bing_0007.jpg
+2025-08-10 19:18:34,138 - INFO - Downloaded: geoffrey_hinton_bing_0012.jpg
+2025-08-10 19:18:34,382 - INFO - Downloaded: geoffrey_hinton_bing_0011.jpg
+2025-08-10 19:18:35,036 - INFO - Downloaded: geoffrey_hinton_bing_0015.jpg
+2025-08-10 19:18:35,043 - INFO - Downloaded: geoffrey_hinton_bing_0009.jpg
+2025-08-10 19:18:35,153 - INFO - Downloaded: geoffrey_hinton_bing_0014.jpg
+2025-08-10 19:18:35,634 - INFO - Downloaded: geoffrey_hinton_bing_0016.jpg
+2025-08-10 19:18:35,676 - ERROR - Error downloading https://cifar.ca/wp-content/uploads/2023/02/geoffrey_hinton_bw.jpg: 502 Server Error: Bad Gateway for url: https://cifar.ca/wp-content/uploads/2023/02/geoffrey_hinton_bw.jpg
+2025-08-10 19:18:36,106 - ERROR - Error downloading https://cifar.ca/wp-content/uploads/2024/10/GeoffreyHinton_news.jpg: 502 Server Error: Bad Gateway for url: https://cifar.ca/wp-content/uploads/2024/10/GeoffreyHinton_news.jpg
+2025-08-10 19:18:36,186 - INFO - Downloaded: geoffrey_hinton_bing_0017.jpg
+2025-08-10 19:18:36,653 - INFO - Downloaded: geoffrey_hinton_bing_0022.jpg
+2025-08-10 19:18:36,804 - INFO - Downloaded: geoffrey_hinton_bing_0021.jpg
+2025-08-10 19:18:37,046 - INFO - Downloaded: geoffrey_hinton_bing_0020.jpg
+2025-08-10 19:18:37,060 - INFO - Downloaded: geoffrey_hinton_bing_0023.jpg
+2025-08-10 19:18:37,384 - ERROR - Error downloading https://morocco.ai/events/conferences/MoroccoAI-Conference-2022/img/speakers/geoffrey.png: HTTPSConnectionPool(host='morocco.ai', port=443): Max retries exceeded with url: /events/conferences/MoroccoAI-Conference-2022/img/speakers/geoffrey.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:18:37,964 - INFO - Downloaded: geoffrey_hinton_bing_0027.jpg
+2025-08-10 19:18:38,095 - INFO - Downloaded: geoffrey_hinton_bing_0025.jpg
+2025-08-10 19:18:38,175 - INFO - Downloaded: geoffrey_hinton_bing_0024.jpg
+2025-08-10 19:18:38,458 - INFO - Downloaded: geoffrey_hinton_bing_0028.jpg
+2025-08-10 19:18:38,836 - INFO - Downloaded: geoffrey_hinton_bing_0031.jpg
+2025-08-10 19:18:38,925 - INFO - Downloaded: geoffrey_hinton_bing_0029.jpg
+2025-08-10 19:18:38,990 - INFO - Downloaded: geoffrey_hinton_bing_0030.jpg
+2025-08-10 19:18:39,189 - INFO - Downloaded: geoffrey_hinton_bing_0032.jpg
+2025-08-10 19:18:40,297 - INFO - Downloaded: geoffrey_hinton_bing_0033.jpg
+2025-08-10 19:18:52,154 - ERROR - Error downloading https://culturageek.com.ar/wp-content/uploads/2023/05/Geoffrey-Hinton-www.culturageek.com_.ar_.jpg: HTTPSConnectionPool(host='culturageek.com.ar', port=443): Max retries exceeded with url: /wp-content/uploads/2023/05/Geoffrey-Hinton-www.culturageek.com_.ar_.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b832a9dc0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:18:54,022 - ERROR - Error downloading https://iccsi.com.ar/wp-content/uploads/donde-esta-geoffrey-hinton-ahora.webp: HTTPSConnectionPool(host='iccsi.com.ar', port=443): Max retries exceeded with url: /wp-content/uploads/donde-esta-geoffrey-hinton-ahora.webp (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83297d40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:18:56,124 - INFO - Starting scrape for: Yann LeCun
+2025-08-10 19:18:57,478 - INFO - Found 33 image URLs from Bing Images for Yann LeCun
+2025-08-10 19:18:57,478 - INFO - Source bing: Found 33 images for Yann LeCun
+2025-08-10 19:18:59,840 - INFO - Found 0 image URLs from DuckDuckGo for Yann LeCun
+2025-08-10 19:18:59,840 - INFO - Source duckduckgo: Found 0 images for Yann LeCun
+2025-08-10 19:19:04,377 - INFO - Google Images response status: 200
+2025-08-10 19:19:04,492 - INFO - Found 0 image URLs from Google Images for Yann LeCun
+2025-08-10 19:19:04,492 - INFO - Source google: Found 0 images for Yann LeCun
+2025-08-10 19:19:06,492 - INFO - Total images found for Yann LeCun: 33
+2025-08-10 19:19:07,208 - INFO - Downloaded: yann_lecun_bing_0005.jpg
+2025-08-10 19:19:07,462 - INFO - Downloaded: yann_lecun_bing_0006.jpg
+2025-08-10 19:19:07,564 - INFO - Downloaded: yann_lecun_bing_0002.jpg
+2025-08-10 19:19:07,565 - INFO - Downloaded: yann_lecun_bing_0003.jpg
+2025-08-10 19:19:07,724 - INFO - Downloaded: yann_lecun_bing_0001.jpg
+2025-08-10 19:19:07,972 - INFO - Downloaded: yann_lecun_bing_0007.jpg
+2025-08-10 19:19:08,077 - INFO - Downloaded: yann_lecun_bing_0008.jpg
+2025-08-10 19:19:08,321 - INFO - Downloaded: yann_lecun_bing_0009.jpg
+2025-08-10 19:19:08,391 - WARNING - Invalid image: https://lookaside.fbsbx.com/lookaside/crawler/threads/C0zlcw3vkU-/0/image.jpg
+2025-08-10 19:19:08,624 - INFO - Downloaded: yann_lecun_bing_0004.jpg
+2025-08-10 19:19:08,658 - INFO - Downloaded: yann_lecun_bing_0010.jpg
+2025-08-10 19:19:08,986 - INFO - Downloaded: yann_lecun_bing_0016.jpg
+2025-08-10 19:19:09,170 - INFO - Downloaded: yann_lecun_bing_0015.jpg
+2025-08-10 19:19:09,381 - INFO - Downloaded: yann_lecun_bing_0018.jpg
+2025-08-10 19:19:09,509 - INFO - Downloaded: yann_lecun_bing_0011.jpg
+2025-08-10 19:19:09,781 - INFO - Downloaded: yann_lecun_bing_0020.jpg
+2025-08-10 19:19:10,011 - INFO - Downloaded: yann_lecun_bing_0014.jpg
+2025-08-10 19:19:10,053 - INFO - Downloaded: yann_lecun_bing_0021.jpg
+2025-08-10 19:19:10,320 - INFO - Downloaded: yann_lecun_bing_0022.jpg
+2025-08-10 19:19:10,509 - INFO - Downloaded: yann_lecun_bing_0023.jpg
+2025-08-10 19:19:10,513 - INFO - Downloaded: yann_lecun_bing_0024.jpg
+2025-08-10 19:19:10,715 - INFO - Downloaded: yann_lecun_bing_0013.jpg
+2025-08-10 19:19:10,769 - INFO - Downloaded: yann_lecun_bing_0017.jpg
+2025-08-10 19:19:10,914 - INFO - Downloaded: yann_lecun_bing_0027.jpg
+2025-08-10 19:19:11,025 - ERROR - Error downloading https://lexfridman.com/wordpress/wp-content/uploads/2024/03/thumb_yann_lecun_3.png: HTTPSConnectionPool(host='lexfridman.com', port=443): Max retries exceeded with url: /wordpress/wp-content/uploads/2024/03/thumb_yann_lecun_3.png (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')))
+2025-08-10 19:19:11,108 - INFO - Downloaded: yann_lecun_bing_0029.jpg
+2025-08-10 19:19:11,154 - INFO - Downloaded: yann_lecun_bing_0026.jpg
+2025-08-10 19:19:11,243 - INFO - Downloaded: yann_lecun_bing_0019.jpg
+2025-08-10 19:19:11,412 - INFO - Downloaded: yann_lecun_bing_0032.jpg
+2025-08-10 19:19:11,601 - INFO - Downloaded: yann_lecun_bing_0030.jpg
+2025-08-10 19:19:11,917 - INFO - Downloaded: yann_lecun_bing_0031.jpg
+2025-08-10 19:19:11,919 - INFO - Downloaded: yann_lecun_bing_0033.jpg
+2025-08-10 19:19:12,724 - INFO - Downloaded: yann_lecun_bing_0025.jpg
+2025-08-10 19:19:14,825 - INFO - Starting scrape for: Andrew Ng
+2025-08-10 19:19:15,403 - INFO - Found 33 image URLs from Bing Images for Andrew Ng
+2025-08-10 19:19:15,403 - INFO - Source bing: Found 33 images for Andrew Ng
+2025-08-10 19:19:18,093 - INFO - Found 0 image URLs from DuckDuckGo for Andrew Ng
+2025-08-10 19:19:18,094 - INFO - Source duckduckgo: Found 0 images for Andrew Ng
+2025-08-10 19:19:23,741 - INFO - Google Images response status: 200
+2025-08-10 19:19:23,822 - INFO - Found 0 image URLs from Google Images for Andrew Ng
+2025-08-10 19:19:23,822 - INFO - Source google: Found 0 images for Andrew Ng
+2025-08-10 19:19:25,823 - INFO - Total images found for Andrew Ng: 33
+2025-08-10 19:19:26,009 - ERROR - Error downloading https://www.datanami.com/wp-content/uploads/2023/11/andrew-ng.png: 403 Client Error: Forbidden for url: https://www.datanami.com/wp-content/uploads/2023/11/andrew-ng.png
+2025-08-10 19:19:26,138 - INFO - Downloaded: andrew_ng_bing_0005.jpg
+2025-08-10 19:19:26,401 - INFO - Downloaded: andrew_ng_bing_0006.jpg
+2025-08-10 19:19:26,486 - INFO - Downloaded: andrew_ng_bing_0002.jpg
+2025-08-10 19:19:26,922 - INFO - Downloaded: andrew_ng_bing_0003.jpg
+2025-08-10 19:19:26,945 - INFO - Downloaded: andrew_ng_bing_0008.jpg
+2025-08-10 19:19:27,146 - INFO - Downloaded: andrew_ng_bing_0001.jpg
+2025-08-10 19:19:27,162 - INFO - Downloaded: andrew_ng_bing_0007.jpg
+2025-08-10 19:19:27,187 - INFO - Downloaded: andrew_ng_bing_0011.jpg
+2025-08-10 19:19:27,656 - INFO - Downloaded: andrew_ng_bing_0014.jpg
+2025-08-10 19:19:27,701 - INFO - Downloaded: andrew_ng_bing_0010.jpg
+2025-08-10 19:19:27,705 - INFO - Downloaded: andrew_ng_bing_0012.jpg
+2025-08-10 19:19:28,069 - INFO - Downloaded: andrew_ng_bing_0017.jpg
+2025-08-10 19:19:28,259 - INFO - Downloaded: andrew_ng_bing_0009.jpg
+2025-08-10 19:19:28,498 - INFO - Downloaded: andrew_ng_bing_0018.jpg
+2025-08-10 19:19:28,591 - INFO - Downloaded: andrew_ng_bing_0019.jpg
+2025-08-10 19:19:28,698 - ERROR - Error downloading https://www.wiwo.de/images/laif-15140279/29547834/3-format1007.jpg: 403 Client Error: Forbidden for url: https://www.wiwo.de/images/laif-15140279/29547834/3-format1007.jpg
+2025-08-10 19:19:28,787 - INFO - Downloaded: andrew_ng_bing_0020.jpg
+2025-08-10 19:19:28,792 - INFO - Downloaded: andrew_ng_bing_0015.jpg
+2025-08-10 19:19:28,838 - INFO - Downloaded: andrew_ng_bing_0013.jpg
+2025-08-10 19:19:29,191 - INFO - Downloaded: andrew_ng_bing_0022.jpg
+2025-08-10 19:19:29,227 - INFO - Downloaded: andrew_ng_bing_0025.jpg
+2025-08-10 19:19:29,288 - INFO - Downloaded: andrew_ng_bing_0016.jpg
+2025-08-10 19:19:29,460 - INFO - Downloaded: andrew_ng_bing_0023.jpg
+2025-08-10 19:19:29,853 - INFO - Downloaded: andrew_ng_bing_0028.jpg
+2025-08-10 19:19:30,233 - INFO - Downloaded: andrew_ng_bing_0030.jpg
+2025-08-10 19:19:30,237 - INFO - Downloaded: andrew_ng_bing_0026.jpg
+2025-08-10 19:19:30,488 - INFO - Downloaded: andrew_ng_bing_0027.jpg
+2025-08-10 19:19:30,548 - INFO - Downloaded: andrew_ng_bing_0029.jpg
+2025-08-10 19:19:30,759 - INFO - Downloaded: andrew_ng_bing_0031.jpg
+2025-08-10 19:19:30,885 - INFO - Downloaded: andrew_ng_bing_0024.jpg
+2025-08-10 19:19:31,223 - INFO - Downloaded: andrew_ng_bing_0032.jpg
+2025-08-10 19:19:31,325 - INFO - Downloaded: andrew_ng_bing_0033.jpg
+2025-08-10 19:19:33,426 - INFO - Starting scrape for: Fei-Fei Li
+2025-08-10 19:19:34,097 - INFO - Found 33 image URLs from Bing Images for Fei-Fei Li
+2025-08-10 19:19:34,097 - INFO - Source bing: Found 33 images for Fei-Fei Li
+2025-08-10 19:19:36,745 - INFO - Found 0 image URLs from DuckDuckGo for Fei-Fei Li
+2025-08-10 19:19:36,745 - INFO - Source duckduckgo: Found 0 images for Fei-Fei Li
+2025-08-10 19:19:43,199 - INFO - Google Images response status: 200
+2025-08-10 19:19:43,285 - INFO - Found 0 image URLs from Google Images for Fei-Fei Li
+2025-08-10 19:19:43,285 - INFO - Source google: Found 0 images for Fei-Fei Li
+2025-08-10 19:19:45,285 - INFO - Total images found for Fei-Fei Li: 33
+2025-08-10 19:19:45,642 - INFO - Downloaded: fei-fei_li_bing_0002.jpg
+2025-08-10 19:19:45,773 - INFO - Downloaded: fei-fei_li_bing_0003.jpg
+2025-08-10 19:19:45,882 - INFO - Downloaded: fei-fei_li_bing_0006.jpg
+2025-08-10 19:19:45,913 - ERROR - Error downloading https://cdn.milenio.com/uploads/media/2024/01/02/fei-fei-li-cientifica-especializada.jpg: 404 Client Error: Not Found for url: https://cdn.milenio.com/uploads/media/2024/01/02/fei-fei-li-cientifica-especializada.jpg
+2025-08-10 19:19:46,610 - INFO - Downloaded: fei-fei_li_bing_0001.jpg
+2025-08-10 19:19:46,709 - INFO - Downloaded: fei-fei_li_bing_0005.jpg
+2025-08-10 19:19:46,843 - INFO - Downloaded: fei-fei_li_bing_0010.jpg
+2025-08-10 19:19:46,977 - INFO - Downloaded: fei-fei_li_bing_0011.jpg
+2025-08-10 19:19:47,236 - ERROR - Error downloading https://med.stanford.edu/raisehealth/leadership/fei-fei_li/_jcr_content/main/panel_builder/panel_0/image.img.620.high.png/Fei-Fei-Li.png: 404 Client Error: Not Found for url: https://med.stanford.edu/raisehealth/leadership/fei-fei_li/_jcr_content/main/panel_builder/panel_0/image.img.620.high.png/Fei-Fei-Li.png
+2025-08-10 19:19:47,353 - ERROR - Error downloading https://stanmed.stanford.edu/wp-content/uploads/2023/10/Fei-Fei-Li-Web-Crop-745x1024.jpg: HTTPSConnectionPool(host='stanmed.stanford.edu', port=443): Max retries exceeded with url: /wp-content/uploads/2023/10/Fei-Fei-Li-Web-Crop-745x1024.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:19:47,360 - INFO - Downloaded: fei-fei_li_bing_0013.jpg
+2025-08-10 19:19:47,605 - INFO - Downloaded: fei-fei_li_bing_0009.jpg
+2025-08-10 19:19:47,773 - INFO - Downloaded: fei-fei_li_bing_0004.jpg
+2025-08-10 19:19:47,787 - INFO - Downloaded: fei-fei_li_bing_0008.jpg
+2025-08-10 19:19:47,850 - INFO - Downloaded: fei-fei_li_bing_0017.jpg
+2025-08-10 19:19:47,971 - ERROR - Error downloading https://mastersofscale.com/wp-content/uploads/2023/10/MoS_Fei-Fei-Li_colorcutout.png: 520 Server Error:  for url: https://mastersofscale.com/wp-content/uploads/2023/10/MoS_Fei-Fei-Li_colorcutout.png
+2025-08-10 19:19:48,047 - ERROR - Error downloading https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/049a11fd1ab0e7d371fdfbd7039de418.jpg: 500 Server Error: Domain Not Found for url: https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/049a11fd1ab0e7d371fdfbd7039de418.jpg
+2025-08-10 19:19:48,281 - INFO - Downloaded: fei-fei_li_bing_0021.jpg
+2025-08-10 19:19:48,508 - INFO - Downloaded: fei-fei_li_bing_0016.jpg
+2025-08-10 19:19:48,686 - INFO - Downloaded: fei-fei_li_bing_0023.jpg
+2025-08-10 19:19:49,108 - INFO - Downloaded: fei-fei_li_bing_0018.jpg
+2025-08-10 19:19:49,194 - INFO - Downloaded: fei-fei_li_bing_0022.jpg
+2025-08-10 19:19:49,338 - INFO - Downloaded: fei-fei_li_bing_0019.jpg
+2025-08-10 19:19:49,475 - ERROR - Error downloading https://news-media.stanford.edu/wp-content/uploads/sites/2/2019/07/05154844/Fei-Fei-Li.jpg: HTTPSConnectionPool(host='news-media.stanford.edu', port=443): Max retries exceeded with url: /wp-content/uploads/sites/2/2019/07/05154844/Fei-Fei-Li.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:19:49,794 - INFO - Downloaded: fei-fei_li_bing_0024.jpg
+2025-08-10 19:19:49,808 - INFO - Downloaded: fei-fei_li_bing_0029.jpg
+2025-08-10 19:19:49,865 - ERROR - Error downloading https://www.princeton.edu/sites/default/files/styles/half_1x_crop/public/images/2024/09/20240901_Pre-Read_Fei-FeiLi_R0021_WEB.jpeg?itok=xOkFqMJW: HTTPSConnectionPool(host='www.princeton.edu', port=443): Max retries exceeded with url: /sites/default/files/styles/half_1x_crop/public/images/2024/09/20240901_Pre-Read_Fei-FeiLi_R0021_WEB.jpeg?itok=xOkFqMJW (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:19:49,909 - ERROR - Error downloading https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/e075a98c30d1274e99d4c920e4417e92.jpg: 500 Server Error: Domain Not Found for url: https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/e075a98c30d1274e99d4c920e4417e92.jpg
+2025-08-10 19:19:50,058 - ERROR - Error downloading https://womensagenda.com.au/wp-content/uploads/2024/02/fe-fei-li.png: 403 Client Error: Forbidden for url: https://womensagenda.com.au/wp-content/uploads/2024/02/fe-fei-li.png
+2025-08-10 19:19:50,113 - INFO - Downloaded: fei-fei_li_bing_0026.jpg
+2025-08-10 19:19:50,229 - INFO - Downloaded: fei-fei_li_bing_0027.jpg
+2025-08-10 19:19:50,378 - INFO - Downloaded: fei-fei_li_bing_0032.jpg
+2025-08-10 19:20:09,220 - ERROR - Error downloading https://issues.org/wp-content/uploads/2024/04/Interview_Fei-Fei-Li-1429x1536.jpg: HTTPSConnectionPool(host='issues.org', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Interview_Fei-Fei-Li-1429x1536.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82d8e900>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:20:11,321 - INFO - Starting scrape for: Sam Altman
+2025-08-10 19:20:12,371 - INFO - Found 33 image URLs from Bing Images for Sam Altman
+2025-08-10 19:20:12,371 - INFO - Source bing: Found 33 images for Sam Altman
+2025-08-10 19:20:14,775 - INFO - Found 0 image URLs from DuckDuckGo for Sam Altman
+2025-08-10 19:20:14,776 - INFO - Source duckduckgo: Found 0 images for Sam Altman
+2025-08-10 19:20:20,220 - INFO - Google Images response status: 200
+2025-08-10 19:20:20,366 - INFO - Found 0 image URLs from Google Images for Sam Altman
+2025-08-10 19:20:20,366 - INFO - Source google: Found 0 images for Sam Altman
+2025-08-10 19:20:22,367 - INFO - Total images found for Sam Altman: 33
+2025-08-10 19:20:22,745 - INFO - Downloaded: sam_altman_bing_0004.jpg
+2025-08-10 19:20:22,872 - INFO - Downloaded: sam_altman_bing_0003.jpg
+2025-08-10 19:20:23,237 - INFO - Downloaded: sam_altman_bing_0006.jpg
+2025-08-10 19:20:23,446 - INFO - Downloaded: sam_altman_bing_0001.jpg
+2025-08-10 19:20:23,473 - INFO - Downloaded: sam_altman_bing_0007.jpg
+2025-08-10 19:20:23,796 - INFO - Downloaded: sam_altman_bing_0008.jpg
+2025-08-10 19:20:23,831 - INFO - Downloaded: sam_altman_bing_0005.jpg
+2025-08-10 19:20:24,165 - INFO - Downloaded: sam_altman_bing_0012.jpg
+2025-08-10 19:20:24,647 - INFO - Downloaded: sam_altman_bing_0010.jpg
+2025-08-10 19:20:24,662 - INFO - Downloaded: sam_altman_bing_0013.jpg
+2025-08-10 19:20:24,849 - INFO - Downloaded: sam_altman_bing_0014.jpg
+2025-08-10 19:20:24,993 - INFO - Downloaded: sam_altman_bing_0015.jpg
+2025-08-10 19:20:25,089 - INFO - Downloaded: sam_altman_bing_0016.jpg
+2025-08-10 19:20:25,144 - INFO - Downloaded: sam_altman_bing_0017.jpg
+2025-08-10 19:20:25,410 - INFO - Downloaded: sam_altman_bing_0002.jpg
+2025-08-10 19:20:25,505 - INFO - Downloaded: sam_altman_bing_0019.jpg
+2025-08-10 19:20:25,559 - INFO - Downloaded: sam_altman_bing_0018.jpg
+2025-08-10 19:20:25,710 - INFO - Downloaded: sam_altman_bing_0022.jpg
+2025-08-10 19:20:26,064 - INFO - Downloaded: sam_altman_bing_0021.jpg
+2025-08-10 19:20:26,260 - INFO - Downloaded: sam_altman_bing_0023.jpg
+2025-08-10 19:20:26,341 - ERROR - Error downloading https://static.israel21c.org/www/uploads/2023/06/Sam_Altman_2_-_Credit_Chen_Galili_COVER-1100x900.jpg: HTTPSConnectionPool(host='static.israel21c.org', port=443): Max retries exceeded with url: /www/uploads/2023/06/Sam_Altman_2_-_Credit_Chen_Galili_COVER-1100x900.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x790b82582ae0>: Failed to resolve 'static.israel21c.org' ([Errno -2] Name or service not known)"))
+2025-08-10 19:20:27,216 - INFO - Downloaded: sam_altman_bing_0020.jpg
+2025-08-10 19:20:27,286 - INFO - Downloaded: sam_altman_bing_0026.jpg
+2025-08-10 19:20:27,322 - INFO - Downloaded: sam_altman_bing_0024.jpg
+2025-08-10 19:20:27,399 - INFO - Downloaded: sam_altman_bing_0027.jpg
+2025-08-10 19:20:27,723 - INFO - Downloaded: sam_altman_bing_0029.jpg
+2025-08-10 19:20:28,095 - INFO - Downloaded: sam_altman_bing_0031.jpg
+2025-08-10 19:20:28,786 - INFO - Downloaded: sam_altman_bing_0030.jpg
+2025-08-10 19:20:29,441 - INFO - Downloaded: sam_altman_bing_0033.jpg
+2025-08-10 19:20:29,842 - INFO - Downloaded: sam_altman_bing_0032.jpg
+2025-08-10 19:20:38,236 - INFO - Downloaded: sam_altman_bing_0028.jpg
+2025-08-10 19:20:43,517 - ERROR - Error downloading https://techstory.in/wp-content/uploads/2024/05/107337810-1700658508111-107337810-1700657783740-gettyimages-1258550523-SKOREA_OPENAI-scaled.jpg: HTTPSConnectionPool(host='techstory.in', port=443): Max retries exceeded with url: /wp-content/uploads/2024/05/107337810-1700658508111-107337810-1700657783740-gettyimages-1258550523-SKOREA_OPENAI-scaled.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82d8eb40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:20:44,040 - ERROR - Error downloading http://pkbnews.in/wp-content/uploads/2023/11/Sam-Altman.jpg: HTTPConnectionPool(host='pkbnews.in', port=80): Max retries exceeded with url: /wp-content/uploads/2023/11/Sam-Altman.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x790b83efd5e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:20:46,142 - INFO - Starting scrape for: Ilya Sutskever
+2025-08-10 19:20:47,015 - INFO - Found 33 image URLs from Bing Images for Ilya Sutskever
+2025-08-10 19:20:47,015 - INFO - Source bing: Found 33 images for Ilya Sutskever
+2025-08-10 19:20:49,387 - INFO - Found 0 image URLs from DuckDuckGo for Ilya Sutskever
+2025-08-10 19:20:49,387 - INFO - Source duckduckgo: Found 0 images for Ilya Sutskever
+2025-08-10 19:20:55,966 - INFO - Google Images response status: 200
+2025-08-10 19:20:56,051 - INFO - Found 0 image URLs from Google Images for Ilya Sutskever
+2025-08-10 19:20:56,051 - INFO - Source google: Found 0 images for Ilya Sutskever
+2025-08-10 19:20:58,051 - INFO - Total images found for Ilya Sutskever: 33
+2025-08-10 19:20:58,211 - ERROR - Error downloading https://www.matroid.com/wp-content/uploads/2022/10/Ilya-Sutskever-scaled.jpg: 403 Client Error: Forbidden for url: https://www.matroid.com/wp-content/uploads/2022/10/Ilya-Sutskever-scaled.jpg
+2025-08-10 19:20:58,512 - INFO - Downloaded: ilya_sutskever_bing_0001.jpg
+2025-08-10 19:20:58,516 - INFO - Downloaded: ilya_sutskever_bing_0006.jpg
+2025-08-10 19:20:58,577 - INFO - Downloaded: ilya_sutskever_bing_0003.jpg
+2025-08-10 19:20:58,670 - INFO - Downloaded: ilya_sutskever_bing_0008.jpg
+2025-08-10 19:20:58,818 - INFO - Downloaded: ilya_sutskever_bing_0005.jpg
+2025-08-10 19:20:58,870 - INFO - Downloaded: ilya_sutskever_bing_0010.jpg
+2025-08-10 19:20:58,909 - INFO - Downloaded: ilya_sutskever_bing_0002.jpg
+2025-08-10 19:20:59,106 - INFO - Downloaded: ilya_sutskever_bing_0009.jpg
+2025-08-10 19:20:59,121 - INFO - Downloaded: ilya_sutskever_bing_0007.jpg
+2025-08-10 19:20:59,290 - INFO - Downloaded: ilya_sutskever_bing_0012.jpg
+2025-08-10 19:20:59,725 - INFO - Downloaded: ilya_sutskever_bing_0013.jpg
+2025-08-10 19:20:59,914 - INFO - Downloaded: ilya_sutskever_bing_0011.jpg
+2025-08-10 19:21:00,097 - INFO - Downloaded: ilya_sutskever_bing_0016.jpg
+2025-08-10 19:21:00,388 - INFO - Downloaded: ilya_sutskever_bing_0018.jpg
+2025-08-10 19:21:00,396 - INFO - Downloaded: ilya_sutskever_bing_0014.jpg
+2025-08-10 19:21:00,494 - INFO - Downloaded: ilya_sutskever_bing_0019.jpg
+2025-08-10 19:21:01,170 - INFO - Downloaded: ilya_sutskever_bing_0015.jpg
+2025-08-10 19:21:01,315 - INFO - Downloaded: ilya_sutskever_bing_0021.jpg
+2025-08-10 19:21:01,484 - INFO - Downloaded: ilya_sutskever_bing_0022.jpg
+2025-08-10 19:21:01,761 - INFO - Downloaded: ilya_sutskever_bing_0025.jpg
+2025-08-10 19:21:02,720 - INFO - Downloaded: ilya_sutskever_bing_0026.jpg
+2025-08-10 19:21:02,978 - INFO - Downloaded: ilya_sutskever_bing_0024.jpg
+2025-08-10 19:21:03,043 - INFO - Downloaded: ilya_sutskever_bing_0027.jpg
+2025-08-10 19:21:03,256 - INFO - Downloaded: ilya_sutskever_bing_0029.jpg
+2025-08-10 19:21:03,506 - INFO - Downloaded: ilya_sutskever_bing_0028.jpg
+2025-08-10 19:21:03,738 - INFO - Downloaded: ilya_sutskever_bing_0031.jpg
+2025-08-10 19:21:03,779 - INFO - Downloaded: ilya_sutskever_bing_0020.jpg
+2025-08-10 19:21:03,879 - INFO - Downloaded: ilya_sutskever_bing_0032.jpg
+2025-08-10 19:21:04,671 - INFO - Downloaded: ilya_sutskever_bing_0030.jpg
+2025-08-10 19:21:06,822 - INFO - Downloaded: ilya_sutskever_bing_0033.jpg
+2025-08-10 19:21:19,796 - ERROR - Error downloading https://siecledigital.fr/wp-content/uploads/2024/05/ilya-sutskever.jpg: HTTPSConnectionPool(host='siecledigital.fr', port=443): Max retries exceeded with url: /wp-content/uploads/2024/05/ilya-sutskever.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83eab350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:21:21,255 - ERROR - Error downloading https://diarioia.com/wp-content/uploads/2024/06/Ilya-Sutskever.jpg: HTTPSConnectionPool(host='diarioia.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/06/Ilya-Sutskever.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b831d3230>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:21:23,359 - INFO - Starting scrape for: Yoshua Bengio
+2025-08-10 19:21:24,806 - INFO - Found 33 image URLs from Bing Images for Yoshua Bengio
+2025-08-10 19:21:24,807 - INFO - Source bing: Found 33 images for Yoshua Bengio
+2025-08-10 19:21:27,512 - INFO - Found 0 image URLs from DuckDuckGo for Yoshua Bengio
+2025-08-10 19:21:27,512 - INFO - Source duckduckgo: Found 0 images for Yoshua Bengio
+2025-08-10 19:21:33,018 - INFO - Google Images response status: 200
+2025-08-10 19:21:33,100 - INFO - Found 0 image URLs from Google Images for Yoshua Bengio
+2025-08-10 19:21:33,100 - INFO - Source google: Found 0 images for Yoshua Bengio
+2025-08-10 19:21:35,100 - INFO - Total images found for Yoshua Bengio: 33
+2025-08-10 19:21:35,555 - INFO - Downloaded: yoshua_bengio_bing_0004.jpg
+2025-08-10 19:21:35,648 - INFO - Downloaded: yoshua_bengio_bing_0003.jpg
+2025-08-10 19:21:35,711 - ERROR - Error downloading https://www.insidequantumtechnology.com/wp-content/uploads/2023/05/bengio_yoshua.jpg: 403 Client Error: Forbidden for url: https://www.insidequantumtechnology.com/wp-content/uploads/2023/05/bengio_yoshua.jpg
+2025-08-10 19:21:35,734 - INFO - Downloaded: yoshua_bengio_bing_0002.jpg
+2025-08-10 19:21:35,845 - INFO - Downloaded: yoshua_bengio_bing_0001.jpg
+2025-08-10 19:21:36,101 - INFO - Downloaded: yoshua_bengio_bing_0005.jpg
+2025-08-10 19:21:36,120 - INFO - Downloaded: yoshua_bengio_bing_0008.jpg
+2025-08-10 19:21:36,207 - INFO - Downloaded: yoshua_bengio_bing_0009.jpg
+2025-08-10 19:21:36,578 - INFO - Downloaded: yoshua_bengio_bing_0013.jpg
+2025-08-10 19:21:36,640 - INFO - Downloaded: yoshua_bengio_bing_0007.jpg
+2025-08-10 19:21:36,723 - INFO - Downloaded: yoshua_bengio_bing_0010.jpg
+2025-08-10 19:21:37,132 - INFO - Downloaded: yoshua_bengio_bing_0016.jpg
+2025-08-10 19:21:37,175 - INFO - Downloaded: yoshua_bengio_bing_0012.jpg
+2025-08-10 19:21:37,445 - INFO - Downloaded: yoshua_bengio_bing_0018.jpg
+2025-08-10 19:21:37,480 - INFO - Downloaded: yoshua_bengio_bing_0011.jpg
+2025-08-10 19:21:37,636 - INFO - Downloaded: yoshua_bengio_bing_0014.jpg
+2025-08-10 19:21:37,825 - INFO - Downloaded: yoshua_bengio_bing_0019.jpg
+2025-08-10 19:21:37,927 - INFO - Downloaded: yoshua_bengio_bing_0020.jpg
+2025-08-10 19:21:38,032 - INFO - Downloaded: yoshua_bengio_bing_0015.jpg
+2025-08-10 19:21:38,067 - INFO - Downloaded: yoshua_bengio_bing_0022.jpg
+2025-08-10 19:21:38,127 - INFO - Downloaded: yoshua_bengio_bing_0017.jpg
+2025-08-10 19:21:38,455 - ERROR - Error downloading https://media1.ledevoir.com/images_galerie/nwd_1596887_1236862/image.jpg: 403 Client Error: Forbidden for url: https://media1.ledevoir.com/images_galerie/nwd_1596887_1236862/image.jpg
+2025-08-10 19:21:38,587 - INFO - Downloaded: yoshua_bengio_bing_0021.jpg
+2025-08-10 19:21:38,737 - INFO - Downloaded: yoshua_bengio_bing_0027.jpg
+2025-08-10 19:21:38,828 - INFO - Downloaded: yoshua_bengio_bing_0025.jpg
+2025-08-10 19:21:39,398 - INFO - Downloaded: yoshua_bengio_bing_0026.jpg
+2025-08-10 19:21:39,627 - INFO - Downloaded: yoshua_bengio_bing_0028.jpg
+2025-08-10 19:21:39,665 - INFO - Downloaded: yoshua_bengio_bing_0030.jpg
+2025-08-10 19:21:39,916 - INFO - Downloaded: yoshua_bengio_bing_0029.jpg
+2025-08-10 19:21:40,205 - INFO - Downloaded: yoshua_bengio_bing_0033.jpg
+2025-08-10 19:21:40,466 - INFO - Downloaded: yoshua_bengio_bing_0031.jpg
+2025-08-10 19:21:40,703 - INFO - Downloaded: yoshua_bengio_bing_0032.jpg
+2025-08-10 19:21:48,608 - INFO - Downloaded: yoshua_bengio_bing_0024.jpg
+2025-08-10 19:21:50,710 - INFO - Starting scrape for: Dario Amodei
+2025-08-10 19:21:52,051 - INFO - Found 33 image URLs from Bing Images for Dario Amodei
+2025-08-10 19:21:52,052 - INFO - Source bing: Found 33 images for Dario Amodei
+2025-08-10 19:21:54,385 - INFO - Found 0 image URLs from DuckDuckGo for Dario Amodei
+2025-08-10 19:21:54,386 - INFO - Source duckduckgo: Found 0 images for Dario Amodei
+2025-08-10 19:21:59,297 - INFO - Google Images response status: 200
+2025-08-10 19:21:59,416 - INFO - Found 0 image URLs from Google Images for Dario Amodei
+2025-08-10 19:21:59,416 - INFO - Source google: Found 0 images for Dario Amodei
+2025-08-10 19:22:01,417 - INFO - Total images found for Dario Amodei: 33
+2025-08-10 19:22:01,751 - INFO - Downloaded: dario_amodei_bing_0002.jpg
+2025-08-10 19:22:01,970 - INFO - Downloaded: dario_amodei_bing_0005.jpg
+2025-08-10 19:22:01,995 - INFO - Downloaded: dario_amodei_bing_0004.jpg
+2025-08-10 19:22:02,193 - INFO - Downloaded: dario_amodei_bing_0003.jpg
+2025-08-10 19:22:02,373 - INFO - Downloaded: dario_amodei_bing_0006.jpg
+2025-08-10 19:22:02,577 - INFO - Downloaded: dario_amodei_bing_0009.jpg
+2025-08-10 19:22:02,621 - INFO - Downloaded: dario_amodei_bing_0008.jpg
+2025-08-10 19:22:02,688 - INFO - Downloaded: dario_amodei_bing_0010.jpg
+2025-08-10 19:22:02,860 - INFO - Downloaded: dario_amodei_bing_0001.jpg
+2025-08-10 19:22:02,938 - INFO - Downloaded: dario_amodei_bing_0013.jpg
+2025-08-10 19:22:02,944 - INFO - Downloaded: dario_amodei_bing_0012.jpg
+2025-08-10 19:22:03,030 - ERROR - Error downloading https://s9i7q5a6.rocketcdn.me/wp-content/uploads/dario-amodei-photo.jpg: HTTPSConnectionPool(host='s9i7q5a6.rocketcdn.me', port=443): Max retries exceeded with url: /wp-content/uploads/dario-amodei-photo.jpg (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 's9i7q5a6.rocketcdn.me'. (_ssl.c:1000)")))
+2025-08-10 19:22:03,039 - INFO - Downloaded: dario_amodei_bing_0015.jpg
+2025-08-10 19:22:03,144 - INFO - Downloaded: dario_amodei_bing_0011.jpg
+2025-08-10 19:22:03,220 - INFO - Downloaded: dario_amodei_bing_0017.jpg
+2025-08-10 19:22:03,608 - INFO - Downloaded: dario_amodei_bing_0016.jpg
+2025-08-10 19:22:03,702 - INFO - Downloaded: dario_amodei_bing_0018.jpg
+2025-08-10 19:22:03,711 - INFO - Downloaded: dario_amodei_bing_0019.jpg
+2025-08-10 19:22:03,767 - INFO - Downloaded: dario_amodei_bing_0007.jpg
+2025-08-10 19:22:04,041 - INFO - Downloaded: dario_amodei_bing_0021.jpg
+2025-08-10 19:22:04,219 - INFO - Downloaded: dario_amodei_bing_0024.jpg
+2025-08-10 19:22:04,276 - INFO - Downloaded: dario_amodei_bing_0022.jpg
+2025-08-10 19:22:04,526 - INFO - Downloaded: dario_amodei_bing_0020.jpg
+2025-08-10 19:22:04,850 - INFO - Downloaded: dario_amodei_bing_0023.jpg
+2025-08-10 19:22:04,891 - INFO - Downloaded: dario_amodei_bing_0025.jpg
+2025-08-10 19:22:04,986 - INFO - Downloaded: dario_amodei_bing_0026.jpg
+2025-08-10 19:22:05,127 - INFO - Downloaded: dario_amodei_bing_0030.jpg
+2025-08-10 19:22:05,321 - INFO - Downloaded: dario_amodei_bing_0031.jpg
+2025-08-10 19:22:05,482 - INFO - Downloaded: dario_amodei_bing_0032.jpg
+2025-08-10 19:22:05,621 - INFO - Downloaded: dario_amodei_bing_0033.jpg
+2025-08-10 19:22:07,027 - INFO - Downloaded: dario_amodei_bing_0029.jpg
+2025-08-10 19:22:07,663 - INFO - Downloaded: dario_amodei_bing_0027.jpg
+2025-08-10 19:22:10,632 - INFO - Downloaded: dario_amodei_bing_0028.jpg
+2025-08-10 19:22:12,733 - INFO - Starting scrape for: Emad Mostaque
+2025-08-10 19:22:13,410 - INFO - Found 33 image URLs from Bing Images for Emad Mostaque
+2025-08-10 19:22:13,411 - INFO - Source bing: Found 33 images for Emad Mostaque
+2025-08-10 19:22:15,739 - INFO - Found 0 image URLs from DuckDuckGo for Emad Mostaque
+2025-08-10 19:22:15,740 - INFO - Source duckduckgo: Found 0 images for Emad Mostaque
+2025-08-10 19:22:19,648 - INFO - Google Images response status: 200
+2025-08-10 19:22:19,735 - INFO - Found 0 image URLs from Google Images for Emad Mostaque
+2025-08-10 19:22:19,735 - INFO - Source google: Found 0 images for Emad Mostaque
+2025-08-10 19:22:21,736 - INFO - Total images found for Emad Mostaque: 33
+2025-08-10 19:22:22,127 - INFO - Downloaded: emad_mostaque_bing_0002.jpg
+2025-08-10 19:22:22,203 - INFO - Downloaded: emad_mostaque_bing_0003.jpg
+2025-08-10 19:22:22,418 - INFO - Downloaded: emad_mostaque_bing_0004.jpg
+2025-08-10 19:22:22,510 - INFO - Downloaded: emad_mostaque_bing_0006.jpg
+2025-08-10 19:22:22,647 - INFO - Downloaded: emad_mostaque_bing_0001.jpg
+2025-08-10 19:22:22,708 - INFO - Downloaded: emad_mostaque_bing_0005.jpg
+2025-08-10 19:22:22,803 - ERROR - Error downloading https://s9i7q5a6.rocketcdn.me/wp-content/uploads/emad-mostaque-photo-768x768.png: HTTPSConnectionPool(host='s9i7q5a6.rocketcdn.me', port=443): Max retries exceeded with url: /wp-content/uploads/emad-mostaque-photo-768x768.png (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 's9i7q5a6.rocketcdn.me'. (_ssl.c:1000)")))
+2025-08-10 19:22:22,925 - INFO - Downloaded: emad_mostaque_bing_0007.jpg
+2025-08-10 19:22:22,981 - INFO - Downloaded: emad_mostaque_bing_0011.jpg
+2025-08-10 19:22:23,178 - ERROR - Error downloading https://www.thecityceleb.com/wp-content/uploads/2024/07/Emad-Mostaque-Biography-Wife-Age-Children-Net-Worth-Podcast-Interview-Videos-Education.jpg: 404 Client Error: Not Found for url: https://www.thecityceleb.com/wp-content/uploads/2024/07/Emad-Mostaque-Biography-Wife-Age-Children-Net-Worth-Podcast-Interview-Videos-Education.jpg
+2025-08-10 19:22:23,201 - INFO - Downloaded: emad_mostaque_bing_0009.jpg
+2025-08-10 19:22:23,281 - ERROR - Error downloading https://s9i7q5a6.rocketcdn.me/wp-content/uploads/emad-mostaque-photo-768x768.png: HTTPSConnectionPool(host='s9i7q5a6.rocketcdn.me', port=443): Max retries exceeded with url: /wp-content/uploads/emad-mostaque-photo-768x768.png (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 's9i7q5a6.rocketcdn.me'. (_ssl.c:1000)")))
+2025-08-10 19:22:23,300 - INFO - Downloaded: emad_mostaque_bing_0014.jpg
+2025-08-10 19:22:23,420 - INFO - Downloaded: emad_mostaque_bing_0017.jpg
+2025-08-10 19:22:23,541 - INFO - Downloaded: emad_mostaque_bing_0016.jpg
+2025-08-10 19:22:23,685 - INFO - Downloaded: emad_mostaque_bing_0020.jpg
+2025-08-10 19:22:23,690 - INFO - Downloaded: emad_mostaque_bing_0019.jpg
+2025-08-10 19:22:23,818 - INFO - Downloaded: emad_mostaque_bing_0018.jpg
+2025-08-10 19:22:23,916 - INFO - Downloaded: emad_mostaque_bing_0021.jpg
+2025-08-10 19:22:23,930 - INFO - Downloaded: emad_mostaque_bing_0008.jpg
+2025-08-10 19:22:23,970 - INFO - Downloaded: emad_mostaque_bing_0022.jpg
+2025-08-10 19:22:24,055 - INFO - Downloaded: emad_mostaque_bing_0013.jpg
+2025-08-10 19:22:24,206 - INFO - Downloaded: emad_mostaque_bing_0026.jpg
+2025-08-10 19:22:24,427 - INFO - Downloaded: emad_mostaque_bing_0027.jpg
+2025-08-10 19:22:24,430 - INFO - Downloaded: emad_mostaque_bing_0025.jpg
+2025-08-10 19:22:24,500 - INFO - Downloaded: emad_mostaque_bing_0023.jpg
+2025-08-10 19:22:24,607 - INFO - Downloaded: emad_mostaque_bing_0028.jpg
+2025-08-10 19:22:24,745 - INFO - Downloaded: emad_mostaque_bing_0030.jpg
+2025-08-10 19:22:24,859 - INFO - Downloaded: emad_mostaque_bing_0031.jpg
+2025-08-10 19:22:24,926 - INFO - Downloaded: emad_mostaque_bing_0032.jpg
+2025-08-10 19:22:25,025 - INFO - Downloaded: emad_mostaque_bing_0029.jpg
+2025-08-10 19:22:25,172 - INFO - Downloaded: emad_mostaque_bing_0024.jpg
+2025-08-10 19:22:26,234 - INFO - Downloaded: emad_mostaque_bing_0033.jpg
+2025-08-10 19:22:28,335 - INFO - Starting scrape for: Lionel Messi
+2025-08-10 19:22:29,020 - INFO - Found 33 image URLs from Bing Images for Lionel Messi
+2025-08-10 19:22:29,021 - INFO - Source bing: Found 33 images for Lionel Messi
+2025-08-10 19:22:31,415 - INFO - Found 0 image URLs from DuckDuckGo for Lionel Messi
+2025-08-10 19:22:31,415 - INFO - Source duckduckgo: Found 0 images for Lionel Messi
+2025-08-10 19:22:37,520 - INFO - Google Images response status: 200
+2025-08-10 19:22:37,612 - INFO - Found 0 image URLs from Google Images for Lionel Messi
+2025-08-10 19:22:37,612 - INFO - Source google: Found 0 images for Lionel Messi
+2025-08-10 19:22:39,613 - INFO - Total images found for Lionel Messi: 33
+2025-08-10 19:22:39,802 - INFO - Downloaded: lionel_messi_bing_0001.jpg
+2025-08-10 19:22:39,853 - INFO - Downloaded: lionel_messi_bing_0005.jpg
+2025-08-10 19:22:39,857 - INFO - Downloaded: lionel_messi_bing_0004.jpg
+2025-08-10 19:22:39,867 - INFO - Downloaded: lionel_messi_bing_0003.jpg
+2025-08-10 19:22:40,025 - INFO - Downloaded: lionel_messi_bing_0006.jpg
+2025-08-10 19:22:40,040 - INFO - Downloaded: lionel_messi_bing_0008.jpg
+2025-08-10 19:22:40,084 - INFO - Downloaded: lionel_messi_bing_0007.jpg
+2025-08-10 19:22:40,107 - INFO - Downloaded: lionel_messi_bing_0002.jpg
+2025-08-10 19:22:40,198 - INFO - Downloaded: lionel_messi_bing_0010.jpg
+2025-08-10 19:22:40,201 - INFO - Downloaded: lionel_messi_bing_0009.jpg
+2025-08-10 19:22:40,240 - INFO - Downloaded: lionel_messi_bing_0011.jpg
+2025-08-10 19:22:40,442 - INFO - Downloaded: lionel_messi_bing_0012.jpg
+2025-08-10 19:22:40,681 - INFO - Downloaded: lionel_messi_bing_0015.jpg
+2025-08-10 19:22:40,696 - INFO - Downloaded: lionel_messi_bing_0016.jpg
+2025-08-10 19:22:40,766 - INFO - Downloaded: lionel_messi_bing_0018.jpg
+2025-08-10 19:22:40,983 - INFO - Downloaded: lionel_messi_bing_0014.jpg
+2025-08-10 19:22:40,983 - INFO - Downloaded: lionel_messi_bing_0019.jpg
+2025-08-10 19:22:41,034 - INFO - Downloaded: lionel_messi_bing_0020.jpg
+2025-08-10 19:22:41,226 - INFO - Downloaded: lionel_messi_bing_0021.jpg
+2025-08-10 19:22:41,271 - INFO - Downloaded: lionel_messi_bing_0013.jpg
+2025-08-10 19:22:41,439 - ERROR - Error downloading https://dailypost.ng/wp-content/uploads/2023/06/skysports-lionel-messi-paris-saint-germain_6180800.jpg: 404 Client Error: Not Found for url: https://dailypost.ng/wp-content/uploads/2023/06/skysports-lionel-messi-paris-saint-germain_6180800.jpg
+2025-08-10 19:22:41,459 - INFO - Downloaded: lionel_messi_bing_0025.jpg
+2025-08-10 19:22:41,647 - INFO - Downloaded: lionel_messi_bing_0022.jpg
+2025-08-10 19:22:41,751 - INFO - Downloaded: lionel_messi_bing_0026.jpg
+2025-08-10 19:22:41,786 - INFO - Downloaded: lionel_messi_bing_0024.jpg
+2025-08-10 19:22:41,955 - INFO - Downloaded: lionel_messi_bing_0028.jpg
+2025-08-10 19:22:42,248 - INFO - Downloaded: lionel_messi_bing_0027.jpg
+2025-08-10 19:22:42,262 - INFO - Downloaded: lionel_messi_bing_0030.jpg
+2025-08-10 19:22:42,606 - INFO - Downloaded: lionel_messi_bing_0031.jpg
+2025-08-10 19:22:42,786 - INFO - Downloaded: lionel_messi_bing_0032.jpg
+2025-08-10 19:22:42,985 - INFO - Downloaded: lionel_messi_bing_0029.jpg
+2025-08-10 19:22:43,061 - INFO - Downloaded: lionel_messi_bing_0023.jpg
+2025-08-10 19:23:02,354 - ERROR - Error downloading https://www.planetsport.com/image-library/square/1200/a/argentinas-lionel-messi-poses-with-the-fifa-world-cup-trophy.jpg: HTTPSConnectionPool(host='www.planetsport.com', port=443): Max retries exceeded with url: /image-library/square/1200/a/argentinas-lionel-messi-poses-with-the-fifa-world-cup-trophy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b8333c560>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:23:04,455 - INFO - Starting scrape for: Cristiano Ronaldo
+2025-08-10 19:23:05,122 - INFO - Found 33 image URLs from Bing Images for Cristiano Ronaldo
+2025-08-10 19:23:05,122 - INFO - Source bing: Found 33 images for Cristiano Ronaldo
+2025-08-10 19:23:07,632 - INFO - Found 0 image URLs from DuckDuckGo for Cristiano Ronaldo
+2025-08-10 19:23:07,633 - INFO - Source duckduckgo: Found 0 images for Cristiano Ronaldo
+2025-08-10 19:23:13,555 - INFO - Google Images response status: 200
+2025-08-10 19:23:13,646 - INFO - Found 0 image URLs from Google Images for Cristiano Ronaldo
+2025-08-10 19:23:13,646 - INFO - Source google: Found 0 images for Cristiano Ronaldo
+2025-08-10 19:23:15,646 - INFO - Total images found for Cristiano Ronaldo: 33
+2025-08-10 19:23:15,845 - INFO - Downloaded: cristiano_ronaldo_bing_0004.jpg
+2025-08-10 19:23:15,870 - INFO - Downloaded: cristiano_ronaldo_bing_0002.jpg
+2025-08-10 19:23:16,017 - INFO - Downloaded: cristiano_ronaldo_bing_0003.jpg
+2025-08-10 19:23:16,038 - INFO - Downloaded: cristiano_ronaldo_bing_0007.jpg
+2025-08-10 19:23:16,183 - INFO - Downloaded: cristiano_ronaldo_bing_0001.jpg
+2025-08-10 19:23:16,211 - INFO - Downloaded: cristiano_ronaldo_bing_0009.jpg
+2025-08-10 19:23:16,308 - INFO - Downloaded: cristiano_ronaldo_bing_0005.jpg
+2025-08-10 19:23:16,430 - INFO - Downloaded: cristiano_ronaldo_bing_0011.jpg
+2025-08-10 19:23:16,458 - INFO - Downloaded: cristiano_ronaldo_bing_0010.jpg
+2025-08-10 19:23:16,643 - INFO - Downloaded: cristiano_ronaldo_bing_0012.jpg
+2025-08-10 19:23:16,783 - INFO - Downloaded: cristiano_ronaldo_bing_0013.jpg
+2025-08-10 19:23:16,979 - INFO - Downloaded: cristiano_ronaldo_bing_0014.jpg
+2025-08-10 19:23:17,289 - INFO - Downloaded: cristiano_ronaldo_bing_0008.jpg
+2025-08-10 19:23:17,301 - INFO - Downloaded: cristiano_ronaldo_bing_0017.jpg
+2025-08-10 19:23:17,377 - INFO - Downloaded: cristiano_ronaldo_bing_0019.jpg
+2025-08-10 19:23:17,633 - INFO - Downloaded: cristiano_ronaldo_bing_0020.jpg
+2025-08-10 19:23:17,955 - INFO - Downloaded: cristiano_ronaldo_bing_0016.jpg
+2025-08-10 19:23:17,958 - INFO - Downloaded: cristiano_ronaldo_bing_0018.jpg
+2025-08-10 19:23:18,322 - INFO - Downloaded: cristiano_ronaldo_bing_0006.jpg
+2025-08-10 19:23:18,333 - INFO - Downloaded: cristiano_ronaldo_bing_0021.jpg
+2025-08-10 19:23:18,435 - INFO - Downloaded: cristiano_ronaldo_bing_0015.jpg
+2025-08-10 19:23:18,522 - INFO - Downloaded: cristiano_ronaldo_bing_0023.jpg
+2025-08-10 19:23:18,602 - INFO - Downloaded: cristiano_ronaldo_bing_0022.jpg
+2025-08-10 19:23:18,679 - INFO - Downloaded: cristiano_ronaldo_bing_0024.jpg
+2025-08-10 19:23:18,784 - INFO - Downloaded: cristiano_ronaldo_bing_0029.jpg
+2025-08-10 19:23:18,949 - INFO - Downloaded: cristiano_ronaldo_bing_0026.jpg
+2025-08-10 19:23:18,988 - INFO - Downloaded: cristiano_ronaldo_bing_0025.jpg
+2025-08-10 19:23:18,993 - INFO - Downloaded: cristiano_ronaldo_bing_0027.jpg
+2025-08-10 19:23:19,139 - INFO - Downloaded: cristiano_ronaldo_bing_0031.jpg
+2025-08-10 19:23:19,211 - INFO - Downloaded: cristiano_ronaldo_bing_0028.jpg
+2025-08-10 19:23:19,249 - INFO - Downloaded: cristiano_ronaldo_bing_0030.jpg
+2025-08-10 19:23:20,439 - INFO - Downloaded: cristiano_ronaldo_bing_0032.jpg
+2025-08-10 19:23:22,016 - INFO - Downloaded: cristiano_ronaldo_bing_0033.jpg
+2025-08-10 19:23:24,117 - INFO - Starting scrape for: Kylian Mbappé
+2025-08-10 19:23:24,748 - INFO - Found 33 image URLs from Bing Images for Kylian Mbappé
+2025-08-10 19:23:24,748 - INFO - Source bing: Found 33 images for Kylian Mbappé
+2025-08-10 19:23:27,426 - INFO - Found 0 image URLs from DuckDuckGo for Kylian Mbappé
+2025-08-10 19:23:27,427 - INFO - Source duckduckgo: Found 0 images for Kylian Mbappé
+2025-08-10 19:23:32,438 - INFO - Google Images response status: 200
+2025-08-10 19:23:32,525 - INFO - Found 0 image URLs from Google Images for Kylian Mbappé
+2025-08-10 19:23:32,526 - INFO - Source google: Found 0 images for Kylian Mbappé
+2025-08-10 19:23:34,526 - INFO - Total images found for Kylian Mbappé: 33
+2025-08-10 19:23:34,681 - ERROR - Error downloading https://images.wallpapersden.com/image/download/kylian-mbappe-french-fifa-qatar-2022_bW1oZWeUmZqaraWkpJRmZ2VlrWZuZ2U.jpg: 403 Client Error: Forbidden for url: https://images.wallpapersden.com/image/download/kylian-mbappe-french-fifa-qatar-2022_bW1oZWeUmZqaraWkpJRmZ2VlrWZuZ2U.jpg
+2025-08-10 19:23:34,980 - INFO - Downloaded: kylian_mbappé_bing_0002.jpg
+2025-08-10 19:23:35,049 - INFO - Downloaded: kylian_mbappé_bing_0006.jpg
+2025-08-10 19:23:35,096 - INFO - Downloaded: kylian_mbappé_bing_0004.jpg
+2025-08-10 19:23:35,220 - INFO - Downloaded: kylian_mbappé_bing_0003.jpg
+2025-08-10 19:23:35,374 - INFO - Downloaded: kylian_mbappé_bing_0005.jpg
+2025-08-10 19:23:35,737 - INFO - Downloaded: kylian_mbappé_bing_0009.jpg
+2025-08-10 19:23:35,887 - ERROR - Error downloading https://c.ndtvimg.com/gws/ms/kylian-mbappes-signature-hairstyle/assets/1.jpeg?1671437030: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/gws/ms/kylian-mbappes-signature-hairstyle/assets/1.jpeg?1671437030
+2025-08-10 19:23:36,226 - INFO - Downloaded: kylian_mbappé_bing_0011.jpg
+2025-08-10 19:23:36,335 - INFO - Downloaded: kylian_mbappé_bing_0013.jpg
+2025-08-10 19:23:36,463 - INFO - Downloaded: kylian_mbappé_bing_0014.jpg
+2025-08-10 19:23:36,516 - INFO - Downloaded: kylian_mbappé_bing_0015.jpg
+2025-08-10 19:23:36,800 - INFO - Downloaded: kylian_mbappé_bing_0017.jpg
+2025-08-10 19:23:36,982 - INFO - Downloaded: kylian_mbappé_bing_0016.jpg
+2025-08-10 19:23:37,311 - INFO - Downloaded: kylian_mbappé_bing_0019.jpg
+2025-08-10 19:23:37,478 - INFO - Downloaded: kylian_mbappé_bing_0020.jpg
+2025-08-10 19:23:37,560 - INFO - Downloaded: kylian_mbappé_bing_0018.jpg
+2025-08-10 19:23:37,598 - INFO - Downloaded: kylian_mbappé_bing_0021.jpg
+2025-08-10 19:23:37,705 - ERROR - Error downloading https://c.ndtvimg.com/gws/ms/kylian-mbappes-signature-hairstyle/assets/5.jpeg?1671437030: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/gws/ms/kylian-mbappes-signature-hairstyle/assets/5.jpeg?1671437030
+2025-08-10 19:23:37,741 - INFO - Downloaded: kylian_mbappé_bing_0010.jpg
+2025-08-10 19:23:37,777 - INFO - Downloaded: kylian_mbappé_bing_0024.jpg
+2025-08-10 19:23:38,015 - INFO - Downloaded: kylian_mbappé_bing_0025.jpg
+2025-08-10 19:23:38,076 - INFO - Downloaded: kylian_mbappé_bing_0027.jpg
+2025-08-10 19:23:38,162 - INFO - Downloaded: kylian_mbappé_bing_0026.jpg
+2025-08-10 19:23:38,171 - INFO - Downloaded: kylian_mbappé_bing_0007.jpg
+2025-08-10 19:23:38,312 - INFO - Downloaded: kylian_mbappé_bing_0029.jpg
+2025-08-10 19:23:38,337 - INFO - Downloaded: kylian_mbappé_bing_0028.jpg
+2025-08-10 19:23:38,395 - INFO - Downloaded: kylian_mbappé_bing_0022.jpg
+2025-08-10 19:23:38,412 - INFO - Downloaded: kylian_mbappé_bing_0030.jpg
+2025-08-10 19:23:38,648 - INFO - Downloaded: kylian_mbappé_bing_0032.jpg
+2025-08-10 19:23:39,255 - INFO - Downloaded: kylian_mbappé_bing_0033.jpg
+2025-08-10 19:23:39,806 - INFO - Downloaded: kylian_mbappé_bing_0031.jpg
+2025-08-10 19:23:40,218 - INFO - Downloaded: kylian_mbappé_bing_0008.jpg
+2025-08-10 19:23:42,319 - INFO - Starting scrape for: Neymar Jr
+2025-08-10 19:23:42,960 - INFO - Found 33 image URLs from Bing Images for Neymar Jr
+2025-08-10 19:23:42,960 - INFO - Source bing: Found 33 images for Neymar Jr
+2025-08-10 19:23:45,322 - INFO - Found 0 image URLs from DuckDuckGo for Neymar Jr
+2025-08-10 19:23:45,322 - INFO - Source duckduckgo: Found 0 images for Neymar Jr
+2025-08-10 19:23:49,229 - INFO - Google Images response status: 200
+2025-08-10 19:23:49,327 - INFO - Found 0 image URLs from Google Images for Neymar Jr
+2025-08-10 19:23:49,327 - INFO - Source google: Found 0 images for Neymar Jr
+2025-08-10 19:23:51,327 - INFO - Total images found for Neymar Jr: 33
+2025-08-10 19:23:51,540 - INFO - Downloaded: neymar_jr_bing_0004.jpg
+2025-08-10 19:23:51,634 - INFO - Downloaded: neymar_jr_bing_0003.jpg
+2025-08-10 19:23:51,666 - INFO - Downloaded: neymar_jr_bing_0005.jpg
+2025-08-10 19:23:51,723 - INFO - Downloaded: neymar_jr_bing_0001.jpg
+2025-08-10 19:23:51,795 - INFO - Downloaded: neymar_jr_bing_0007.jpg
+2025-08-10 19:23:51,862 - INFO - Downloaded: neymar_jr_bing_0010.jpg
+2025-08-10 19:23:51,969 - INFO - Downloaded: neymar_jr_bing_0009.jpg
+2025-08-10 19:23:52,049 - ERROR - Error downloading https://images.wallpapersden.com/image/download/neymar-jr_am5oaWWUmZqaraWkpJRobWllrWdpZWU.jpg: 403 Client Error: Forbidden for url: https://images.wallpapersden.com/image/download/neymar-jr_am5oaWWUmZqaraWkpJRobWllrWdpZWU.jpg
+2025-08-10 19:23:52,073 - INFO - Downloaded: neymar_jr_bing_0006.jpg
+2025-08-10 19:23:52,177 - INFO - Downloaded: neymar_jr_bing_0011.jpg
+2025-08-10 19:23:52,356 - INFO - Downloaded: neymar_jr_bing_0015.jpg
+2025-08-10 19:23:52,441 - INFO - Downloaded: neymar_jr_bing_0014.jpg
+2025-08-10 19:23:52,638 - INFO - Downloaded: neymar_jr_bing_0017.jpg
+2025-08-10 19:23:52,913 - INFO - Downloaded: neymar_jr_bing_0016.jpg
+2025-08-10 19:23:53,021 - INFO - Downloaded: neymar_jr_bing_0008.jpg
+2025-08-10 19:23:53,259 - WARNING - Invalid image: https://metropolitanafm.com.br/wp-content/uploads/2022/11/Neymar-Jr.-Biografia-Ultimas-Noticias-Curiosidades-Idade-e-muito-mais.jpg
+2025-08-10 19:23:53,340 - INFO - Downloaded: neymar_jr_bing_0002.jpg
+2025-08-10 19:23:53,592 - INFO - Downloaded: neymar_jr_bing_0021.jpg
+2025-08-10 19:23:53,732 - ERROR - Error downloading https://static.netwrck.com/static/uploads/ai-Neymar-jr--sarcasm.webp: 403 Client Error: Forbidden for url: https://static.netwrck.com/static/uploads/ai-Neymar-jr--sarcasm.webp
+2025-08-10 19:23:54,130 - INFO - Downloaded: neymar_jr_bing_0020.jpg
+2025-08-10 19:23:54,291 - INFO - Downloaded: neymar_jr_bing_0022.jpg
+2025-08-10 19:23:54,421 - INFO - Downloaded: neymar_jr_bing_0023.jpg
+2025-08-10 19:23:54,571 - INFO - Downloaded: neymar_jr_bing_0025.jpg
+2025-08-10 19:23:54,837 - INFO - Downloaded: neymar_jr_bing_0028.jpg
+2025-08-10 19:23:55,317 - WARNING - Invalid image: https://www.psg.fr/media/221317/055_agif443368.jpg
+2025-08-10 19:23:55,515 - INFO - Downloaded: neymar_jr_bing_0029.jpg
+2025-08-10 19:23:55,732 - INFO - Downloaded: neymar_jr_bing_0030.jpg
+2025-08-10 19:23:55,759 - INFO - Downloaded: neymar_jr_bing_0027.jpg
+2025-08-10 19:23:55,792 - ERROR - Error downloading https://psgimages.stadion.io/media/242464/neymar.jpg?center=0.26158038147138962: HTTPSConnectionPool(host='psgimages.stadion.io', port=443): Max retries exceeded with url: /media/242464/neymar.jpg?center=0.26158038147138962 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x790b82fd7c80>: Failed to resolve 'psgimages.stadion.io' ([Errno -2] Name or service not known)"))
+2025-08-10 19:23:56,259 - INFO - Downloaded: neymar_jr_bing_0033.jpg
+2025-08-10 19:24:05,245 - ERROR - Error downloading https://www.enwallpaper.com/wp-content/uploads/2023/10/neymar-jr-wallpaper-2.jpg: HTTPSConnectionPool(host='www.enwallpaper.com', port=443): Max retries exceeded with url: /wp-content/uploads/2023/10/neymar-jr-wallpaper-2.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x790b83e279e0>: Failed to resolve 'www.enwallpaper.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-08-10 19:24:05,568 - ERROR - Error downloading https://icdn.football-espana.net/wp-content/uploads/2025/03/Neymar.jpeg: HTTPSConnectionPool(host='icdn.football-espana.net', port=443): Read timed out. (read timeout=10)
+2025-08-10 19:24:13,813 - ERROR - Error downloading https://www.footyrenders.com/render/neymar-194.png: HTTPSConnectionPool(host='www.footyrenders.com', port=443): Max retries exceeded with url: /render/neymar-194.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83eabe00>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:24:15,914 - INFO - Starting scrape for: Mohamed Salah
+2025-08-10 19:24:16,999 - INFO - Found 33 image URLs from Bing Images for Mohamed Salah
+2025-08-10 19:24:16,999 - INFO - Source bing: Found 33 images for Mohamed Salah
+2025-08-10 19:24:19,471 - INFO - Found 0 image URLs from DuckDuckGo for Mohamed Salah
+2025-08-10 19:24:19,471 - INFO - Source duckduckgo: Found 0 images for Mohamed Salah
+2025-08-10 19:24:25,411 - INFO - Google Images response status: 200
+2025-08-10 19:24:25,519 - INFO - Found 0 image URLs from Google Images for Mohamed Salah
+2025-08-10 19:24:25,519 - INFO - Source google: Found 0 images for Mohamed Salah
+2025-08-10 19:24:27,519 - INFO - Total images found for Mohamed Salah: 33
+2025-08-10 19:24:27,744 - INFO - Downloaded: mohamed_salah_bing_0004.jpg
+2025-08-10 19:24:27,758 - INFO - Downloaded: mohamed_salah_bing_0005.jpg
+2025-08-10 19:24:27,776 - INFO - Downloaded: mohamed_salah_bing_0003.jpg
+2025-08-10 19:24:28,069 - INFO - Downloaded: mohamed_salah_bing_0007.jpg
+2025-08-10 19:24:28,129 - INFO - Downloaded: mohamed_salah_bing_0002.jpg
+2025-08-10 19:24:28,222 - INFO - Downloaded: mohamed_salah_bing_0006.jpg
+2025-08-10 19:24:28,369 - INFO - Downloaded: mohamed_salah_bing_0001.jpg
+2025-08-10 19:24:28,424 - INFO - Downloaded: mohamed_salah_bing_0011.jpg
+2025-08-10 19:24:28,497 - INFO - Downloaded: mohamed_salah_bing_0012.jpg
+2025-08-10 19:24:28,622 - ERROR - Error downloading https://pictures.tribuna.com/image/78ca3460-a64e-4bfb-85ef-c74f0fd9d5b7?width=1920&quality=70: 403 Client Error: Forbidden for url: https://pictures.tribuna.com/image/78ca3460-a64e-4bfb-85ef-c74f0fd9d5b7?width=1920&quality=70
+2025-08-10 19:24:28,820 - INFO - Downloaded: mohamed_salah_bing_0008.jpg
+2025-08-10 19:24:28,958 - INFO - Downloaded: mohamed_salah_bing_0014.jpg
+2025-08-10 19:24:29,311 - INFO - Downloaded: mohamed_salah_bing_0015.jpg
+2025-08-10 19:24:29,854 - INFO - Downloaded: mohamed_salah_bing_0016.jpg
+2025-08-10 19:24:29,978 - INFO - Downloaded: mohamed_salah_bing_0018.jpg
+2025-08-10 19:24:30,002 - INFO - Downloaded: mohamed_salah_bing_0017.jpg
+2025-08-10 19:24:31,079 - INFO - Downloaded: mohamed_salah_bing_0009.jpg
+2025-08-10 19:24:31,111 - INFO - Downloaded: mohamed_salah_bing_0021.jpg
+2025-08-10 19:24:31,385 - INFO - Downloaded: mohamed_salah_bing_0023.jpg
+2025-08-10 19:24:31,395 - INFO - Downloaded: mohamed_salah_bing_0022.jpg
+2025-08-10 19:24:31,543 - INFO - Downloaded: mohamed_salah_bing_0019.jpg
+2025-08-10 19:24:31,588 - INFO - Downloaded: mohamed_salah_bing_0024.jpg
+2025-08-10 19:24:32,061 - INFO - Downloaded: mohamed_salah_bing_0010.jpg
+2025-08-10 19:24:32,501 - INFO - Downloaded: mohamed_salah_bing_0025.jpg
+2025-08-10 19:24:32,762 - INFO - Downloaded: mohamed_salah_bing_0027.jpg
+2025-08-10 19:24:32,920 - INFO - Downloaded: mohamed_salah_bing_0028.jpg
+2025-08-10 19:24:33,154 - INFO - Downloaded: mohamed_salah_bing_0029.jpg
+2025-08-10 19:24:33,376 - INFO - Downloaded: mohamed_salah_bing_0030.jpg
+2025-08-10 19:24:33,459 - INFO - Downloaded: mohamed_salah_bing_0032.jpg
+2025-08-10 19:24:33,760 - INFO - Downloaded: mohamed_salah_bing_0026.jpg
+2025-08-10 19:24:34,180 - INFO - Downloaded: mohamed_salah_bing_0033.jpg
+2025-08-10 19:24:34,335 - INFO - Downloaded: mohamed_salah_bing_0020.jpg
+2025-08-10 19:24:35,058 - INFO - Downloaded: mohamed_salah_bing_0031.jpg
+2025-08-10 19:24:37,159 - INFO - Starting scrape for: Erling Haaland
+2025-08-10 19:24:37,744 - INFO - Found 33 image URLs from Bing Images for Erling Haaland
+2025-08-10 19:24:37,744 - INFO - Source bing: Found 33 images for Erling Haaland
+2025-08-10 19:24:40,171 - INFO - Found 0 image URLs from DuckDuckGo for Erling Haaland
+2025-08-10 19:24:40,172 - INFO - Source duckduckgo: Found 0 images for Erling Haaland
+2025-08-10 19:24:43,967 - INFO - Google Images response status: 200
+2025-08-10 19:24:44,063 - INFO - Found 0 image URLs from Google Images for Erling Haaland
+2025-08-10 19:24:44,063 - INFO - Source google: Found 0 images for Erling Haaland
+2025-08-10 19:24:46,063 - INFO - Total images found for Erling Haaland: 33
+2025-08-10 19:24:46,259 - INFO - Downloaded: erling_haaland_bing_0002.jpg
+2025-08-10 19:24:46,649 - INFO - Downloaded: erling_haaland_bing_0004.jpg
+2025-08-10 19:24:47,035 - INFO - Downloaded: erling_haaland_bing_0005.jpg
+2025-08-10 19:24:47,252 - INFO - Downloaded: erling_haaland_bing_0007.jpg
+2025-08-10 19:24:47,376 - INFO - Downloaded: erling_haaland_bing_0006.jpg
+2025-08-10 19:24:47,442 - INFO - Downloaded: erling_haaland_bing_0003.jpg
+2025-08-10 19:24:47,594 - INFO - Downloaded: erling_haaland_bing_0010.jpg
+2025-08-10 19:24:47,878 - INFO - Downloaded: erling_haaland_bing_0012.jpg
+2025-08-10 19:24:47,947 - INFO - Downloaded: erling_haaland_bing_0011.jpg
+2025-08-10 19:24:48,236 - INFO - Downloaded: erling_haaland_bing_0014.jpg
+2025-08-10 19:24:48,625 - INFO - Downloaded: erling_haaland_bing_0013.jpg
+2025-08-10 19:24:49,366 - INFO - Downloaded: erling_haaland_bing_0016.jpg
+2025-08-10 19:24:49,579 - INFO - Downloaded: erling_haaland_bing_0015.jpg
+2025-08-10 19:24:50,075 - INFO - Downloaded: erling_haaland_bing_0017.jpg
+2025-08-10 19:24:50,543 - INFO - Downloaded: erling_haaland_bing_0019.jpg
+2025-08-10 19:24:51,004 - INFO - Downloaded: erling_haaland_bing_0018.jpg
+2025-08-10 19:24:52,503 - INFO - Downloaded: erling_haaland_bing_0020.jpg
+2025-08-10 19:24:52,794 - INFO - Downloaded: erling_haaland_bing_0021.jpg
+2025-08-10 19:24:53,066 - INFO - Downloaded: erling_haaland_bing_0023.jpg
+2025-08-10 19:24:54,329 - INFO - Downloaded: erling_haaland_bing_0022.jpg
+2025-08-10 19:24:55,320 - INFO - Downloaded: erling_haaland_bing_0024.jpg
+2025-08-10 19:24:55,687 - INFO - Downloaded: erling_haaland_bing_0026.jpg
+2025-08-10 19:24:55,739 - INFO - Downloaded: erling_haaland_bing_0025.jpg
+2025-08-10 19:24:55,960 - INFO - Downloaded: erling_haaland_bing_0028.jpg
+2025-08-10 19:24:56,534 - INFO - Downloaded: erling_haaland_bing_0027.jpg
+2025-08-10 19:24:56,542 - INFO - Downloaded: erling_haaland_bing_0029.jpg
+2025-08-10 19:24:57,219 - INFO - Downloaded: erling_haaland_bing_0030.jpg
+2025-08-10 19:24:57,679 - INFO - Downloaded: erling_haaland_bing_0031.jpg
+2025-08-10 19:24:57,856 - INFO - Downloaded: erling_haaland_bing_0032.jpg
+2025-08-10 19:24:59,253 - INFO - Downloaded: erling_haaland_bing_0033.jpg
+2025-08-10 19:25:06,104 - ERROR - Error downloading https://www.planetsport.com/image-library/og/1600/m/man-city-erling-haaland-14-march-2023.jpg: HTTPSConnectionPool(host='www.planetsport.com', port=443): Max retries exceeded with url: /image-library/og/1600/m/man-city-erling-haaland-14-march-2023.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83165f70>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:25:07,119 - ERROR - Error downloading https://cdn.pmnewsnigeria.com/wp-content/uploads/2023/06/Erling-Haaland2.jpg: HTTPSConnectionPool(host='cdn.pmnewsnigeria.com', port=443): Max retries exceeded with url: /wp-content/uploads/2023/06/Erling-Haaland2.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82c89850>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:25:07,276 - ERROR - Error downloading https://www.planetsport.com/image-library/og/1600/e/erling-haaland-oct-2022.jpg: HTTPSConnectionPool(host='www.planetsport.com', port=443): Max retries exceeded with url: /image-library/og/1600/e/erling-haaland-oct-2022.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b846717f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:25:09,377 - INFO - Starting scrape for: Kevin De Bruyne
+2025-08-10 19:25:10,021 - INFO - Found 33 image URLs from Bing Images for Kevin De Bruyne
+2025-08-10 19:25:10,022 - INFO - Source bing: Found 33 images for Kevin De Bruyne
+2025-08-10 19:25:12,450 - INFO - Found 0 image URLs from DuckDuckGo for Kevin De Bruyne
+2025-08-10 19:25:12,451 - INFO - Source duckduckgo: Found 0 images for Kevin De Bruyne
+2025-08-10 19:25:18,406 - INFO - Google Images response status: 200
+2025-08-10 19:25:18,537 - INFO - Found 0 image URLs from Google Images for Kevin De Bruyne
+2025-08-10 19:25:18,537 - INFO - Source google: Found 0 images for Kevin De Bruyne
+2025-08-10 19:25:20,538 - INFO - Total images found for Kevin De Bruyne: 33
+2025-08-10 19:25:20,806 - INFO - Downloaded: kevin_de_bruyne_bing_0004.jpg
+2025-08-10 19:25:20,869 - INFO - Downloaded: kevin_de_bruyne_bing_0005.jpg
+2025-08-10 19:25:20,930 - INFO - Downloaded: kevin_de_bruyne_bing_0003.jpg
+2025-08-10 19:25:20,957 - INFO - Downloaded: kevin_de_bruyne_bing_0001.jpg
+2025-08-10 19:25:21,134 - INFO - Downloaded: kevin_de_bruyne_bing_0007.jpg
+2025-08-10 19:25:21,291 - INFO - Downloaded: kevin_de_bruyne_bing_0009.jpg
+2025-08-10 19:25:21,452 - INFO - Downloaded: kevin_de_bruyne_bing_0008.jpg
+2025-08-10 19:25:21,458 - INFO - Downloaded: kevin_de_bruyne_bing_0010.jpg
+2025-08-10 19:25:21,644 - INFO - Downloaded: kevin_de_bruyne_bing_0012.jpg
+2025-08-10 19:25:21,841 - INFO - Downloaded: kevin_de_bruyne_bing_0013.jpg
+2025-08-10 19:25:22,036 - INFO - Downloaded: kevin_de_bruyne_bing_0002.jpg
+2025-08-10 19:25:22,098 - INFO - Downloaded: kevin_de_bruyne_bing_0014.jpg
+2025-08-10 19:25:22,183 - INFO - Downloaded: kevin_de_bruyne_bing_0017.jpg
+2025-08-10 19:25:22,233 - INFO - Downloaded: kevin_de_bruyne_bing_0016.jpg
+2025-08-10 19:25:22,396 - INFO - Downloaded: kevin_de_bruyne_bing_0011.jpg
+2025-08-10 19:25:22,462 - INFO - Downloaded: kevin_de_bruyne_bing_0019.jpg
+2025-08-10 19:25:22,702 - INFO - Downloaded: kevin_de_bruyne_bing_0021.jpg
+2025-08-10 19:25:22,939 - INFO - Downloaded: kevin_de_bruyne_bing_0022.jpg
+2025-08-10 19:25:23,266 - INFO - Downloaded: kevin_de_bruyne_bing_0006.jpg
+2025-08-10 19:25:23,569 - INFO - Downloaded: kevin_de_bruyne_bing_0023.jpg
+2025-08-10 19:25:23,937 - INFO - Downloaded: kevin_de_bruyne_bing_0024.jpg
+2025-08-10 19:25:24,031 - INFO - Downloaded: kevin_de_bruyne_bing_0026.jpg
+2025-08-10 19:25:24,176 - INFO - Downloaded: kevin_de_bruyne_bing_0025.jpg
+2025-08-10 19:25:24,430 - INFO - Downloaded: kevin_de_bruyne_bing_0020.jpg
+2025-08-10 19:25:24,603 - INFO - Downloaded: kevin_de_bruyne_bing_0015.jpg
+2025-08-10 19:25:24,610 - INFO - Downloaded: kevin_de_bruyne_bing_0029.jpg
+2025-08-10 19:25:24,787 - INFO - Downloaded: kevin_de_bruyne_bing_0030.jpg
+2025-08-10 19:25:25,167 - INFO - Downloaded: kevin_de_bruyne_bing_0031.jpg
+2025-08-10 19:25:25,539 - INFO - Downloaded: kevin_de_bruyne_bing_0032.jpg
+2025-08-10 19:25:25,661 - INFO - Downloaded: kevin_de_bruyne_bing_0027.jpg
+2025-08-10 19:25:26,237 - INFO - Downloaded: kevin_de_bruyne_bing_0033.jpg
+2025-08-10 19:25:42,286 - ERROR - Error downloading https://sportsunlimitednews.com/wp-content/uploads/2024/04/GettyImages-1933363219-1920x1280.jpg: HTTPSConnectionPool(host='sportsunlimitednews.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/GettyImages-1933363219-1920x1280.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b84b4de80>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:25:44,327 - ERROR - Error downloading https://www.rocnation.com/wp-content/uploads/2020/01/RN_Athletes_Kevin_720.jpg: HTTPSConnectionPool(host='www.rocnation.com', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/RN_Athletes_Kevin_720.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b84b382f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:25:46,428 - INFO - Starting scrape for: Luka Modrić
+2025-08-10 19:25:47,105 - INFO - Found 33 image URLs from Bing Images for Luka Modrić
+2025-08-10 19:25:47,105 - INFO - Source bing: Found 33 images for Luka Modrić
+2025-08-10 19:25:49,500 - INFO - Found 0 image URLs from DuckDuckGo for Luka Modrić
+2025-08-10 19:25:49,500 - INFO - Source duckduckgo: Found 0 images for Luka Modrić
+2025-08-10 19:25:55,392 - INFO - Google Images response status: 200
+2025-08-10 19:25:55,488 - INFO - Found 0 image URLs from Google Images for Luka Modrić
+2025-08-10 19:25:55,488 - INFO - Source google: Found 0 images for Luka Modrić
+2025-08-10 19:25:57,488 - INFO - Total images found for Luka Modrić: 33
+2025-08-10 19:25:57,755 - INFO - Downloaded: luka_modrić_bing_0003.jpg
+2025-08-10 19:25:57,869 - INFO - Downloaded: luka_modrić_bing_0006.jpg
+2025-08-10 19:25:57,938 - INFO - Downloaded: luka_modrić_bing_0002.jpg
+2025-08-10 19:25:58,123 - INFO - Downloaded: luka_modrić_bing_0004.jpg
+2025-08-10 19:25:58,251 - INFO - Downloaded: luka_modrić_bing_0001.jpg
+2025-08-10 19:25:58,319 - INFO - Downloaded: luka_modrić_bing_0005.jpg
+2025-08-10 19:25:58,510 - INFO - Downloaded: luka_modrić_bing_0007.jpg
+2025-08-10 19:25:58,559 - INFO - Downloaded: luka_modrić_bing_0009.jpg
+2025-08-10 19:25:58,758 - INFO - Downloaded: luka_modrić_bing_0011.jpg
+2025-08-10 19:25:58,833 - INFO - Downloaded: luka_modrić_bing_0010.jpg
+2025-08-10 19:25:58,837 - INFO - Downloaded: luka_modrić_bing_0008.jpg
+2025-08-10 19:25:58,854 - INFO - Downloaded: luka_modrić_bing_0013.jpg
+2025-08-10 19:25:58,963 - INFO - Downloaded: luka_modrić_bing_0014.jpg
+2025-08-10 19:25:59,077 - INFO - Downloaded: luka_modrić_bing_0012.jpg
+2025-08-10 19:25:59,206 - INFO - Downloaded: luka_modrić_bing_0015.jpg
+2025-08-10 19:25:59,209 - ERROR - Error downloading https://cdni0.trtworld.com/w960/h540/q75/45727_FRA181203TLukaModricREUTERS_1543874032731.JPG: HTTPSConnectionPool(host='cdni0.trtworld.com', port=443): Max retries exceeded with url: /w960/h540/q75/45727_FRA181203TLukaModricREUTERS_1543874032731.JPG (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-08-10 19:25:59,379 - INFO - Downloaded: luka_modrić_bing_0016.jpg
+2025-08-10 19:25:59,441 - INFO - Downloaded: luka_modrić_bing_0018.jpg
+2025-08-10 19:25:59,593 - INFO - Downloaded: luka_modrić_bing_0022.jpg
+2025-08-10 19:25:59,874 - INFO - Downloaded: luka_modrić_bing_0020.jpg
+2025-08-10 19:25:59,880 - INFO - Downloaded: luka_modrić_bing_0023.jpg
+2025-08-10 19:25:59,974 - INFO - Downloaded: luka_modrić_bing_0024.jpg
+2025-08-10 19:26:00,241 - ERROR - Error downloading https://pictures.tribuna.com/image/20424049-f97a-43e2-bc3c-c8bc5def0ab0?width=1920&quality=70: 403 Client Error: Forbidden for url: https://pictures.tribuna.com/image/20424049-f97a-43e2-bc3c-c8bc5def0ab0?width=1920&quality=70
+2025-08-10 19:26:00,354 - INFO - Downloaded: luka_modrić_bing_0027.jpg
+2025-08-10 19:26:00,416 - INFO - Downloaded: luka_modrić_bing_0021.jpg
+2025-08-10 19:26:00,719 - INFO - Downloaded: luka_modrić_bing_0029.jpg
+2025-08-10 19:26:00,790 - INFO - Downloaded: luka_modrić_bing_0026.jpg
+2025-08-10 19:26:00,973 - INFO - Downloaded: luka_modrić_bing_0032.jpg
+2025-08-10 19:26:01,061 - INFO - Downloaded: luka_modrić_bing_0030.jpg
+2025-08-10 19:26:01,403 - INFO - Downloaded: luka_modrić_bing_0033.jpg
+2025-08-10 19:26:01,984 - INFO - Downloaded: luka_modrić_bing_0031.jpg
+2025-08-10 19:26:02,057 - INFO - Downloaded: luka_modrić_bing_0017.jpg
+2025-08-10 19:26:05,388 - INFO - Downloaded: luka_modrić_bing_0028.jpg
+2025-08-10 19:26:07,489 - INFO - Starting scrape for: Karim Benzema
+2025-08-10 19:26:08,151 - INFO - Found 33 image URLs from Bing Images for Karim Benzema
+2025-08-10 19:26:08,151 - INFO - Source bing: Found 33 images for Karim Benzema
+2025-08-10 19:26:10,569 - INFO - Found 0 image URLs from DuckDuckGo for Karim Benzema
+2025-08-10 19:26:10,569 - INFO - Source duckduckgo: Found 0 images for Karim Benzema
+2025-08-10 19:26:15,349 - INFO - Google Images response status: 200
+2025-08-10 19:26:15,440 - INFO - Found 0 image URLs from Google Images for Karim Benzema
+2025-08-10 19:26:15,440 - INFO - Source google: Found 0 images for Karim Benzema
+2025-08-10 19:26:17,440 - INFO - Total images found for Karim Benzema: 33
+2025-08-10 19:26:17,749 - INFO - Downloaded: karim_benzema_bing_0004.jpg
+2025-08-10 19:26:17,803 - INFO - Downloaded: karim_benzema_bing_0005.jpg
+2025-08-10 19:26:17,895 - INFO - Downloaded: karim_benzema_bing_0003.jpg
+2025-08-10 19:26:17,954 - INFO - Downloaded: karim_benzema_bing_0002.jpg
+2025-08-10 19:26:18,166 - INFO - Downloaded: karim_benzema_bing_0001.jpg
+2025-08-10 19:26:18,205 - INFO - Downloaded: karim_benzema_bing_0009.jpg
+2025-08-10 19:26:18,246 - INFO - Downloaded: karim_benzema_bing_0008.jpg
+2025-08-10 19:26:18,291 - INFO - Downloaded: karim_benzema_bing_0010.jpg
+2025-08-10 19:26:18,338 - INFO - Downloaded: karim_benzema_bing_0007.jpg
+2025-08-10 19:26:18,604 - INFO - Downloaded: karim_benzema_bing_0013.jpg
+2025-08-10 19:26:18,607 - INFO - Downloaded: karim_benzema_bing_0014.jpg
+2025-08-10 19:26:18,691 - INFO - Downloaded: karim_benzema_bing_0011.jpg
+2025-08-10 19:26:18,709 - INFO - Downloaded: karim_benzema_bing_0006.jpg
+2025-08-10 19:26:18,825 - INFO - Downloaded: karim_benzema_bing_0018.jpg
+2025-08-10 19:26:18,858 - INFO - Downloaded: karim_benzema_bing_0012.jpg
+2025-08-10 19:26:19,011 - INFO - Downloaded: karim_benzema_bing_0015.jpg
+2025-08-10 19:26:19,026 - INFO - Downloaded: karim_benzema_bing_0020.jpg
+2025-08-10 19:26:19,122 - ERROR - Error downloading https://i.ytimg.com/vi/ur6I6Oq1Jc0/maxresdefault.jpg: 404 Client Error: Not Found for url: https://i.ytimg.com/vi/ur6I6Oq1Jc0/maxresdefault.jpg
+2025-08-10 19:26:19,190 - INFO - Downloaded: karim_benzema_bing_0019.jpg
+2025-08-10 19:26:19,304 - INFO - Downloaded: karim_benzema_bing_0021.jpg
+2025-08-10 19:26:19,371 - INFO - Downloaded: karim_benzema_bing_0017.jpg
+2025-08-10 19:26:19,673 - INFO - Downloaded: karim_benzema_bing_0024.jpg
+2025-08-10 19:26:19,996 - INFO - Downloaded: karim_benzema_bing_0016.jpg
+2025-08-10 19:26:20,080 - INFO - Downloaded: karim_benzema_bing_0023.jpg
+2025-08-10 19:26:20,246 - INFO - Downloaded: karim_benzema_bing_0029.jpg
+2025-08-10 19:26:20,259 - INFO - Downloaded: karim_benzema_bing_0026.jpg
+2025-08-10 19:26:20,453 - INFO - Downloaded: karim_benzema_bing_0030.jpg
+2025-08-10 19:26:20,484 - INFO - Downloaded: karim_benzema_bing_0028.jpg
+2025-08-10 19:26:20,596 - INFO - Downloaded: karim_benzema_bing_0031.jpg
+2025-08-10 19:26:20,660 - INFO - Downloaded: karim_benzema_bing_0025.jpg
+2025-08-10 19:26:20,847 - INFO - Downloaded: karim_benzema_bing_0032.jpg
+2025-08-10 19:26:20,867 - INFO - Downloaded: karim_benzema_bing_0033.jpg
+2025-08-10 19:26:20,878 - INFO - Downloaded: karim_benzema_bing_0027.jpg
+2025-08-10 19:26:23,155 - INFO - Starting scrape for: Robert Lewandowski
+2025-08-10 19:26:23,807 - INFO - Found 33 image URLs from Bing Images for Robert Lewandowski
+2025-08-10 19:26:23,807 - INFO - Source bing: Found 33 images for Robert Lewandowski
+2025-08-10 19:26:26,300 - INFO - Found 0 image URLs from DuckDuckGo for Robert Lewandowski
+2025-08-10 19:26:26,300 - INFO - Source duckduckgo: Found 0 images for Robert Lewandowski
+2025-08-10 19:26:32,310 - INFO - Google Images response status: 200
+2025-08-10 19:26:32,441 - INFO - Found 0 image URLs from Google Images for Robert Lewandowski
+2025-08-10 19:26:32,441 - INFO - Source google: Found 0 images for Robert Lewandowski
+2025-08-10 19:26:34,441 - INFO - Total images found for Robert Lewandowski: 33
+2025-08-10 19:26:34,719 - INFO - Downloaded: robert_lewandowski_bing_0002.jpg
+2025-08-10 19:26:34,948 - INFO - Downloaded: robert_lewandowski_bing_0006.jpg
+2025-08-10 19:26:35,183 - INFO - Downloaded: robert_lewandowski_bing_0007.jpg
+2025-08-10 19:26:35,275 - INFO - Downloaded: robert_lewandowski_bing_0003.jpg
+2025-08-10 19:26:35,671 - INFO - Downloaded: robert_lewandowski_bing_0009.jpg
+2025-08-10 19:26:35,951 - INFO - Downloaded: robert_lewandowski_bing_0005.jpg
+2025-08-10 19:26:36,263 - INFO - Downloaded: robert_lewandowski_bing_0011.jpg
+2025-08-10 19:26:36,580 - INFO - Downloaded: robert_lewandowski_bing_0012.jpg
+2025-08-10 19:26:36,684 - INFO - Downloaded: robert_lewandowski_bing_0010.jpg
+2025-08-10 19:26:37,395 - INFO - Downloaded: robert_lewandowski_bing_0014.jpg
+2025-08-10 19:26:37,578 - INFO - Downloaded: robert_lewandowski_bing_0015.jpg
+2025-08-10 19:26:37,735 - INFO - Downloaded: robert_lewandowski_bing_0013.jpg
+2025-08-10 19:26:37,927 - INFO - Downloaded: robert_lewandowski_bing_0004.jpg
+2025-08-10 19:26:38,078 - INFO - Downloaded: robert_lewandowski_bing_0016.jpg
+2025-08-10 19:26:38,136 - INFO - Downloaded: robert_lewandowski_bing_0018.jpg
+2025-08-10 19:26:38,139 - INFO - Downloaded: robert_lewandowski_bing_0017.jpg
+2025-08-10 19:26:38,617 - INFO - Downloaded: robert_lewandowski_bing_0019.jpg
+2025-08-10 19:26:38,641 - INFO - Downloaded: robert_lewandowski_bing_0020.jpg
+2025-08-10 19:26:38,657 - INFO - Downloaded: robert_lewandowski_bing_0021.jpg
+2025-08-10 19:26:38,978 - INFO - Downloaded: robert_lewandowski_bing_0024.jpg
+2025-08-10 19:26:38,984 - INFO - Downloaded: robert_lewandowski_bing_0022.jpg
+2025-08-10 19:26:39,113 - WARNING - Invalid image: https://tntsports.cl/__export/1695485002001/sites/cdfchile/img/2023/09/23/sin_txtulo-2_1_crop1695484851257.png_554688468.png
+2025-08-10 19:26:39,617 - INFO - Downloaded: robert_lewandowski_bing_0027.jpg
+2025-08-10 19:26:39,665 - INFO - Downloaded: robert_lewandowski_bing_0026.jpg
+2025-08-10 19:26:40,126 - INFO - Downloaded: robert_lewandowski_bing_0028.jpg
+2025-08-10 19:26:40,209 - INFO - Downloaded: robert_lewandowski_bing_0029.jpg
+2025-08-10 19:26:40,300 - INFO - Downloaded: robert_lewandowski_bing_0030.jpg
+2025-08-10 19:26:40,880 - INFO - Downloaded: robert_lewandowski_bing_0032.jpg
+2025-08-10 19:26:41,131 - INFO - Downloaded: robert_lewandowski_bing_0033.jpg
+2025-08-10 19:26:42,514 - INFO - Downloaded: robert_lewandowski_bing_0031.jpg
+2025-08-10 19:26:45,348 - ERROR - Error downloading https://img.fcbayern.com/image/upload/t_cms-6x9-seo/v1657983627/cms/public/images/fcbayern-com/homepage/saison-21-22/Profis/Lewandowski/220716-lewandowski-fc-barcelona.jpg: HTTPSConnectionPool(host='img.fcbayern.com', port=443): Read timed out. (read timeout=10)
+2025-08-10 19:26:54,520 - ERROR - Error downloading https://footballarroyo.co.uk/wp-content/uploads/2022/10/Robert-Lewandowski-Age-Salary-Net-worth-Current-Teams-Career-Height-and-much-more-2048x1152.jpg: HTTPSConnectionPool(host='footballarroyo.co.uk', port=443): Max retries exceeded with url: /wp-content/uploads/2022/10/Robert-Lewandowski-Age-Salary-Net-worth-Current-Teams-Career-Height-and-much-more-2048x1152.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b83215580>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:26:58,733 - ERROR - Error downloading https://short-biography.com/wp-content/uploads/robert-lewandowski/Robert-Lewandowski.jpg: HTTPSConnectionPool(host='short-biography.com', port=443): Max retries exceeded with url: /wp-content/uploads/robert-lewandowski/Robert-Lewandowski.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b8302b200>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:27:00,833 - INFO - Starting scrape for: Tom Cruise
+2025-08-10 19:27:02,109 - INFO - Found 33 image URLs from Bing Images for Tom Cruise
+2025-08-10 19:27:02,109 - INFO - Source bing: Found 33 images for Tom Cruise
+2025-08-10 19:27:04,533 - INFO - Found 0 image URLs from DuckDuckGo for Tom Cruise
+2025-08-10 19:27:04,534 - INFO - Source duckduckgo: Found 0 images for Tom Cruise
+2025-08-10 19:27:09,542 - INFO - Google Images response status: 200
+2025-08-10 19:27:09,634 - INFO - Found 0 image URLs from Google Images for Tom Cruise
+2025-08-10 19:27:09,634 - INFO - Source google: Found 0 images for Tom Cruise
+2025-08-10 19:27:11,635 - INFO - Total images found for Tom Cruise: 33
+2025-08-10 19:27:11,986 - INFO - Downloaded: tom_cruise_bing_0005.jpg
+2025-08-10 19:27:12,107 - INFO - Downloaded: tom_cruise_bing_0003.jpg
+2025-08-10 19:27:12,115 - INFO - Downloaded: tom_cruise_bing_0004.jpg
+2025-08-10 19:27:12,125 - INFO - Downloaded: tom_cruise_bing_0002.jpg
+2025-08-10 19:27:12,399 - INFO - Downloaded: tom_cruise_bing_0007.jpg
+2025-08-10 19:27:12,422 - INFO - Downloaded: tom_cruise_bing_0008.jpg
+2025-08-10 19:27:12,471 - INFO - Downloaded: tom_cruise_bing_0010.jpg
+2025-08-10 19:27:12,517 - INFO - Downloaded: tom_cruise_bing_0009.jpg
+2025-08-10 19:27:12,535 - INFO - Downloaded: tom_cruise_bing_0006.jpg
+2025-08-10 19:27:12,711 - INFO - Downloaded: tom_cruise_bing_0013.jpg
+2025-08-10 19:27:12,927 - INFO - Downloaded: tom_cruise_bing_0012.jpg
+2025-08-10 19:27:12,989 - INFO - Downloaded: tom_cruise_bing_0015.jpg
+2025-08-10 19:27:13,338 - INFO - Downloaded: tom_cruise_bing_0014.jpg
+2025-08-10 19:27:13,452 - INFO - Downloaded: tom_cruise_bing_0016.jpg
+2025-08-10 19:27:13,523 - ERROR - Error downloading https://thedailyguardian.com/wp-content/uploads/2024/02/Untitled-design-5-30.jpg: HTTPSConnectionPool(host='latest.thedailyguardian.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/02/Untitled-design-5-30.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x790b83031280>: Failed to resolve 'latest.thedailyguardian.com' ([Errno -2] Name or service not known)"))
+2025-08-10 19:27:13,584 - INFO - Downloaded: tom_cruise_bing_0018.jpg
+2025-08-10 19:27:13,659 - INFO - Downloaded: tom_cruise_bing_0001.jpg
+2025-08-10 19:27:13,900 - INFO - Downloaded: tom_cruise_bing_0021.jpg
+2025-08-10 19:27:14,358 - INFO - Downloaded: tom_cruise_bing_0023.jpg
+2025-08-10 19:27:14,483 - INFO - Downloaded: tom_cruise_bing_0022.jpg
+2025-08-10 19:27:14,557 - INFO - Downloaded: tom_cruise_bing_0019.jpg
+2025-08-10 19:27:14,695 - INFO - Downloaded: tom_cruise_bing_0017.jpg
+2025-08-10 19:27:14,697 - INFO - Downloaded: tom_cruise_bing_0024.jpg
+2025-08-10 19:27:14,719 - INFO - Downloaded: tom_cruise_bing_0025.jpg
+2025-08-10 19:27:14,776 - ERROR - Error downloading https://faroutmagazine.co.uk/static/uploads/1/2023/03/Tom-Cruise.jpg: 404 Client Error: Not Found for url: https://faroutmagazine.co.uk/static/uploads/1/2023/03/Tom-Cruise.jpg
+2025-08-10 19:27:15,002 - INFO - Downloaded: tom_cruise_bing_0030.jpg
+2025-08-10 19:27:15,063 - INFO - Downloaded: tom_cruise_bing_0031.jpg
+2025-08-10 19:27:15,102 - INFO - Downloaded: tom_cruise_bing_0020.jpg
+2025-08-10 19:27:15,116 - INFO - Downloaded: tom_cruise_bing_0029.jpg
+2025-08-10 19:27:15,257 - INFO - Downloaded: tom_cruise_bing_0027.jpg
+2025-08-10 19:27:15,518 - INFO - Downloaded: tom_cruise_bing_0032.jpg
+2025-08-10 19:27:15,799 - INFO - Downloaded: tom_cruise_bing_0033.jpg
+2025-08-10 19:27:18,481 - INFO - Downloaded: tom_cruise_bing_0028.jpg
+2025-08-10 19:27:20,581 - INFO - Starting scrape for: Leonardo DiCaprio
+2025-08-10 19:27:21,149 - INFO - Found 33 image URLs from Bing Images for Leonardo DiCaprio
+2025-08-10 19:27:21,149 - INFO - Source bing: Found 33 images for Leonardo DiCaprio
+2025-08-10 19:27:23,579 - INFO - Found 0 image URLs from DuckDuckGo for Leonardo DiCaprio
+2025-08-10 19:27:23,580 - INFO - Source duckduckgo: Found 0 images for Leonardo DiCaprio
+2025-08-10 19:27:27,845 - INFO - Google Images response status: 200
+2025-08-10 19:27:27,934 - INFO - Found 0 image URLs from Google Images for Leonardo DiCaprio
+2025-08-10 19:27:27,934 - INFO - Source google: Found 0 images for Leonardo DiCaprio
+2025-08-10 19:27:29,934 - INFO - Total images found for Leonardo DiCaprio: 33
+2025-08-10 19:27:30,078 - INFO - Downloaded: leonardo_dicaprio_bing_0001.jpg
+2025-08-10 19:27:30,118 - INFO - Downloaded: leonardo_dicaprio_bing_0003.jpg
+2025-08-10 19:27:30,235 - INFO - Downloaded: leonardo_dicaprio_bing_0002.jpg
+2025-08-10 19:27:30,329 - INFO - Downloaded: leonardo_dicaprio_bing_0004.jpg
+2025-08-10 19:27:30,331 - INFO - Downloaded: leonardo_dicaprio_bing_0006.jpg
+2025-08-10 19:27:30,377 - INFO - Downloaded: leonardo_dicaprio_bing_0007.jpg
+2025-08-10 19:27:30,540 - INFO - Downloaded: leonardo_dicaprio_bing_0008.jpg
+2025-08-10 19:27:30,562 - INFO - Downloaded: leonardo_dicaprio_bing_0011.jpg
+2025-08-10 19:27:30,599 - INFO - Downloaded: leonardo_dicaprio_bing_0009.jpg
+2025-08-10 19:27:30,769 - INFO - Downloaded: leonardo_dicaprio_bing_0013.jpg
+2025-08-10 19:27:30,817 - INFO - Downloaded: leonardo_dicaprio_bing_0005.jpg
+2025-08-10 19:27:30,936 - INFO - Downloaded: leonardo_dicaprio_bing_0015.jpg
+2025-08-10 19:27:31,149 - INFO - Downloaded: leonardo_dicaprio_bing_0014.jpg
+2025-08-10 19:27:31,295 - INFO - Downloaded: leonardo_dicaprio_bing_0017.jpg
+2025-08-10 19:27:31,531 - INFO - Downloaded: leonardo_dicaprio_bing_0016.jpg
+2025-08-10 19:27:31,535 - INFO - Downloaded: leonardo_dicaprio_bing_0019.jpg
+2025-08-10 19:27:31,570 - INFO - Downloaded: leonardo_dicaprio_bing_0012.jpg
+2025-08-10 19:27:31,670 - INFO - Downloaded: leonardo_dicaprio_bing_0018.jpg
+2025-08-10 19:27:31,712 - INFO - Downloaded: leonardo_dicaprio_bing_0010.jpg
+2025-08-10 19:27:31,973 - INFO - Downloaded: leonardo_dicaprio_bing_0020.jpg
+2025-08-10 19:27:32,028 - INFO - Downloaded: leonardo_dicaprio_bing_0023.jpg
+2025-08-10 19:27:32,379 - INFO - Downloaded: leonardo_dicaprio_bing_0026.jpg
+2025-08-10 19:27:32,572 - INFO - Downloaded: leonardo_dicaprio_bing_0021.jpg
+2025-08-10 19:27:32,587 - INFO - Downloaded: leonardo_dicaprio_bing_0022.jpg
+2025-08-10 19:27:32,799 - INFO - Downloaded: leonardo_dicaprio_bing_0028.jpg
+2025-08-10 19:27:32,978 - INFO - Downloaded: leonardo_dicaprio_bing_0029.jpg
+2025-08-10 19:27:33,142 - INFO - Downloaded: leonardo_dicaprio_bing_0024.jpg
+2025-08-10 19:27:33,416 - INFO - Downloaded: leonardo_dicaprio_bing_0031.jpg
+2025-08-10 19:27:33,459 - INFO - Downloaded: leonardo_dicaprio_bing_0032.jpg
+2025-08-10 19:27:33,520 - INFO - Downloaded: leonardo_dicaprio_bing_0027.jpg
+2025-08-10 19:27:34,025 - INFO - Downloaded: leonardo_dicaprio_bing_0033.jpg
+2025-08-10 19:27:34,038 - INFO - Downloaded: leonardo_dicaprio_bing_0025.jpg
+2025-08-10 19:27:36,230 - INFO - Downloaded: leonardo_dicaprio_bing_0030.jpg
+2025-08-10 19:27:38,331 - INFO - Starting scrape for: Dwayne Johnson
+2025-08-10 19:27:38,998 - INFO - Found 33 image URLs from Bing Images for Dwayne Johnson
+2025-08-10 19:27:38,998 - INFO - Source bing: Found 33 images for Dwayne Johnson
+2025-08-10 19:27:41,421 - INFO - Found 0 image URLs from DuckDuckGo for Dwayne Johnson
+2025-08-10 19:27:41,422 - INFO - Source duckduckgo: Found 0 images for Dwayne Johnson
+2025-08-10 19:27:45,180 - INFO - Google Images response status: 200
+2025-08-10 19:27:45,272 - INFO - Found 0 image URLs from Google Images for Dwayne Johnson
+2025-08-10 19:27:45,273 - INFO - Source google: Found 0 images for Dwayne Johnson
+2025-08-10 19:27:47,273 - INFO - Total images found for Dwayne Johnson: 33
+2025-08-10 19:27:47,373 - INFO - Downloaded: dwayne_johnson_bing_0002.jpg
+2025-08-10 19:27:47,562 - INFO - Downloaded: dwayne_johnson_bing_0003.jpg
+2025-08-10 19:27:47,608 - INFO - Downloaded: dwayne_johnson_bing_0004.jpg
+2025-08-10 19:27:47,843 - INFO - Downloaded: dwayne_johnson_bing_0007.jpg
+2025-08-10 19:27:47,879 - INFO - Downloaded: dwayne_johnson_bing_0008.jpg
+2025-08-10 19:27:47,991 - INFO - Downloaded: dwayne_johnson_bing_0006.jpg
+2025-08-10 19:27:48,149 - INFO - Downloaded: dwayne_johnson_bing_0010.jpg
+2025-08-10 19:27:48,284 - INFO - Downloaded: dwayne_johnson_bing_0009.jpg
+2025-08-10 19:27:48,526 - INFO - Downloaded: dwayne_johnson_bing_0001.jpg
+2025-08-10 19:27:48,936 - INFO - Downloaded: dwayne_johnson_bing_0005.jpg
+2025-08-10 19:27:49,055 - INFO - Downloaded: dwayne_johnson_bing_0013.jpg
+2025-08-10 19:27:49,140 - INFO - Downloaded: dwayne_johnson_bing_0014.jpg
+2025-08-10 19:27:49,263 - INFO - Downloaded: dwayne_johnson_bing_0017.jpg
+2025-08-10 19:27:49,370 - INFO - Downloaded: dwayne_johnson_bing_0016.jpg
+2025-08-10 19:27:49,465 - INFO - Downloaded: dwayne_johnson_bing_0015.jpg
+2025-08-10 19:27:49,575 - INFO - Downloaded: dwayne_johnson_bing_0018.jpg
+2025-08-10 19:27:49,688 - INFO - Downloaded: dwayne_johnson_bing_0011.jpg
+2025-08-10 19:27:49,807 - INFO - Downloaded: dwayne_johnson_bing_0019.jpg
+2025-08-10 19:27:49,860 - INFO - Downloaded: dwayne_johnson_bing_0012.jpg
+2025-08-10 19:27:49,934 - INFO - Downloaded: dwayne_johnson_bing_0021.jpg
+2025-08-10 19:27:50,312 - INFO - Downloaded: dwayne_johnson_bing_0025.jpg
+2025-08-10 19:27:50,640 - INFO - Downloaded: dwayne_johnson_bing_0022.jpg
+2025-08-10 19:27:50,643 - INFO - Downloaded: dwayne_johnson_bing_0023.jpg
+2025-08-10 19:27:50,871 - INFO - Downloaded: dwayne_johnson_bing_0024.jpg
+2025-08-10 19:27:51,052 - INFO - Downloaded: dwayne_johnson_bing_0020.jpg
+2025-08-10 19:27:51,094 - INFO - Downloaded: dwayne_johnson_bing_0026.jpg
+2025-08-10 19:27:51,116 - INFO - Downloaded: dwayne_johnson_bing_0027.jpg
+2025-08-10 19:27:51,240 - INFO - Downloaded: dwayne_johnson_bing_0029.jpg
+2025-08-10 19:27:51,365 - INFO - Downloaded: dwayne_johnson_bing_0030.jpg
+2025-08-10 19:27:51,387 - INFO - Downloaded: dwayne_johnson_bing_0033.jpg
+2025-08-10 19:27:51,656 - INFO - Downloaded: dwayne_johnson_bing_0031.jpg
+2025-08-10 19:27:51,671 - INFO - Downloaded: dwayne_johnson_bing_0028.jpg
+2025-08-10 19:27:51,910 - INFO - Downloaded: dwayne_johnson_bing_0032.jpg
+2025-08-10 19:27:54,011 - INFO - Starting scrape for: Keanu Reeves
+2025-08-10 19:27:54,681 - INFO - Found 33 image URLs from Bing Images for Keanu Reeves
+2025-08-10 19:27:54,681 - INFO - Source bing: Found 33 images for Keanu Reeves
+2025-08-10 19:27:57,358 - INFO - Found 0 image URLs from DuckDuckGo for Keanu Reeves
+2025-08-10 19:27:57,359 - INFO - Source duckduckgo: Found 0 images for Keanu Reeves
+2025-08-10 19:28:01,219 - INFO - Google Images response status: 200
+2025-08-10 19:28:01,308 - INFO - Found 0 image URLs from Google Images for Keanu Reeves
+2025-08-10 19:28:01,308 - INFO - Source google: Found 0 images for Keanu Reeves
+2025-08-10 19:28:03,309 - INFO - Total images found for Keanu Reeves: 33
+2025-08-10 19:28:03,493 - INFO - Downloaded: keanu_reeves_bing_0001.jpg
+2025-08-10 19:28:03,520 - INFO - Downloaded: keanu_reeves_bing_0002.jpg
+2025-08-10 19:28:03,688 - INFO - Downloaded: keanu_reeves_bing_0003.jpg
+2025-08-10 19:28:03,852 - INFO - Downloaded: keanu_reeves_bing_0007.jpg
+2025-08-10 19:28:03,900 - INFO - Downloaded: keanu_reeves_bing_0008.jpg
+2025-08-10 19:28:03,977 - INFO - Downloaded: keanu_reeves_bing_0005.jpg
+2025-08-10 19:28:04,095 - INFO - Downloaded: keanu_reeves_bing_0009.jpg
+2025-08-10 19:28:04,124 - INFO - Downloaded: keanu_reeves_bing_0006.jpg
+2025-08-10 19:28:04,241 - INFO - Downloaded: keanu_reeves_bing_0004.jpg
+2025-08-10 19:28:04,282 - INFO - Downloaded: keanu_reeves_bing_0011.jpg
+2025-08-10 19:28:04,781 - INFO - Downloaded: keanu_reeves_bing_0014.jpg
+2025-08-10 19:28:04,814 - INFO - Downloaded: keanu_reeves_bing_0010.jpg
+2025-08-10 19:28:05,031 - INFO - Downloaded: keanu_reeves_bing_0015.jpg
+2025-08-10 19:28:05,116 - INFO - Downloaded: keanu_reeves_bing_0016.jpg
+2025-08-10 19:28:05,266 - INFO - Downloaded: keanu_reeves_bing_0017.jpg
+2025-08-10 19:28:05,276 - INFO - Downloaded: keanu_reeves_bing_0013.jpg
+2025-08-10 19:28:05,622 - INFO - Downloaded: keanu_reeves_bing_0020.jpg
+2025-08-10 19:28:05,730 - INFO - Downloaded: keanu_reeves_bing_0019.jpg
+2025-08-10 19:28:05,937 - INFO - Downloaded: keanu_reeves_bing_0021.jpg
+2025-08-10 19:28:05,965 - INFO - Downloaded: keanu_reeves_bing_0022.jpg
+2025-08-10 19:28:06,172 - INFO - Downloaded: keanu_reeves_bing_0024.jpg
+2025-08-10 19:28:06,190 - INFO - Downloaded: keanu_reeves_bing_0012.jpg
+2025-08-10 19:28:06,395 - INFO - Downloaded: keanu_reeves_bing_0023.jpg
+2025-08-10 19:28:06,433 - INFO - Downloaded: keanu_reeves_bing_0025.jpg
+2025-08-10 19:28:06,831 - INFO - Downloaded: keanu_reeves_bing_0027.jpg
+2025-08-10 19:28:06,892 - INFO - Downloaded: keanu_reeves_bing_0026.jpg
+2025-08-10 19:28:07,349 - INFO - Downloaded: keanu_reeves_bing_0028.jpg
+2025-08-10 19:28:07,523 - INFO - Downloaded: keanu_reeves_bing_0032.jpg
+2025-08-10 19:28:07,591 - INFO - Downloaded: keanu_reeves_bing_0029.jpg
+2025-08-10 19:28:07,614 - INFO - Downloaded: keanu_reeves_bing_0030.jpg
+2025-08-10 19:28:07,663 - INFO - Downloaded: keanu_reeves_bing_0031.jpg
+2025-08-10 19:28:07,810 - INFO - Downloaded: keanu_reeves_bing_0033.jpg
+2025-08-10 19:28:10,067 - INFO - Downloaded: keanu_reeves_bing_0018.jpg
+2025-08-10 19:28:12,168 - INFO - Starting scrape for: Scarlett Johansson
+2025-08-10 19:28:12,872 - INFO - Found 33 image URLs from Bing Images for Scarlett Johansson
+2025-08-10 19:28:12,872 - INFO - Source bing: Found 33 images for Scarlett Johansson
+2025-08-10 19:28:15,685 - INFO - Found 0 image URLs from DuckDuckGo for Scarlett Johansson
+2025-08-10 19:28:15,685 - INFO - Source duckduckgo: Found 0 images for Scarlett Johansson
+2025-08-10 19:28:22,815 - INFO - Google Images response status: 200
+2025-08-10 19:28:22,914 - INFO - Found 0 image URLs from Google Images for Scarlett Johansson
+2025-08-10 19:28:22,914 - INFO - Source google: Found 0 images for Scarlett Johansson
+2025-08-10 19:28:24,914 - INFO - Total images found for Scarlett Johansson: 33
+2025-08-10 19:28:25,081 - INFO - Downloaded: scarlett_johansson_bing_0002.jpg
+2025-08-10 19:28:25,131 - INFO - Downloaded: scarlett_johansson_bing_0001.jpg
+2025-08-10 19:28:25,225 - INFO - Downloaded: scarlett_johansson_bing_0003.jpg
+2025-08-10 19:28:25,300 - INFO - Downloaded: scarlett_johansson_bing_0005.jpg
+2025-08-10 19:28:25,358 - INFO - Downloaded: scarlett_johansson_bing_0006.jpg
+2025-08-10 19:28:25,744 - INFO - Downloaded: scarlett_johansson_bing_0009.jpg
+2025-08-10 19:28:26,046 - INFO - Downloaded: scarlett_johansson_bing_0004.jpg
+2025-08-10 19:28:26,079 - INFO - Downloaded: scarlett_johansson_bing_0011.jpg
+2025-08-10 19:28:26,166 - INFO - Downloaded: scarlett_johansson_bing_0008.jpg
+2025-08-10 19:28:26,221 - INFO - Downloaded: scarlett_johansson_bing_0012.jpg
+2025-08-10 19:28:26,268 - INFO - Downloaded: scarlett_johansson_bing_0010.jpg
+2025-08-10 19:28:26,462 - INFO - Downloaded: scarlett_johansson_bing_0015.jpg
+2025-08-10 19:28:26,515 - INFO - Downloaded: scarlett_johansson_bing_0014.jpg
+2025-08-10 19:28:26,582 - INFO - Downloaded: scarlett_johansson_bing_0017.jpg
+2025-08-10 19:28:26,750 - INFO - Downloaded: scarlett_johansson_bing_0018.jpg
+2025-08-10 19:28:26,770 - INFO - Downloaded: scarlett_johansson_bing_0019.jpg
+2025-08-10 19:28:26,788 - INFO - Downloaded: scarlett_johansson_bing_0016.jpg
+2025-08-10 19:28:27,004 - INFO - Downloaded: scarlett_johansson_bing_0022.jpg
+2025-08-10 19:28:27,058 - INFO - Downloaded: scarlett_johansson_bing_0021.jpg
+2025-08-10 19:28:27,258 - INFO - Downloaded: scarlett_johansson_bing_0023.jpg
+2025-08-10 19:28:27,302 - INFO - Downloaded: scarlett_johansson_bing_0024.jpg
+2025-08-10 19:28:27,763 - INFO - Downloaded: scarlett_johansson_bing_0007.jpg
+2025-08-10 19:28:27,999 - INFO - Downloaded: scarlett_johansson_bing_0025.jpg
+2025-08-10 19:28:28,014 - INFO - Downloaded: scarlett_johansson_bing_0026.jpg
+2025-08-10 19:28:28,063 - INFO - Downloaded: scarlett_johansson_bing_0020.jpg
+2025-08-10 19:28:28,157 - INFO - Downloaded: scarlett_johansson_bing_0028.jpg
+2025-08-10 19:28:28,177 - INFO - Downloaded: scarlett_johansson_bing_0029.jpg
+2025-08-10 19:28:28,327 - INFO - Downloaded: scarlett_johansson_bing_0030.jpg
+2025-08-10 19:28:28,486 - INFO - Downloaded: scarlett_johansson_bing_0033.jpg
+2025-08-10 19:28:28,500 - INFO - Downloaded: scarlett_johansson_bing_0031.jpg
+2025-08-10 19:28:29,229 - INFO - Downloaded: scarlett_johansson_bing_0027.jpg
+2025-08-10 19:28:29,483 - INFO - Downloaded: scarlett_johansson_bing_0032.jpg
+2025-08-10 19:28:29,681 - INFO - Downloaded: scarlett_johansson_bing_0013.jpg
+2025-08-10 19:28:31,783 - INFO - Starting scrape for: Emma Watson
+2025-08-10 19:28:32,465 - INFO - Found 33 image URLs from Bing Images for Emma Watson
+2025-08-10 19:28:32,465 - INFO - Source bing: Found 33 images for Emma Watson
+2025-08-10 19:28:34,969 - INFO - Found 0 image URLs from DuckDuckGo for Emma Watson
+2025-08-10 19:28:34,970 - INFO - Source duckduckgo: Found 0 images for Emma Watson
+2025-08-10 19:28:38,959 - INFO - Google Images response status: 200
+2025-08-10 19:28:39,047 - INFO - Found 0 image URLs from Google Images for Emma Watson
+2025-08-10 19:28:39,047 - INFO - Source google: Found 0 images for Emma Watson
+2025-08-10 19:28:41,047 - INFO - Total images found for Emma Watson: 33
+2025-08-10 19:28:41,225 - INFO - Downloaded: emma_watson_bing_0005.jpg
+2025-08-10 19:28:41,300 - INFO - Downloaded: emma_watson_bing_0001.jpg
+2025-08-10 19:28:41,315 - INFO - Downloaded: emma_watson_bing_0003.jpg
+2025-08-10 19:28:41,483 - INFO - Downloaded: emma_watson_bing_0002.jpg
+2025-08-10 19:28:41,496 - INFO - Downloaded: emma_watson_bing_0004.jpg
+2025-08-10 19:28:41,719 - INFO - Downloaded: emma_watson_bing_0007.jpg
+2025-08-10 19:28:41,746 - INFO - Downloaded: emma_watson_bing_0009.jpg
+2025-08-10 19:28:41,770 - INFO - Downloaded: emma_watson_bing_0008.jpg
+2025-08-10 19:28:41,853 - ERROR - Error downloading https://rare-gallery.com/uploads/posts/150130-emma-watson-1920x1440.jpg: 403 Client Error: Forbidden for url: https://rare-gallery.com/uploads/posts/150130-emma-watson-1920x1440.jpg
+2025-08-10 19:28:41,919 - ERROR - Error downloading https://rare-gallery.com/uploads/posts/150129-emma-watson-1920x1200.jpg: 403 Client Error: Forbidden for url: https://rare-gallery.com/uploads/posts/150129-emma-watson-1920x1200.jpg
+2025-08-10 19:28:42,101 - INFO - Downloaded: emma_watson_bing_0010.jpg
+2025-08-10 19:28:42,229 - INFO - Downloaded: emma_watson_bing_0015.jpg
+2025-08-10 19:28:42,297 - INFO - Downloaded: emma_watson_bing_0016.jpg
+2025-08-10 19:28:43,206 - INFO - Downloaded: emma_watson_bing_0018.jpg
+2025-08-10 19:28:43,403 - INFO - Downloaded: emma_watson_bing_0017.jpg
+2025-08-10 19:28:43,411 - INFO - Downloaded: emma_watson_bing_0019.jpg
+2025-08-10 19:28:43,574 - INFO - Downloaded: emma_watson_bing_0013.jpg
+2025-08-10 19:28:43,638 - INFO - Downloaded: emma_watson_bing_0021.jpg
+2025-08-10 19:28:44,763 - INFO - Downloaded: emma_watson_bing_0022.jpg
+2025-08-10 19:28:44,842 - INFO - Downloaded: emma_watson_bing_0006.jpg
+2025-08-10 19:28:45,122 - INFO - Downloaded: emma_watson_bing_0025.jpg
+2025-08-10 19:28:45,122 - INFO - Downloaded: emma_watson_bing_0024.jpg
+2025-08-10 19:28:45,184 - INFO - Downloaded: emma_watson_bing_0020.jpg
+2025-08-10 19:28:45,837 - INFO - Downloaded: emma_watson_bing_0023.jpg
+2025-08-10 19:28:46,147 - INFO - Downloaded: emma_watson_bing_0026.jpg
+2025-08-10 19:28:46,563 - INFO - Downloaded: emma_watson_bing_0027.jpg
+2025-08-10 19:28:46,609 - INFO - Downloaded: emma_watson_bing_0028.jpg
+2025-08-10 19:28:46,885 - INFO - Downloaded: emma_watson_bing_0029.jpg
+2025-08-10 19:28:46,891 - INFO - Downloaded: emma_watson_bing_0030.jpg
+2025-08-10 19:28:47,110 - ERROR - Error downloading http://www.hdwallpapers.in/walls/emma_watson_255-normal.jpg: 403 Client Error: Forbidden for url: https://www.hdwallpapers.in/walls/emma_watson_255-normal.jpg
+2025-08-10 19:28:47,209 - INFO - Downloaded: emma_watson_bing_0033.jpg
+2025-08-10 19:28:48,092 - INFO - Downloaded: emma_watson_bing_0032.jpg
+2025-08-10 19:29:01,841 - ERROR - Error downloading http://www.hawtcelebs.com/wp-content/uploads/2017/03/emma-watson-at-beauty-and-the-beast-press-conference-at-montage-hotel-in-beverly-hills-03-05-2017_1.jpg: HTTPConnectionPool(host='www.hawtcelebs.com', port=80): Max retries exceeded with url: /wp-content/uploads/2017/03/emma-watson-at-beauty-and-the-beast-press-conference-at-montage-hotel-in-beverly-hills-03-05-2017_1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x790b83215c10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:29:03,942 - INFO - Starting scrape for: Margot Robbie
+2025-08-10 19:29:04,686 - INFO - Found 33 image URLs from Bing Images for Margot Robbie
+2025-08-10 19:29:04,686 - INFO - Source bing: Found 33 images for Margot Robbie
+2025-08-10 19:29:07,183 - INFO - Found 0 image URLs from DuckDuckGo for Margot Robbie
+2025-08-10 19:29:07,184 - INFO - Source duckduckgo: Found 0 images for Margot Robbie
+2025-08-10 19:29:13,363 - INFO - Google Images response status: 200
+2025-08-10 19:29:13,455 - INFO - Found 0 image URLs from Google Images for Margot Robbie
+2025-08-10 19:29:13,456 - INFO - Source google: Found 0 images for Margot Robbie
+2025-08-10 19:29:15,456 - INFO - Total images found for Margot Robbie: 33
+2025-08-10 19:29:15,794 - INFO - Downloaded: margot_robbie_bing_0005.jpg
+2025-08-10 19:29:15,954 - INFO - Downloaded: margot_robbie_bing_0001.jpg
+2025-08-10 19:29:16,184 - INFO - Downloaded: margot_robbie_bing_0002.jpg
+2025-08-10 19:29:16,352 - INFO - Downloaded: margot_robbie_bing_0003.jpg
+2025-08-10 19:29:16,650 - INFO - Downloaded: margot_robbie_bing_0009.jpg
+2025-08-10 19:29:16,658 - INFO - Downloaded: margot_robbie_bing_0006.jpg
+2025-08-10 19:29:17,253 - INFO - Downloaded: margot_robbie_bing_0010.jpg
+2025-08-10 19:29:17,388 - INFO - Downloaded: margot_robbie_bing_0011.jpg
+2025-08-10 19:29:17,416 - INFO - Downloaded: margot_robbie_bing_0004.jpg
+2025-08-10 19:29:17,498 - INFO - Downloaded: margot_robbie_bing_0008.jpg
+2025-08-10 19:29:17,658 - INFO - Downloaded: margot_robbie_bing_0014.jpg
+2025-08-10 19:29:17,800 - INFO - Downloaded: margot_robbie_bing_0013.jpg
+2025-08-10 19:29:17,860 - INFO - Downloaded: margot_robbie_bing_0007.jpg
+2025-08-10 19:29:17,870 - INFO - Downloaded: margot_robbie_bing_0012.jpg
+2025-08-10 19:29:18,055 - INFO - Downloaded: margot_robbie_bing_0016.jpg
+2025-08-10 19:29:18,121 - INFO - Downloaded: margot_robbie_bing_0015.jpg
+2025-08-10 19:29:18,141 - INFO - Downloaded: margot_robbie_bing_0018.jpg
+2025-08-10 19:29:18,373 - INFO - Downloaded: margot_robbie_bing_0017.jpg
+2025-08-10 19:29:18,501 - INFO - Downloaded: margot_robbie_bing_0022.jpg
+2025-08-10 19:29:18,511 - ERROR - Error downloading https://www.cnbcposts.com/wp-content/uploads/2023/08/GettyImages-1487166805-1-scaled.jpg: 403 Client Error: Forbidden for url: https://www.cnbcposts.com/wp-content/uploads/2023/08/GettyImages-1487166805-1-scaled.jpg
+2025-08-10 19:29:18,708 - INFO - Downloaded: margot_robbie_bing_0025.jpg
+2025-08-10 19:29:18,800 - ERROR - Error downloading https://www.nickiswift.com/img/gallery/everything-we-know-about-margot-robbie/l-intro-1690129547.jpg: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-08-10 19:29:18,800 - INFO - Downloaded: margot_robbie_bing_0020.jpg
+2025-08-10 19:29:19,118 - INFO - Downloaded: margot_robbie_bing_0028.jpg
+2025-08-10 19:29:19,222 - INFO - Downloaded: margot_robbie_bing_0027.jpg
+2025-08-10 19:29:19,497 - INFO - Downloaded: margot_robbie_bing_0030.jpg
+2025-08-10 19:29:19,517 - INFO - Downloaded: margot_robbie_bing_0019.jpg
+2025-08-10 19:29:19,533 - INFO - Downloaded: margot_robbie_bing_0029.jpg
+2025-08-10 19:29:19,541 - INFO - Downloaded: margot_robbie_bing_0024.jpg
+2025-08-10 19:29:19,626 - INFO - Downloaded: margot_robbie_bing_0021.jpg
+2025-08-10 19:29:19,714 - INFO - Downloaded: margot_robbie_bing_0032.jpg
+2025-08-10 19:29:20,114 - INFO - Downloaded: margot_robbie_bing_0031.jpg
+2025-08-10 19:29:21,268 - INFO - Downloaded: margot_robbie_bing_0033.jpg
+2025-08-10 19:29:23,369 - INFO - Starting scrape for: Brad Pitt
+2025-08-10 19:29:23,991 - INFO - Found 33 image URLs from Bing Images for Brad Pitt
+2025-08-10 19:29:23,992 - INFO - Source bing: Found 33 images for Brad Pitt
+2025-08-10 19:29:26,490 - INFO - Found 0 image URLs from DuckDuckGo for Brad Pitt
+2025-08-10 19:29:26,490 - INFO - Source duckduckgo: Found 0 images for Brad Pitt
+2025-08-10 19:29:30,294 - INFO - Google Images response status: 200
+2025-08-10 19:29:30,423 - INFO - Found 0 image URLs from Google Images for Brad Pitt
+2025-08-10 19:29:30,423 - INFO - Source google: Found 0 images for Brad Pitt
+2025-08-10 19:29:32,423 - INFO - Total images found for Brad Pitt: 33
+2025-08-10 19:29:32,665 - INFO - Downloaded: brad_pitt_bing_0002.jpg
+2025-08-10 19:29:32,670 - INFO - Downloaded: brad_pitt_bing_0005.jpg
+2025-08-10 19:29:32,702 - ERROR - Error downloading https://supercarblondie.com/wp-content/uploads/Brad-Pitt.png: 403 Client Error: Forbidden for url: https://supercarblondie.com/wp-content/uploads/Brad-Pitt.png
+2025-08-10 19:29:32,882 - INFO - Downloaded: brad_pitt_bing_0008.jpg
+2025-08-10 19:29:32,895 - INFO - Downloaded: brad_pitt_bing_0007.jpg
+2025-08-10 19:29:32,926 - INFO - Downloaded: brad_pitt_bing_0006.jpg
+2025-08-10 19:29:32,991 - INFO - Downloaded: brad_pitt_bing_0001.jpg
+2025-08-10 19:29:33,034 - INFO - Downloaded: brad_pitt_bing_0010.jpg
+2025-08-10 19:29:33,119 - INFO - Downloaded: brad_pitt_bing_0009.jpg
+2025-08-10 19:29:33,245 - INFO - Downloaded: brad_pitt_bing_0012.jpg
+2025-08-10 19:29:33,545 - INFO - Downloaded: brad_pitt_bing_0015.jpg
+2025-08-10 19:29:33,805 - INFO - Downloaded: brad_pitt_bing_0013.jpg
+2025-08-10 19:29:33,922 - INFO - Downloaded: brad_pitt_bing_0003.jpg
+2025-08-10 19:29:34,033 - INFO - Downloaded: brad_pitt_bing_0011.jpg
+2025-08-10 19:29:34,045 - INFO - Downloaded: brad_pitt_bing_0016.jpg
+2025-08-10 19:29:34,182 - INFO - Downloaded: brad_pitt_bing_0017.jpg
+2025-08-10 19:29:34,222 - INFO - Downloaded: brad_pitt_bing_0018.jpg
+2025-08-10 19:29:34,245 - INFO - Downloaded: brad_pitt_bing_0020.jpg
+2025-08-10 19:29:34,338 - INFO - Downloaded: brad_pitt_bing_0019.jpg
+2025-08-10 19:29:34,462 - INFO - Downloaded: brad_pitt_bing_0021.jpg
+2025-08-10 19:29:34,513 - INFO - Downloaded: brad_pitt_bing_0023.jpg
+2025-08-10 19:29:34,578 - INFO - Downloaded: brad_pitt_bing_0024.jpg
+2025-08-10 19:29:34,985 - INFO - Downloaded: brad_pitt_bing_0025.jpg
+2025-08-10 19:29:35,204 - INFO - Downloaded: brad_pitt_bing_0014.jpg
+2025-08-10 19:29:35,223 - INFO - Downloaded: brad_pitt_bing_0027.jpg
+2025-08-10 19:29:35,335 - INFO - Downloaded: brad_pitt_bing_0022.jpg
+2025-08-10 19:29:35,373 - INFO - Downloaded: brad_pitt_bing_0030.jpg
+2025-08-10 19:29:35,517 - INFO - Downloaded: brad_pitt_bing_0029.jpg
+2025-08-10 19:29:35,533 - INFO - Downloaded: brad_pitt_bing_0031.jpg
+2025-08-10 19:29:35,783 - INFO - Downloaded: brad_pitt_bing_0028.jpg
+2025-08-10 19:29:35,801 - INFO - Downloaded: brad_pitt_bing_0032.jpg
+2025-08-10 19:29:35,807 - INFO - Downloaded: brad_pitt_bing_0033.jpg
+2025-08-10 19:29:36,296 - INFO - Downloaded: brad_pitt_bing_0026.jpg
+2025-08-10 19:29:38,397 - INFO - Starting scrape for: Johnny Depp
+2025-08-10 19:29:39,023 - INFO - Found 33 image URLs from Bing Images for Johnny Depp
+2025-08-10 19:29:39,023 - INFO - Source bing: Found 33 images for Johnny Depp
+2025-08-10 19:29:41,669 - INFO - Found 0 image URLs from DuckDuckGo for Johnny Depp
+2025-08-10 19:29:41,670 - INFO - Source duckduckgo: Found 0 images for Johnny Depp
+2025-08-10 19:29:47,832 - INFO - Google Images response status: 200
+2025-08-10 19:29:47,931 - INFO - Found 0 image URLs from Google Images for Johnny Depp
+2025-08-10 19:29:47,932 - INFO - Source google: Found 0 images for Johnny Depp
+2025-08-10 19:29:49,932 - INFO - Total images found for Johnny Depp: 33
+2025-08-10 19:29:50,098 - INFO - Downloaded: johnny_depp_bing_0005.jpg
+2025-08-10 19:29:50,333 - INFO - Downloaded: johnny_depp_bing_0004.jpg
+2025-08-10 19:29:50,509 - INFO - Downloaded: johnny_depp_bing_0002.jpg
+2025-08-10 19:29:50,682 - INFO - Downloaded: johnny_depp_bing_0003.jpg
+2025-08-10 19:29:50,813 - INFO - Downloaded: johnny_depp_bing_0006.jpg
+2025-08-10 19:29:50,904 - INFO - Downloaded: johnny_depp_bing_0008.jpg
+2025-08-10 19:29:51,026 - INFO - Downloaded: johnny_depp_bing_0007.jpg
+2025-08-10 19:29:51,060 - INFO - Downloaded: johnny_depp_bing_0009.jpg
+2025-08-10 19:29:51,423 - INFO - Downloaded: johnny_depp_bing_0013.jpg
+2025-08-10 19:29:51,516 - INFO - Downloaded: johnny_depp_bing_0012.jpg
+2025-08-10 19:29:51,677 - INFO - Downloaded: johnny_depp_bing_0011.jpg
+2025-08-10 19:29:51,715 - INFO - Downloaded: johnny_depp_bing_0010.jpg
+2025-08-10 19:29:51,833 - INFO - Downloaded: johnny_depp_bing_0015.jpg
+2025-08-10 19:29:51,908 - INFO - Downloaded: johnny_depp_bing_0017.jpg
+2025-08-10 19:29:51,942 - INFO - Downloaded: johnny_depp_bing_0014.jpg
+2025-08-10 19:29:52,042 - INFO - Downloaded: johnny_depp_bing_0018.jpg
+2025-08-10 19:29:52,155 - INFO - Downloaded: johnny_depp_bing_0001.jpg
+2025-08-10 19:29:52,161 - INFO - Downloaded: johnny_depp_bing_0019.jpg
+2025-08-10 19:29:52,204 - INFO - Downloaded: johnny_depp_bing_0021.jpg
+2025-08-10 19:29:52,321 - INFO - Downloaded: johnny_depp_bing_0024.jpg
+2025-08-10 19:29:52,352 - ERROR - Error downloading https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ej0YK.img?w=768&h=384&m=6&x=226&y=57&s=188&d=188: 404 Client Error: Not Found for url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ej0YK.img?w=768&h=384&m=6&x=226&y=57&s=188&d=188
+2025-08-10 19:29:52,426 - INFO - Downloaded: johnny_depp_bing_0016.jpg
+2025-08-10 19:29:52,441 - INFO - Downloaded: johnny_depp_bing_0022.jpg
+2025-08-10 19:29:52,534 - INFO - Downloaded: johnny_depp_bing_0025.jpg
+2025-08-10 19:29:52,563 - INFO - Downloaded: johnny_depp_bing_0026.jpg
+2025-08-10 19:29:52,607 - INFO - Downloaded: johnny_depp_bing_0028.jpg
+2025-08-10 19:29:52,738 - WARNING - Invalid image: https://media1.tenor.com/m/h8XotyArwcoAAAAd/johnny-depp-ichabod-crane.gif
+2025-08-10 19:29:52,781 - INFO - Downloaded: johnny_depp_bing_0027.jpg
+2025-08-10 19:29:52,873 - INFO - Downloaded: johnny_depp_bing_0032.jpg
+2025-08-10 19:29:53,034 - INFO - Downloaded: johnny_depp_bing_0030.jpg
+2025-08-10 19:29:53,077 - INFO - Downloaded: johnny_depp_bing_0033.jpg
+2025-08-10 19:29:53,776 - INFO - Downloaded: johnny_depp_bing_0023.jpg
+2025-08-10 19:29:54,130 - INFO - Downloaded: johnny_depp_bing_0031.jpg
+2025-08-10 19:29:56,231 - INFO - Starting scrape for: Zendaya
+2025-08-10 19:29:56,829 - INFO - Found 33 image URLs from Bing Images for Zendaya
+2025-08-10 19:29:56,829 - INFO - Source bing: Found 33 images for Zendaya
+2025-08-10 19:29:59,266 - INFO - Found 0 image URLs from DuckDuckGo for Zendaya
+2025-08-10 19:29:59,267 - INFO - Source duckduckgo: Found 0 images for Zendaya
+2025-08-10 19:30:04,359 - INFO - Google Images response status: 200
+2025-08-10 19:30:04,451 - INFO - Found 0 image URLs from Google Images for Zendaya
+2025-08-10 19:30:04,451 - INFO - Source google: Found 0 images for Zendaya
+2025-08-10 19:30:06,451 - INFO - Total images found for Zendaya: 33
+2025-08-10 19:30:06,718 - INFO - Downloaded: zendaya_bing_0003.jpg
+2025-08-10 19:30:06,929 - INFO - Downloaded: zendaya_bing_0004.jpg
+2025-08-10 19:30:06,953 - INFO - Downloaded: zendaya_bing_0002.jpg
+2025-08-10 19:30:06,977 - INFO - Downloaded: zendaya_bing_0006.jpg
+2025-08-10 19:30:07,129 - INFO - Downloaded: zendaya_bing_0005.jpg
+2025-08-10 19:30:07,190 - INFO - Downloaded: zendaya_bing_0008.jpg
+2025-08-10 19:30:07,323 - INFO - Downloaded: zendaya_bing_0009.jpg
+2025-08-10 19:30:07,371 - INFO - Downloaded: zendaya_bing_0010.jpg
+2025-08-10 19:30:07,567 - INFO - Downloaded: zendaya_bing_0012.jpg
+2025-08-10 19:30:08,203 - INFO - Downloaded: zendaya_bing_0007.jpg
+2025-08-10 19:30:08,296 - INFO - Downloaded: zendaya_bing_0013.jpg
+2025-08-10 19:30:08,527 - INFO - Downloaded: zendaya_bing_0015.jpg
+2025-08-10 19:30:08,608 - INFO - Downloaded: zendaya_bing_0014.jpg
+2025-08-10 19:30:08,685 - INFO - Downloaded: zendaya_bing_0016.jpg
+2025-08-10 19:30:08,828 - INFO - Downloaded: zendaya_bing_0017.jpg
+2025-08-10 19:30:09,005 - INFO - Downloaded: zendaya_bing_0011.jpg
+2025-08-10 19:30:09,214 - INFO - Downloaded: zendaya_bing_0019.jpg
+2025-08-10 19:30:09,406 - INFO - Downloaded: zendaya_bing_0022.jpg
+2025-08-10 19:30:09,409 - INFO - Downloaded: zendaya_bing_0021.jpg
+2025-08-10 19:30:09,691 - INFO - Downloaded: zendaya_bing_0024.jpg
+2025-08-10 19:30:09,944 - INFO - Downloaded: zendaya_bing_0025.jpg
+2025-08-10 19:30:10,280 - INFO - Downloaded: zendaya_bing_0020.jpg
+2025-08-10 19:30:10,321 - INFO - Downloaded: zendaya_bing_0023.jpg
+2025-08-10 19:30:10,686 - INFO - Downloaded: zendaya_bing_0026.jpg
+2025-08-10 19:30:10,731 - INFO - Downloaded: zendaya_bing_0028.jpg
+2025-08-10 19:30:10,958 - INFO - Downloaded: zendaya_bing_0027.jpg
+2025-08-10 19:30:11,062 - INFO - Downloaded: zendaya_bing_0030.jpg
+2025-08-10 19:30:11,378 - INFO - Downloaded: zendaya_bing_0029.jpg
+2025-08-10 19:30:11,875 - INFO - Downloaded: zendaya_bing_0032.jpg
+2025-08-10 19:30:12,236 - INFO - Downloaded: zendaya_bing_0033.jpg
+2025-08-10 19:30:14,891 - INFO - Downloaded: zendaya_bing_0031.jpg
+2025-08-10 19:30:26,543 - ERROR - Error downloading https://zoomboola.com/images/catalog/2022/2/zendaya_86.jpg: HTTPSConnectionPool(host='zoomboola.com', port=443): Max retries exceeded with url: /images/catalog/2022/2/zendaya_86.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x790b8254e4e0>, 'Connection to zoomboola.com timed out. (connect timeout=10)'))
+2025-08-10 19:30:28,633 - ERROR - Error downloading https://www.hawtcelebs.com/wp-content/uploads/2017/10/zendaya-coleman-at-glsen-respect-awards-in-los-angeles-10-20-2017-5.jpg: HTTPSConnectionPool(host='www.hawtcelebs.com', port=443): Max retries exceeded with url: /wp-content/uploads/2017/10/zendaya-coleman-at-glsen-respect-awards-in-los-angeles-10-20-2017-5.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x790b82ed50d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:45:15,230 - INFO - Starting scrape for: Maria Sharapova
+2025-08-10 19:45:16,296 - INFO - Found 35 image URLs from Bing Images for Maria Sharapova
+2025-08-10 19:45:16,296 - INFO - Source bing: Found 35 images for Maria Sharapova
+2025-08-10 19:45:18,727 - INFO - Found 0 image URLs from DuckDuckGo for Maria Sharapova
+2025-08-10 19:45:18,727 - INFO - Source duckduckgo: Found 0 images for Maria Sharapova
+2025-08-10 19:45:24,978 - INFO - Google Images response status: 200
+2025-08-10 19:45:25,141 - INFO - Found 0 image URLs from Google Images for Maria Sharapova
+2025-08-10 19:45:25,141 - INFO - Source google: Found 0 images for Maria Sharapova
+2025-08-10 19:45:27,141 - INFO - Total images found for Maria Sharapova: 35
+2025-08-10 19:45:27,460 - INFO - Downloaded: maria_sharapova_bing_0003.jpg
+2025-08-10 19:45:27,613 - INFO - Downloaded: maria_sharapova_bing_0002.jpg
+2025-08-10 19:45:27,688 - INFO - Downloaded: maria_sharapova_bing_0001.jpg
+2025-08-10 19:45:27,688 - INFO - Downloaded: maria_sharapova_bing_0004.jpg
+2025-08-10 19:45:27,696 - INFO - Downloaded: maria_sharapova_bing_0006.jpg
+2025-08-10 19:45:27,952 - INFO - Downloaded: maria_sharapova_bing_0005.jpg
+2025-08-10 19:45:27,956 - INFO - Downloaded: maria_sharapova_bing_0010.jpg
+2025-08-10 19:45:28,382 - INFO - Downloaded: maria_sharapova_bing_0012.jpg
+2025-08-10 19:45:28,427 - INFO - Downloaded: maria_sharapova_bing_0007.jpg
+2025-08-10 19:45:28,636 - INFO - Downloaded: maria_sharapova_bing_0014.jpg
+2025-08-10 19:45:28,647 - INFO - Downloaded: maria_sharapova_bing_0011.jpg
+2025-08-10 19:45:28,792 - INFO - Downloaded: maria_sharapova_bing_0008.jpg
+2025-08-10 19:45:28,892 - INFO - Downloaded: maria_sharapova_bing_0009.jpg
+2025-08-10 19:45:28,933 - INFO - Downloaded: maria_sharapova_bing_0013.jpg
+2025-08-10 19:45:29,265 - INFO - Downloaded: maria_sharapova_bing_0018.jpg
+2025-08-10 19:45:29,705 - INFO - Downloaded: maria_sharapova_bing_0019.jpg
+2025-08-10 19:45:29,765 - INFO - Downloaded: maria_sharapova_bing_0017.jpg
+2025-08-10 19:45:29,956 - INFO - Downloaded: maria_sharapova_bing_0016.jpg
+2025-08-10 19:45:30,070 - INFO - Downloaded: maria_sharapova_bing_0021.jpg
+2025-08-10 19:45:30,083 - INFO - Downloaded: maria_sharapova_bing_0022.jpg
+2025-08-10 19:45:30,189 - INFO - Downloaded: maria_sharapova_bing_0020.jpg
+2025-08-10 19:45:30,529 - INFO - Downloaded: maria_sharapova_bing_0025.jpg
+2025-08-10 19:45:31,102 - INFO - Downloaded: maria_sharapova_bing_0026.jpg
+2025-08-10 19:45:31,229 - INFO - Downloaded: maria_sharapova_bing_0023.jpg
+2025-08-10 19:45:31,345 - INFO - Downloaded: maria_sharapova_bing_0024.jpg
+2025-08-10 19:45:31,467 - INFO - Downloaded: maria_sharapova_bing_0028.jpg
+2025-08-10 19:45:31,557 - INFO - Downloaded: maria_sharapova_bing_0030.jpg
+2025-08-10 19:45:31,607 - INFO - Downloaded: maria_sharapova_bing_0029.jpg
+2025-08-10 19:45:31,727 - INFO - Downloaded: maria_sharapova_bing_0032.jpg
+2025-08-10 19:45:32,024 - INFO - Downloaded: maria_sharapova_bing_0034.jpg
+2025-08-10 19:45:32,074 - INFO - Downloaded: maria_sharapova_bing_0027.jpg
+2025-08-10 19:45:32,236 - INFO - Downloaded: maria_sharapova_bing_0033.jpg
+2025-08-10 19:45:32,298 - INFO - Downloaded: maria_sharapova_bing_0035.jpg
+2025-08-10 19:45:32,434 - INFO - Downloaded: maria_sharapova_bing_0031.jpg
+2025-08-10 19:45:48,849 - ERROR - Error downloading https://www.hawtcelebs.com/wp-content/uploads/2024/04/maria-sharapova-at-10th-breakthrough-prize-ceremony-in-los-angeles-04-13-2024-3.jpg: HTTPSConnectionPool(host='www.hawtcelebs.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/maria-sharapova-at-10th-breakthrough-prize-ceremony-in-los-angeles-04-13-2024-3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7504cd4bee70>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:45:50,951 - INFO - Starting scrape for: Roger Federer
+2025-08-10 19:45:52,345 - INFO - Found 35 image URLs from Bing Images for Roger Federer
+2025-08-10 19:45:52,345 - INFO - Source bing: Found 35 images for Roger Federer
+2025-08-10 19:45:54,793 - INFO - Found 0 image URLs from DuckDuckGo for Roger Federer
+2025-08-10 19:45:54,793 - INFO - Source duckduckgo: Found 0 images for Roger Federer
+2025-08-10 19:46:00,115 - INFO - Google Images response status: 200
+2025-08-10 19:46:00,294 - INFO - Found 0 image URLs from Google Images for Roger Federer
+2025-08-10 19:46:00,294 - INFO - Source google: Found 0 images for Roger Federer
+2025-08-10 19:46:02,294 - INFO - Total images found for Roger Federer: 35
+2025-08-10 19:46:02,780 - INFO - Downloaded: roger_federer_bing_0004.jpg
+2025-08-10 19:46:03,000 - INFO - Downloaded: roger_federer_bing_0002.jpg
+2025-08-10 19:46:03,027 - INFO - Downloaded: roger_federer_bing_0003.jpg
+2025-08-10 19:46:03,111 - INFO - Downloaded: roger_federer_bing_0006.jpg
+2025-08-10 19:46:03,290 - INFO - Downloaded: roger_federer_bing_0008.jpg
+2025-08-10 19:46:03,387 - INFO - Downloaded: roger_federer_bing_0005.jpg
+2025-08-10 19:46:03,666 - INFO - Downloaded: roger_federer_bing_0010.jpg
+2025-08-10 19:46:03,697 - INFO - Downloaded: roger_federer_bing_0011.jpg
+2025-08-10 19:46:03,743 - INFO - Downloaded: roger_federer_bing_0009.jpg
+2025-08-10 19:46:03,920 - INFO - Downloaded: roger_federer_bing_0012.jpg
+2025-08-10 19:46:04,291 - INFO - Downloaded: roger_federer_bing_0013.jpg
+2025-08-10 19:46:04,566 - INFO - Downloaded: roger_federer_bing_0016.jpg
+2025-08-10 19:46:04,598 - INFO - Downloaded: roger_federer_bing_0015.jpg
+2025-08-10 19:46:04,678 - INFO - Downloaded: roger_federer_bing_0014.jpg
+2025-08-10 19:46:05,015 - INFO - Downloaded: roger_federer_bing_0007.jpg
+2025-08-10 19:46:05,023 - INFO - Downloaded: roger_federer_bing_0018.jpg
+2025-08-10 19:46:05,151 - INFO - Downloaded: roger_federer_bing_0001.jpg
+2025-08-10 19:46:05,246 - INFO - Downloaded: roger_federer_bing_0020.jpg
+2025-08-10 19:46:05,274 - INFO - Downloaded: roger_federer_bing_0019.jpg
+2025-08-10 19:46:05,377 - INFO - Downloaded: roger_federer_bing_0017.jpg
+2025-08-10 19:46:05,577 - INFO - Downloaded: roger_federer_bing_0022.jpg
+2025-08-10 19:46:05,769 - INFO - Downloaded: roger_federer_bing_0021.jpg
+2025-08-10 19:46:05,957 - INFO - Downloaded: roger_federer_bing_0026.jpg
+2025-08-10 19:46:05,973 - INFO - Downloaded: roger_federer_bing_0023.jpg
+2025-08-10 19:46:06,214 - INFO - Downloaded: roger_federer_bing_0025.jpg
+2025-08-10 19:46:06,307 - INFO - Downloaded: roger_federer_bing_0027.jpg
+2025-08-10 19:46:06,388 - INFO - Downloaded: roger_federer_bing_0024.jpg
+2025-08-10 19:46:06,521 - INFO - Downloaded: roger_federer_bing_0030.jpg
+2025-08-10 19:46:06,599 - INFO - Downloaded: roger_federer_bing_0029.jpg
+2025-08-10 19:46:07,305 - INFO - Downloaded: roger_federer_bing_0028.jpg
+2025-08-10 19:46:07,428 - INFO - Downloaded: roger_federer_bing_0034.jpg
+2025-08-10 19:46:07,475 - INFO - Downloaded: roger_federer_bing_0032.jpg
+2025-08-10 19:46:07,553 - INFO - Downloaded: roger_federer_bing_0033.jpg
+2025-08-10 19:46:07,853 - INFO - Downloaded: roger_federer_bing_0035.jpg
+2025-08-10 19:46:09,140 - INFO - Downloaded: roger_federer_bing_0031.jpg
+2025-08-10 19:46:11,243 - INFO - Starting scrape for: Serena Williams
+2025-08-10 19:46:11,989 - INFO - Found 35 image URLs from Bing Images for Serena Williams
+2025-08-10 19:46:11,989 - INFO - Source bing: Found 35 images for Serena Williams
+2025-08-10 19:46:14,391 - INFO - Found 0 image URLs from DuckDuckGo for Serena Williams
+2025-08-10 19:46:14,391 - INFO - Source duckduckgo: Found 0 images for Serena Williams
+2025-08-10 19:46:20,628 - INFO - Google Images response status: 200
+2025-08-10 19:46:20,752 - INFO - Found 0 image URLs from Google Images for Serena Williams
+2025-08-10 19:46:20,752 - INFO - Source google: Found 0 images for Serena Williams
+2025-08-10 19:46:22,753 - INFO - Total images found for Serena Williams: 35
+2025-08-10 19:46:23,472 - INFO - Downloaded: serena_williams_bing_0002.jpg
+2025-08-10 19:46:23,513 - INFO - Downloaded: serena_williams_bing_0004.jpg
+2025-08-10 19:46:23,681 - INFO - Downloaded: serena_williams_bing_0006.jpg
+2025-08-10 19:46:23,779 - INFO - Downloaded: serena_williams_bing_0001.jpg
+2025-08-10 19:46:23,963 - INFO - Downloaded: serena_williams_bing_0003.jpg
+2025-08-10 19:46:24,100 - INFO - Downloaded: serena_williams_bing_0007.jpg
+2025-08-10 19:46:24,208 - INFO - Downloaded: serena_williams_bing_0005.jpg
+2025-08-10 19:46:24,374 - INFO - Downloaded: serena_williams_bing_0011.jpg
+2025-08-10 19:46:24,702 - INFO - Downloaded: serena_williams_bing_0012.jpg
+2025-08-10 19:46:25,037 - INFO - Downloaded: serena_williams_bing_0014.jpg
+2025-08-10 19:46:25,204 - INFO - Downloaded: serena_williams_bing_0009.jpg
+2025-08-10 19:46:25,245 - INFO - Downloaded: serena_williams_bing_0013.jpg
+2025-08-10 19:46:25,318 - INFO - Downloaded: serena_williams_bing_0010.jpg
+2025-08-10 19:46:25,415 - INFO - Downloaded: serena_williams_bing_0008.jpg
+2025-08-10 19:46:25,430 - INFO - Downloaded: serena_williams_bing_0015.jpg
+2025-08-10 19:46:25,729 - INFO - Downloaded: serena_williams_bing_0020.jpg
+2025-08-10 19:46:25,896 - ERROR - Error downloading https://pics.filmaffinity.com/serena_williams-221656242088417-nm_large.jpg: 403 Client Error: Forbidden for url: https://pics.filmaffinity.com/serena_williams-221656242088417-nm_large.jpg
+2025-08-10 19:46:26,191 - INFO - Downloaded: serena_williams_bing_0017.jpg
+2025-08-10 19:46:26,399 - INFO - Downloaded: serena_williams_bing_0018.jpg
+2025-08-10 19:46:26,732 - INFO - Downloaded: serena_williams_bing_0019.jpg
+2025-08-10 19:46:26,733 - INFO - Downloaded: serena_williams_bing_0016.jpg
+2025-08-10 19:46:26,801 - INFO - Downloaded: serena_williams_bing_0023.jpg
+2025-08-10 19:46:26,871 - INFO - Downloaded: serena_williams_bing_0024.jpg
+2025-08-10 19:46:27,135 - INFO - Downloaded: serena_williams_bing_0028.jpg
+2025-08-10 19:46:27,486 - INFO - Downloaded: serena_williams_bing_0025.jpg
+2025-08-10 19:46:27,595 - INFO - Downloaded: serena_williams_bing_0027.jpg
+2025-08-10 19:46:27,792 - INFO - Downloaded: serena_williams_bing_0030.jpg
+2025-08-10 19:46:28,215 - INFO - Downloaded: serena_williams_bing_0032.jpg
+2025-08-10 19:46:28,233 - INFO - Downloaded: serena_williams_bing_0031.jpg
+2025-08-10 19:46:28,238 - INFO - Downloaded: serena_williams_bing_0026.jpg
+2025-08-10 19:46:28,538 - INFO - Downloaded: serena_williams_bing_0033.jpg
+2025-08-10 19:46:28,589 - INFO - Downloaded: serena_williams_bing_0035.jpg
+2025-08-10 19:46:28,622 - INFO - Downloaded: serena_williams_bing_0034.jpg
+2025-08-10 19:46:29,228 - INFO - Downloaded: serena_williams_bing_0029.jpg
+2025-08-10 19:46:45,964 - ERROR - Error downloading https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/watermark:Picture:+Proshots/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/tennisuptodate.com/images/2023-12/williams-serena-miami2014.jpg: HTTPSConnectionPool(host='r.testifier.nl', port=443): Max retries exceeded with url: /Acbs8526SDKI/resizing_type:fill/watermark:Picture:+Proshots/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/tennisuptodate.com/images/2023-12/williams-serena-miami2014.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7504cd4aa210>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-08-10 19:46:48,067 - INFO - Starting scrape for: Virat Kohli
+2025-08-10 19:46:48,775 - INFO - Found 50 image URLs from Bing Images for Virat Kohli
+2025-08-10 19:46:48,775 - INFO - Source bing: Found 50 images for Virat Kohli
+2025-08-10 19:46:51,515 - INFO - Found 0 image URLs from DuckDuckGo for Virat Kohli
+2025-08-10 19:46:51,515 - INFO - Source duckduckgo: Found 0 images for Virat Kohli
+2025-08-10 19:46:57,590 - INFO - Google Images response status: 200
+2025-08-10 19:46:57,730 - INFO - Found 0 image URLs from Google Images for Virat Kohli
+2025-08-10 19:46:57,731 - INFO - Source google: Found 0 images for Virat Kohli
+2025-08-10 19:46:59,731 - INFO - Total images found for Virat Kohli: 50
+2025-08-10 19:46:59,960 - INFO - Downloaded: virat_kohli_bing_0004.jpg
+2025-08-10 19:47:00,068 - INFO - Downloaded: virat_kohli_bing_0002.jpg
+2025-08-10 19:47:00,243 - INFO - Downloaded: virat_kohli_bing_0005.jpg
+2025-08-10 19:47:00,309 - INFO - Downloaded: virat_kohli_bing_0003.jpg
+2025-08-10 19:47:00,395 - ERROR - Error downloading https://c.ndtvimg.com/2023-09/dcaivno8_virat-kohli-afp_625x300_12_September_23.jpg?im=FaceCrop: 403 Client Error: Forbidden for url: https://c.ndtvimg.com/2023-09/dcaivno8_virat-kohli-afp_625x300_12_September_23.jpg?im=FaceCrop
+2025-08-10 19:47:00,517 - INFO - Downloaded: virat_kohli_bing_0010.jpg
+2025-08-10 19:47:00,560 - INFO - Downloaded: virat_kohli_bing_0007.jpg
+2025-08-10 19:47:00,615 - INFO - Downloaded: virat_kohli_bing_0009.jpg
+2025-08-10 19:47:00,740 - INFO - Downloaded: virat_kohli_bing_0001.jpg
+2025-08-10 19:47:01,520 - INFO - Downloaded: virat_kohli_bing_0014.jpg
+2025-08-10 19:47:01,917 - INFO - Downloaded: virat_kohli_bing_0015.jpg
+2025-08-10 19:47:01,980 - INFO - Downloaded: virat_kohli_bing_0006.jpg
+2025-08-10 19:47:02,053 - INFO - Downloaded: virat_kohli_bing_0013.jpg
+2025-08-10 19:47:02,077 - INFO - Downloaded: virat_kohli_bing_0012.jpg
+2025-08-10 19:47:02,080 - INFO - Downloaded: virat_kohli_bing_0011.jpg
+2025-08-10 19:47:02,337 - INFO - Downloaded: virat_kohli_bing_0019.jpg
+2025-08-10 19:47:02,449 - INFO - Downloaded: virat_kohli_bing_0016.jpg
+2025-08-10 19:47:02,650 - INFO - Downloaded: virat_kohli_bing_0021.jpg
+2025-08-10 19:47:02,677 - INFO - Downloaded: virat_kohli_bing_0020.jpg
+2025-08-10 19:47:02,697 - INFO - Downloaded: virat_kohli_bing_0018.jpg
+2025-08-10 19:47:02,837 - INFO - Downloaded: virat_kohli_bing_0025.jpg
+2025-08-10 19:47:03,076 - INFO - Downloaded: virat_kohli_bing_0026.jpg
+2025-08-10 19:47:03,626 - INFO - Downloaded: virat_kohli_bing_0023.jpg
+2025-08-10 19:47:03,649 - INFO - Downloaded: virat_kohli_bing_0027.jpg
+2025-08-10 19:47:03,914 - INFO - Downloaded: virat_kohli_bing_0022.jpg
+2025-08-10 19:47:03,989 - INFO - Downloaded: virat_kohli_bing_0030.jpg
+2025-08-10 19:47:04,008 - INFO - Downloaded: virat_kohli_bing_0028.jpg
+2025-08-10 19:47:04,012 - INFO - Downloaded: virat_kohli_bing_0024.jpg
+2025-08-10 19:47:04,273 - INFO - Downloaded: virat_kohli_bing_0032.jpg
+2025-08-10 19:47:04,420 - INFO - Downloaded: virat_kohli_bing_0031.jpg
+2025-08-10 19:47:04,507 - INFO - Downloaded: virat_kohli_bing_0033.jpg
+2025-08-10 19:47:05,343 - INFO - Downloaded: virat_kohli_bing_0035.jpg
+2025-08-10 19:47:05,636 - INFO - Downloaded: virat_kohli_bing_0034.jpg
+2025-08-10 19:47:05,819 - INFO - Downloaded: virat_kohli_bing_0036.jpg
+2025-08-10 19:47:06,135 - INFO - Downloaded: virat_kohli_bing_0038.jpg
+2025-08-10 19:47:07,189 - INFO - Downloaded: virat_kohli_bing_0037.jpg
+2025-08-10 19:47:07,383 - INFO - Downloaded: virat_kohli_bing_0039.jpg
+2025-08-10 19:47:07,788 - INFO - Downloaded: virat_kohli_bing_0040.jpg
+2025-08-10 19:47:08,065 - INFO - Downloaded: virat_kohli_bing_0043.jpg
+2025-08-10 19:47:08,355 - INFO - Downloaded: virat_kohli_bing_0041.jpg
+2025-08-10 19:47:08,485 - INFO - Downloaded: virat_kohli_bing_0042.jpg
+2025-08-10 19:47:08,694 - INFO - Downloaded: virat_kohli_bing_0044.jpg
+2025-08-10 19:47:08,755 - INFO - Downloaded: virat_kohli_bing_0046.jpg
+2025-08-10 19:47:08,983 - INFO - Downloaded: virat_kohli_bing_0045.jpg
+2025-08-10 19:47:09,161 - INFO - Downloaded: virat_kohli_bing_0047.jpg
+2025-08-10 19:47:09,386 - INFO - Downloaded: virat_kohli_bing_0049.jpg
+2025-08-10 19:47:09,719 - WARNING - Invalid image: https://preview.redd.it/eighty-international-centuries-for-virat-kohli-v0-lurn92dc8i0c1.png?auto=webp&s=558af163ed04ea82ab4a228187a5b092ab59d228
+2025-08-10 19:47:10,236 - INFO - Downloaded: virat_kohli_bing_0048.jpg
+2025-08-10 19:47:13,954 - INFO - Downloaded: virat_kohli_bing_0029.jpg
+2025-08-10 19:47:22,070 - ERROR - Error downloading https://thecricketlounge.com/wp-content/uploads/2023/09/Explained-Virat-Kohlis-12-Tattoos-And-Their-Meanings--768x403.webp: HTTPSConnectionPool(host='thecricketlounge.com', port=443): Max retries exceeded with url: /wp-content/uploads/2023/09/Explained-Virat-Kohlis-12-Tattoos-And-Their-Meanings--768x403.webp (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7504c6d3c0e0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
